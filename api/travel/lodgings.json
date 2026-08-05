@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T03:17:27",
+  "generatedAt": "2026-08-06T05:40:30",
   "kind": "lodgings",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 505,
@@ -3261,6 +3261,11 @@
       "mapX": "129.0640801887",
       "mapY": "35.1580060259",
       "image": "http://tong.visitkorea.or.kr/cms/resource/49/3476749_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3283,6 +3288,11 @@
       "mapX": "129.1817794758",
       "mapY": "35.3161515953",
       "image": "http://tong.visitkorea.or.kr/cms/resource/82/3028482_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3305,6 +3315,11 @@
       "mapX": "129.1531418525",
       "mapY": "35.1592408683",
       "image": "http://tong.visitkorea.or.kr/cms/resource/16/2754616_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3327,6 +3342,11 @@
       "mapX": "129.0426359082",
       "mapY": "35.1186044863",
       "image": "http://tong.visitkorea.or.kr/cms/resource/55/2595455_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3349,6 +3369,11 @@
       "mapX": "129.1665100882",
       "mapY": "35.1609381479",
       "image": "http://tong.visitkorea.or.kr/cms/resource/20/2705420_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3371,6 +3396,11 @@
       "mapX": "129.0559892441",
       "mapY": "35.1573337296",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/3019302_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3393,6 +3423,11 @@
       "mapX": "129.1622688032",
       "mapY": "35.1604686777",
       "image": "http://tong.visitkorea.or.kr/cms/resource/09/3544809_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3415,6 +3450,11 @@
       "mapX": "129.0097699096",
       "mapY": "35.0970840680",
       "image": "http://tong.visitkorea.or.kr/cms/resource/96/2571096_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3437,6 +3477,11 @@
       "mapX": "129.2005509870",
       "mapY": "35.1822391732",
       "image": "http://tong.visitkorea.or.kr/cms/resource/06/2573206_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3459,6 +3504,11 @@
       "mapX": "129.1684043635",
       "mapY": "35.1611020536",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/2736074_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3481,6 +3531,11 @@
       "mapX": "128.9727742061",
       "mapY": "35.0573878305",
       "image": "http://tong.visitkorea.or.kr/cms/resource/32/2709432_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3503,6 +3558,11 @@
       "mapX": "128.9052901222",
       "mapY": "35.0967044145",
       "image": "http://tong.visitkorea.or.kr/cms/resource/10/2714410_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3525,6 +3585,11 @@
       "mapX": "129.1612660580",
       "mapY": "35.1624489933",
       "image": "http://tong.visitkorea.or.kr/cms/resource/37/3012137_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3547,6 +3612,11 @@
       "mapX": "129.0397363452",
       "mapY": "35.1118468560",
       "image": "http://tong.visitkorea.or.kr/cms/resource/62/2892562_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3569,6 +3639,11 @@
       "mapX": "129.0365232086",
       "mapY": "35.0945070713",
       "image": "http://tong.visitkorea.or.kr/cms/resource/64/2568064_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3591,6 +3666,11 @@
       "mapX": "129.1631548469",
       "mapY": "35.1601048456",
       "image": "http://tong.visitkorea.or.kr/cms/resource/07/3529807_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3613,6 +3693,11 @@
       "mapX": "129.1328433813",
       "mapY": "35.1678506389",
       "image": "http://tong.visitkorea.or.kr/cms/resource/14/2719514_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3635,6 +3720,11 @@
       "mapX": "129.0384647425",
       "mapY": "35.0931822552",
       "image": "http://tong.visitkorea.or.kr/cms/resource/73/3028573_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3657,6 +3747,11 @@
       "mapX": "129.1641214339",
       "mapY": "35.1599409935",
       "image": "http://tong.visitkorea.or.kr/cms/resource/55/3510355_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3679,6 +3774,11 @@
       "mapX": "129.0618719415",
       "mapY": "35.1618722189",
       "image": "http://tong.visitkorea.or.kr/cms/resource/99/3509899_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3701,6 +3801,11 @@
       "mapX": "129.1245417048",
       "mapY": "35.1540103687",
       "image": "http://tong.visitkorea.or.kr/cms/resource/61/2815961_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3723,6 +3828,11 @@
       "mapX": "129.0248379298",
       "mapY": "35.1012588776",
       "image": "http://tong.visitkorea.or.kr/cms/resource/83/2808383_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3745,6 +3855,11 @@
       "mapX": "129.0815722951",
       "mapY": "35.1877669046",
       "image": "http://tong.visitkorea.or.kr/cms/resource/01/2640501_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3767,6 +3882,11 @@
       "mapX": "129.0446439572",
       "mapY": "35.1226151856",
       "image": "http://tong.visitkorea.or.kr/cms/resource/39/3095139_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3789,6 +3909,11 @@
       "mapX": "129.1567804158",
       "mapY": "35.1595992286",
       "image": "http://tong.visitkorea.or.kr/cms/resource/28/2808328_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3811,6 +3936,11 @@
       "mapX": "129.0427025928",
       "mapY": "35.1177518053",
       "image": "http://tong.visitkorea.or.kr/cms/resource/82/2804082_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3833,6 +3963,11 @@
       "mapX": "129.1584801742",
       "mapY": "35.1630016570",
       "image": "http://tong.visitkorea.or.kr/cms/resource/69/2816269_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3855,6 +3990,11 @@
       "mapX": "129.0297348037",
       "mapY": "35.0984231743",
       "image": "http://tong.visitkorea.or.kr/cms/resource/00/2708500_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3877,6 +4017,11 @@
       "mapX": "129.4292363071",
       "mapY": "35.4930641570",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/3587946_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3899,6 +4044,11 @@
       "mapX": "129.4306299415",
       "mapY": "35.5174531111",
       "image": "http://tong.visitkorea.or.kr/cms/resource/53/3586853_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3921,6 +4071,11 @@
       "mapX": "129.3495252826",
       "mapY": "35.5393407880",
       "image": "http://tong.visitkorea.or.kr/cms/resource/94/3579494_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3943,6 +4098,11 @@
       "mapX": "129.3291771106",
       "mapY": "35.5374489506",
       "image": "http://tong.visitkorea.or.kr/cms/resource/08/2723308_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3965,6 +4125,11 @@
       "mapX": "129.0598575408",
       "mapY": "35.5883742852",
       "image": "http://tong.visitkorea.or.kr/cms/resource/45/2994645_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3987,6 +4152,11 @@
       "mapX": "129.3773294441",
       "mapY": "35.5028009736",
       "image": "http://tong.visitkorea.or.kr/cms/resource/69/2709169_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4009,6 +4179,11 @@
       "mapX": "129.0087357678",
       "mapY": "35.5333684142",
       "image": "http://tong.visitkorea.or.kr/cms/resource/14/2576114_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4031,6 +4206,11 @@
       "mapX": "129.3467020260",
       "mapY": "35.3871855988",
       "image": "",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4053,6 +4233,11 @@
       "mapX": "129.3239660997",
       "mapY": "35.3519918977",
       "image": "",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4075,6 +4260,11 @@
       "mapX": "129.3330295849",
       "mapY": "35.5363019298",
       "image": "",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4097,6 +4287,11 @@
       "mapX": "129.4410870540",
       "mapY": "35.6263660659",
       "image": "",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4119,6 +4314,11 @@
       "mapX": "127.2398991344",
       "mapY": "36.5019762504",
       "image": "http://tong.visitkorea.or.kr/cms/resource/31/2594631_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "세종 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4141,6 +4341,11 @@
       "mapX": "127.1899356188",
       "mapY": "36.5510558482",
       "image": "http://tong.visitkorea.or.kr/cms/resource/56/2707656_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "세종 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4163,6 +4368,11 @@
       "mapX": "127.1899356188",
       "mapY": "36.5510558482",
       "image": "",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "세종 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4185,6 +4395,11 @@
       "mapX": "126.7495686111",
       "mapY": "37.5054655933",
       "image": "http://tong.visitkorea.or.kr/cms/resource/37/3573937_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4207,6 +4422,11 @@
       "mapX": "127.2350362796",
       "mapY": "37.7690853281",
       "image": "http://tong.visitkorea.or.kr/cms/resource/88/3573988_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4229,6 +4449,11 @@
       "mapX": "127.4766560979",
       "mapY": "37.9525433965",
       "image": "http://tong.visitkorea.or.kr/cms/resource/99/3574099_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4251,6 +4476,11 @@
       "mapX": "127.3457651901",
       "mapY": "37.8604267178",
       "image": "http://tong.visitkorea.or.kr/cms/resource/81/3574281_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4273,6 +4503,11 @@
       "mapX": "127.1955952724",
       "mapY": "37.9661533109",
       "image": "http://tong.visitkorea.or.kr/cms/resource/65/3573965_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4295,6 +4530,11 @@
       "mapX": "127.0313359700",
       "mapY": "37.2593352731",
       "image": "http://tong.visitkorea.or.kr/cms/resource/70/3562970_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4317,6 +4557,11 @@
       "mapX": "127.0286304415",
       "mapY": "37.2671509869",
       "image": "http://tong.visitkorea.or.kr/cms/resource/48/3562948_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4339,6 +4584,11 @@
       "mapX": "127.2167933722",
       "mapY": "37.2870909414",
       "image": "http://tong.visitkorea.or.kr/cms/resource/81/3562781_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4361,6 +4611,11 @@
       "mapX": "127.6610696584",
       "mapY": "37.2931427643",
       "image": "http://tong.visitkorea.or.kr/cms/resource/86/3562486_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4383,6 +4638,11 @@
       "mapX": "126.5896489527",
       "mapY": "37.2365745437",
       "image": "http://tong.visitkorea.or.kr/cms/resource/90/2530390_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4405,6 +4665,11 @@
       "mapX": "127.3392996346",
       "mapY": "37.9376370471",
       "image": "http://tong.visitkorea.or.kr/cms/resource/98/3555998_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4427,6 +4692,11 @@
       "mapX": "126.6870666950",
       "mapY": "37.7769217670",
       "image": "http://tong.visitkorea.or.kr/cms/resource/03/3556903_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4449,6 +4719,11 @@
       "mapX": "126.9246509483",
       "mapY": "37.9554107541",
       "image": "http://tong.visitkorea.or.kr/cms/resource/09/3556109_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4471,6 +4746,11 @@
       "mapX": "126.6877860556",
       "mapY": "37.7775578170",
       "image": "http://tong.visitkorea.or.kr/cms/resource/63/3556063_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4493,6 +4773,11 @@
       "mapX": "126.8917207624",
       "mapY": "37.8540830968",
       "image": "http://tong.visitkorea.or.kr/cms/resource/85/3556085_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4515,6 +4800,11 @@
       "mapX": "127.5711300660",
       "mapY": "37.5034445514",
       "image": "http://tong.visitkorea.or.kr/cms/resource/45/3556745_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4537,6 +4827,11 @@
       "mapX": "127.5655621712",
       "mapY": "37.4673153025",
       "image": "http://tong.visitkorea.or.kr/cms/resource/22/3556122_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4559,6 +4854,11 @@
       "mapX": "127.3764519134",
       "mapY": "37.6475103781",
       "image": "http://tong.visitkorea.or.kr/cms/resource/42/3556142_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4581,6 +4881,11 @@
       "mapX": "127.5378002481",
       "mapY": "37.5823375684",
       "image": "http://tong.visitkorea.or.kr/cms/resource/27/3556627_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4603,6 +4908,11 @@
       "mapX": "127.4900642500",
       "mapY": "37.4398448792",
       "image": "http://tong.visitkorea.or.kr/cms/resource/65/3556165_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4625,6 +4935,11 @@
       "mapX": "127.0279351773",
       "mapY": "37.2987056523",
       "image": "http://tong.visitkorea.or.kr/cms/resource/65/3555965_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4647,6 +4962,11 @@
       "mapX": "126.5566231535",
       "mapY": "37.2740585076",
       "image": "http://tong.visitkorea.or.kr/cms/resource/36/3549736_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4669,6 +4989,11 @@
       "mapX": "126.7945252330",
       "mapY": "37.8145609623",
       "image": "http://tong.visitkorea.or.kr/cms/resource/14/2568014_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4691,6 +5016,11 @@
       "mapX": "126.6962278583",
       "mapY": "37.6466871063",
       "image": "http://tong.visitkorea.or.kr/cms/resource/35/3535435_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4713,6 +5043,11 @@
       "mapX": "126.7989722064",
       "mapY": "37.3145441888",
       "image": "http://tong.visitkorea.or.kr/cms/resource/05/3535405_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4735,6 +5070,11 @@
       "mapX": "126.9834446399",
       "mapY": "37.2038214009",
       "image": "http://tong.visitkorea.or.kr/cms/resource/59/3081859_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4757,6 +5097,11 @@
       "mapX": "127.0732393122",
       "mapY": "37.2025509274",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/2716774_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4779,6 +5124,11 @@
       "mapX": "126.8387609237",
       "mapY": "37.1901676368",
       "image": "http://tong.visitkorea.or.kr/cms/resource/67/2721267_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4801,6 +5151,11 @@
       "mapX": "126.8772122746",
       "mapY": "37.1154602942",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/3081874_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4823,6 +5178,11 @@
       "mapX": "126.8828802140",
       "mapY": "37.1513923498",
       "image": "http://tong.visitkorea.or.kr/cms/resource/67/3081867_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4845,6 +5205,11 @@
       "mapX": "127.3606916905",
       "mapY": "37.9524357148",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/2738902_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4867,6 +5232,11 @@
       "mapX": "127.3559602890",
       "mapY": "37.9959805507",
       "image": "http://tong.visitkorea.or.kr/cms/resource/94/2705194_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4889,6 +5259,11 @@
       "mapX": "127.2754847021",
       "mapY": "38.1716196693",
       "image": "http://tong.visitkorea.or.kr/cms/resource/77/3003877_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4911,6 +5286,11 @@
       "mapX": "127.0454766915",
       "mapY": "37.0475211301",
       "image": "http://tong.visitkorea.or.kr/cms/resource/26/2877826_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4933,6 +5313,11 @@
       "mapX": "127.0456655694",
       "mapY": "37.0473017141",
       "image": "http://tong.visitkorea.or.kr/cms/resource/91/2875391_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4955,6 +5340,11 @@
       "mapX": "126.7587342224",
       "mapY": "37.8090442988",
       "image": "http://tong.visitkorea.or.kr/cms/resource/33/3084333_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4977,6 +5367,11 @@
       "mapX": "127.3639953703",
       "mapY": "37.2361078310",
       "image": "http://tong.visitkorea.or.kr/cms/resource/45/3023445_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4999,6 +5394,11 @@
       "mapX": "127.0451072325",
       "mapY": "37.7398186220",
       "image": "http://tong.visitkorea.or.kr/cms/resource/18/3091318_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",

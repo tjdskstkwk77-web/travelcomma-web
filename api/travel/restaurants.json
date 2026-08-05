@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T03:17:27",
+  "generatedAt": "2026-08-06T05:40:30",
   "kind": "restaurants",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 850,
@@ -1112,33 +1112,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2778821/"
     },
     {
-      "slug": "restaurants-seoul-2779132",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2779132",
-      "contentTypeId": "39",
-      "title": "악어떡볶이",
-      "name": "악어떡볶이",
-      "city": "서울",
-      "profileSlug": "seoul",
-      "region": "서울",
-      "address": "서울특별시 성동구 마조로 33 (행당동)",
-      "tel": "",
-      "mapX": "127.0411238134",
-      "mapY": "37.5607116039",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/14/3576214_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-seoul-2779132/"
-    },
-    {
       "slug": "restaurants-seoul-2778423",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -1353,6 +1326,33 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2757738/"
+    },
+    {
+      "slug": "restaurants-seoul-2758137",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2758137",
+      "contentTypeId": "39",
+      "title": "툇마루밥상",
+      "name": "툇마루밥상",
+      "city": "서울",
+      "profileSlug": "seoul",
+      "region": "서울",
+      "address": "서울특별시 송파구 송파대로 111 (문정동, 파크하비오) 205동 211호",
+      "tel": "",
+      "mapX": "127.1232269102",
+      "mapY": "37.4819416730",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/10/3573910_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-seoul-2758137/"
     },
     {
       "slug": "restaurants-incheon-601711",
@@ -3261,6 +3261,11 @@
       "mapX": "127.4063347990",
       "mapY": "36.3786544405",
       "image": "http://tong.visitkorea.or.kr/cms/resource/08/2899308_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3283,6 +3288,11 @@
       "mapX": "127.3769046272",
       "mapY": "36.3591894788",
       "image": "http://tong.visitkorea.or.kr/cms/resource/24/2866024_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3305,6 +3315,11 @@
       "mapX": "127.3441636557",
       "mapY": "36.3390911974",
       "image": "http://tong.visitkorea.or.kr/cms/resource/39/2735039_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3327,6 +3342,11 @@
       "mapX": "127.3441296734",
       "mapY": "36.3631801072",
       "image": "http://tong.visitkorea.or.kr/cms/resource/37/2915837_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3349,6 +3369,11 @@
       "mapX": "127.3482961390",
       "mapY": "36.3568253529",
       "image": "http://tong.visitkorea.or.kr/cms/resource/72/2915772_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3371,6 +3396,11 @@
       "mapX": "127.3912765906",
       "mapY": "36.4235934737",
       "image": "http://tong.visitkorea.or.kr/cms/resource/01/2915701_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3393,6 +3423,11 @@
       "mapX": "127.3399308116",
       "mapY": "36.3350082560",
       "image": "http://tong.visitkorea.or.kr/cms/resource/71/2915671_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3415,6 +3450,11 @@
       "mapX": "127.3472294776",
       "mapY": "36.3601693955",
       "image": "http://tong.visitkorea.or.kr/cms/resource/16/2913116_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3437,6 +3477,11 @@
       "mapX": "127.3514958385",
       "mapY": "36.3573531269",
       "image": "http://tong.visitkorea.or.kr/cms/resource/84/2912784_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3459,6 +3504,11 @@
       "mapX": "127.3459101875",
       "mapY": "36.3588278590",
       "image": "http://tong.visitkorea.or.kr/cms/resource/79/2912779_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3481,6 +3531,11 @@
       "mapX": "127.3392808045",
       "mapY": "36.3374163026",
       "image": "http://tong.visitkorea.or.kr/cms/resource/50/2912150_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3503,6 +3558,11 @@
       "mapX": "127.3800016913",
       "mapY": "36.3547817046",
       "image": "http://tong.visitkorea.or.kr/cms/resource/73/2865973_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3525,6 +3585,11 @@
       "mapX": "127.4441411272",
       "mapY": "36.2255087299",
       "image": "http://tong.visitkorea.or.kr/cms/resource/53/2899653_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3547,6 +3612,11 @@
       "mapX": "127.4665221062",
       "mapY": "36.4429092698",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/2899774_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3569,6 +3639,11 @@
       "mapX": "127.3683916032",
       "mapY": "36.3553592101",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/2899638_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3591,6 +3666,11 @@
       "mapX": "127.3235750115",
       "mapY": "36.2953708335",
       "image": "http://tong.visitkorea.or.kr/cms/resource/36/2899636_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3613,6 +3693,11 @@
       "mapX": "127.3344182266",
       "mapY": "36.3050032571",
       "image": "http://tong.visitkorea.or.kr/cms/resource/13/2899513_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3635,6 +3720,11 @@
       "mapX": "127.3712413835",
       "mapY": "36.3540649645",
       "image": "http://tong.visitkorea.or.kr/cms/resource/86/2899486_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3657,6 +3747,11 @@
       "mapX": "127.3772742008",
       "mapY": "36.3531873941",
       "image": "http://tong.visitkorea.or.kr/cms/resource/67/2899467_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3679,6 +3774,11 @@
       "mapX": "127.3770678034",
       "mapY": "36.3849059834",
       "image": "http://tong.visitkorea.or.kr/cms/resource/86/2899386_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3701,6 +3801,11 @@
       "mapX": "127.3087655308",
       "mapY": "36.3868073321",
       "image": "http://tong.visitkorea.or.kr/cms/resource/41/2899341_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3723,6 +3828,11 @@
       "mapX": "127.3852238385",
       "mapY": "36.4425273090",
       "image": "http://tong.visitkorea.or.kr/cms/resource/29/2899329_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3745,6 +3855,11 @@
       "mapX": "127.3944988712",
       "mapY": "36.4108394356",
       "image": "http://tong.visitkorea.or.kr/cms/resource/20/2899320_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3767,6 +3882,11 @@
       "mapX": "127.4926860804",
       "mapY": "36.3540699018",
       "image": "http://tong.visitkorea.or.kr/cms/resource/42/2899242_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3789,6 +3909,11 @@
       "mapX": "127.5035928610",
       "mapY": "36.3752648944",
       "image": "http://tong.visitkorea.or.kr/cms/resource/04/2866304_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3811,6 +3936,11 @@
       "mapX": "127.4594456240",
       "mapY": "36.3166680302",
       "image": "http://tong.visitkorea.or.kr/cms/resource/84/2866284_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3833,6 +3963,11 @@
       "mapX": "127.4492007007",
       "mapY": "36.3679536500",
       "image": "http://tong.visitkorea.or.kr/cms/resource/59/2866259_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3855,6 +3990,11 @@
       "mapX": "127.4352268877",
       "mapY": "36.3702531383",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/2866238_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3877,6 +4017,11 @@
       "mapX": "127.4296834974",
       "mapY": "36.4516742756",
       "image": "http://tong.visitkorea.or.kr/cms/resource/17/2866217_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3899,6 +4044,11 @@
       "mapX": "127.3805651984",
       "mapY": "36.3669830969",
       "image": "http://tong.visitkorea.or.kr/cms/resource/22/2865922_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3921,32 +4071,15 @@
       "mapX": "128.5811083574",
       "mapY": "35.8708640675",
       "image": "http://tong.visitkorea.or.kr/cms/resource/50/3578450_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-daegu-2366976/"
-    },
-    {
-      "slug": "restaurants-daegu-2850574",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2850574",
-      "contentTypeId": "39",
-      "title": "호남원조식당",
-      "name": "호남원조식당",
-      "city": "대구",
-      "profileSlug": "daegu",
-      "region": "대구",
-      "address": "대구광역시 서구 달구벌대로375길 26-1",
-      "tel": "",
-      "mapX": "128.5710233535",
-      "mapY": "35.8630064378",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/26/3577726_image2_1.jpg",
-      "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-daegu-2850574/"
     },
     {
       "slug": "restaurants-daegu-2866668",
@@ -3965,6 +4098,11 @@
       "mapX": "128.6362391871",
       "mapY": "35.9854132203",
       "image": "http://tong.visitkorea.or.kr/cms/resource/62/2866662_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -3987,6 +4125,11 @@
       "mapX": "128.5823393416",
       "mapY": "35.8515551649",
       "image": "http://tong.visitkorea.or.kr/cms/resource/12/2866512_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4009,6 +4152,11 @@
       "mapX": "128.5682847731",
       "mapY": "35.8605899946",
       "image": "http://tong.visitkorea.or.kr/cms/resource/61/2866461_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4031,6 +4179,11 @@
       "mapX": "128.5590864950",
       "mapY": "35.8277379879",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/2866602_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4053,6 +4206,11 @@
       "mapX": "128.6371493280",
       "mapY": "35.7182018092",
       "image": "http://tong.visitkorea.or.kr/cms/resource/24/3565524_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4075,6 +4233,11 @@
       "mapX": "128.6388707285",
       "mapY": "35.9419459731",
       "image": "http://tong.visitkorea.or.kr/cms/resource/82/2947382_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4097,6 +4260,11 @@
       "mapX": "128.6366279526",
       "mapY": "35.7895242941",
       "image": "http://tong.visitkorea.or.kr/cms/resource/35/2866635_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4119,6 +4287,11 @@
       "mapX": "128.5941682353",
       "mapY": "35.8738334166",
       "image": "http://tong.visitkorea.or.kr/cms/resource/52/3541952_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4141,6 +4314,11 @@
       "mapX": "128.6265887376",
       "mapY": "35.8330525192",
       "image": "http://tong.visitkorea.or.kr/cms/resource/86/2630286_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4163,6 +4341,11 @@
       "mapX": "128.6278940369",
       "mapY": "35.8381380787",
       "image": "http://tong.visitkorea.or.kr/cms/resource/35/2766735_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4185,6 +4368,11 @@
       "mapX": "128.5556439989",
       "mapY": "35.8685638593",
       "image": "http://tong.visitkorea.or.kr/cms/resource/34/2766734_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4207,6 +4395,11 @@
       "mapX": "128.5758617236",
       "mapY": "35.8663339279",
       "image": "http://tong.visitkorea.or.kr/cms/resource/96/2630296_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4229,6 +4422,11 @@
       "mapX": "128.5323326750",
       "mapY": "35.8501571809",
       "image": "http://tong.visitkorea.or.kr/cms/resource/83/2866583_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4251,6 +4449,11 @@
       "mapX": "128.5744259964",
       "mapY": "35.8570905037",
       "image": "http://tong.visitkorea.or.kr/cms/resource/03/2866503_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4273,6 +4476,11 @@
       "mapX": "128.6417253208",
       "mapY": "35.8679849568",
       "image": "http://tong.visitkorea.or.kr/cms/resource/69/2856369_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4295,6 +4503,11 @@
       "mapX": "128.6223609690",
       "mapY": "35.8460870775",
       "image": "http://tong.visitkorea.or.kr/cms/resource/97/2849997_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4317,6 +4530,11 @@
       "mapX": "128.6168556088",
       "mapY": "35.8564885763",
       "image": "http://tong.visitkorea.or.kr/cms/resource/93/2846293_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4339,6 +4557,11 @@
       "mapX": "128.6333846593",
       "mapY": "35.8582664578",
       "image": "http://tong.visitkorea.or.kr/cms/resource/50/2846250_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4361,6 +4584,11 @@
       "mapX": "128.6225404072",
       "mapY": "35.9849907922",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/2846146_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4383,6 +4611,11 @@
       "mapX": "128.6029041326",
       "mapY": "35.8538719483",
       "image": "http://tong.visitkorea.or.kr/cms/resource/58/2845858_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4405,6 +4638,11 @@
       "mapX": "128.6427609590",
       "mapY": "35.7818474976",
       "image": "http://tong.visitkorea.or.kr/cms/resource/31/2841831_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4427,6 +4665,11 @@
       "mapX": "128.4460194175",
       "mapY": "35.7000503569",
       "image": "http://tong.visitkorea.or.kr/cms/resource/60/2841760_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4449,6 +4692,11 @@
       "mapX": "128.5668300222",
       "mapY": "35.9360675298",
       "image": "http://tong.visitkorea.or.kr/cms/resource/71/2840671_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4471,6 +4719,11 @@
       "mapX": "128.6341955187",
       "mapY": "35.8647379623",
       "image": "http://tong.visitkorea.or.kr/cms/resource/48/2766648_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4493,6 +4746,11 @@
       "mapX": "128.4955038986",
       "mapY": "35.7019954858",
       "image": "http://tong.visitkorea.or.kr/cms/resource/77/2766677_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4515,6 +4773,11 @@
       "mapX": "128.5752071716",
       "mapY": "35.8322822149",
       "image": "http://tong.visitkorea.or.kr/cms/resource/05/2766705_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4537,6 +4800,11 @@
       "mapX": "128.6874355240",
       "mapY": "35.9551037153",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/2866246_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4559,6 +4827,11 @@
       "mapX": "128.6211138557",
       "mapY": "35.8461203838",
       "image": "http://tong.visitkorea.or.kr/cms/resource/52/2866252_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4581,6 +4854,11 @@
       "mapX": "128.6798202577",
       "mapY": "35.8296483312",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/2866102_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4603,6 +4881,11 @@
       "mapX": "128.6828449236",
       "mapY": "35.8320981099",
       "image": "http://tong.visitkorea.or.kr/cms/resource/32/2850632_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4625,6 +4908,11 @@
       "mapX": "128.6405506611",
       "mapY": "35.8594914514",
       "image": "http://tong.visitkorea.or.kr/cms/resource/85/2850585_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4647,6 +4935,11 @@
       "mapX": "128.5985404683",
       "mapY": "35.8596128848",
       "image": "http://tong.visitkorea.or.kr/cms/resource/07/2849807_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4669,6 +4962,11 @@
       "mapX": "128.6154380824",
       "mapY": "35.9911899584",
       "image": "http://tong.visitkorea.or.kr/cms/resource/09/2846109_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4691,6 +4989,11 @@
       "mapX": "128.6205766105",
       "mapY": "35.9878848728",
       "image": "http://tong.visitkorea.or.kr/cms/resource/97/2846097_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4713,6 +5016,11 @@
       "mapX": "128.6038404148",
       "mapY": "35.8447479981",
       "image": "http://tong.visitkorea.or.kr/cms/resource/41/2845841_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4735,6 +5043,11 @@
       "mapX": "128.5885164406",
       "mapY": "35.8563908424",
       "image": "http://tong.visitkorea.or.kr/cms/resource/59/2845759_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4757,6 +5070,11 @@
       "mapX": "128.5654885606",
       "mapY": "35.8331013880",
       "image": "http://tong.visitkorea.or.kr/cms/resource/53/2842753_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4779,6 +5097,11 @@
       "mapX": "128.4553336296",
       "mapY": "35.8601518571",
       "image": "http://tong.visitkorea.or.kr/cms/resource/25/2841725_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4801,6 +5124,11 @@
       "mapX": "128.4888004798",
       "mapY": "35.7467125301",
       "image": "http://tong.visitkorea.or.kr/cms/resource/09/2841709_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4823,6 +5151,11 @@
       "mapX": "128.5857395466",
       "mapY": "35.8333906162",
       "image": "http://tong.visitkorea.or.kr/cms/resource/19/2841619_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4845,6 +5178,11 @@
       "mapX": "128.6040238857",
       "mapY": "35.9388873419",
       "image": "http://tong.visitkorea.or.kr/cms/resource/53/2840653_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4867,6 +5205,11 @@
       "mapX": "128.5533589271",
       "mapY": "35.9382448127",
       "image": "http://tong.visitkorea.or.kr/cms/resource/19/2840619_image2_1.png",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4889,6 +5232,11 @@
       "mapX": "128.5886856442",
       "mapY": "35.8645204810",
       "image": "http://tong.visitkorea.or.kr/cms/resource/99/2751799_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4911,6 +5259,11 @@
       "mapX": "128.6237986495",
       "mapY": "35.9842686756",
       "image": "http://tong.visitkorea.or.kr/cms/resource/89/2744689_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4933,6 +5286,11 @@
       "mapX": "128.5002114597",
       "mapY": "35.7149913256",
       "image": "http://tong.visitkorea.or.kr/cms/resource/26/2742226_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4955,6 +5313,11 @@
       "mapX": "128.6248846664",
       "mapY": "35.9842492535",
       "image": "http://tong.visitkorea.or.kr/cms/resource/58/2737058_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4977,6 +5340,11 @@
       "mapX": "128.5885490254",
       "mapY": "35.8831989193",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/2737074_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -4999,10 +5367,42 @@
       "mapX": "128.6150630246",
       "mapY": "35.9944340282",
       "image": "http://tong.visitkorea.or.kr/cms/resource/87/2737087_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-daegu-2736720/"
+    },
+    {
+      "slug": "restaurants-daegu-2839974",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2839974",
+      "contentTypeId": "39",
+      "title": "헤이마",
+      "name": "헤이마",
+      "city": "대구",
+      "profileSlug": "daegu",
+      "region": "대구",
+      "address": "대구광역시 동구 파계로 583 (중대동)",
+      "tel": "",
+      "mapX": "128.6351282671",
+      "mapY": "35.9820996864",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/67/2839967_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-daegu-2839974/"
     },
     {
       "slug": "restaurants-gwangju-132880",
@@ -11187,50 +11587,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2608622/"
     },
     {
-      "slug": "restaurants-gangwon-2849167",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2849167",
-      "contentTypeId": "39",
-      "title": "소나타까페",
-      "name": "소나타까페",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 춘천시 남산면 남이섬길 1",
-      "tel": "",
-      "mapX": "127.5255090138",
-      "mapY": "37.7963208193",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/77/3555377_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2849167/"
-    },
-    {
-      "slug": "restaurants-gangwon-2849142",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2849142",
-      "contentTypeId": "39",
-      "title": "남이아일랜드북까페",
-      "name": "남이아일랜드북까페",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 춘천시 남산면 남이섬길 1",
-      "tel": "",
-      "mapX": "127.5255090138",
-      "mapY": "37.7963208193",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/72/3555372_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2849142/"
-    },
-    {
       "slug": "restaurants-gangwon-2785712",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -11603,6 +11959,50 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2894037/"
+    },
+    {
+      "slug": "restaurants-gangwon-2923158",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2923158",
+      "contentTypeId": "39",
+      "title": "카페 하추리",
+      "name": "카페 하추리",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 인제군 인제읍 하추로 187",
+      "tel": "",
+      "mapX": "128.2817585514",
+      "mapY": "38.0196646161",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/37/2923137_image2_1.jpg",
+      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2923158/"
+    },
+    {
+      "slug": "restaurants-gangwon-2923166",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2923166",
+      "contentTypeId": "39",
+      "title": "연사랑",
+      "name": "연사랑",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 철원군 갈말읍 갈말로 653-2",
+      "tel": "",
+      "mapX": "127.2855606065",
+      "mapY": "38.2037272120",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/65/2923165_image2_1.jpg",
+      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2923166/"
     },
     {
       "slug": "restaurants-chungbuk-3422403",
@@ -14641,28 +15041,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gyeongbuk-134770/"
     },
     {
-      "slug": "restaurants-gyeongbuk-2841589",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2841589",
-      "contentTypeId": "39",
-      "title": "엄마밥상",
-      "name": "엄마밥상",
-      "city": "경북",
-      "profileSlug": "gyeongbuk",
-      "region": "경북",
-      "address": "경상북도 칠곡군 동명면 팔공산로 157",
-      "tel": "",
-      "mapX": "128.6063136530",
-      "mapY": "35.9995471760",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/54/3569754_image2_1.jpg",
-      "description": "경북 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gyeongbuk-2841589/"
-    },
-    {
       "slug": "restaurants-gyeongbuk-3101705",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -14903,6 +15281,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-gyeongbuk-2902017/"
+    },
+    {
+      "slug": "restaurants-gyeongbuk-2905359",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2905359",
+      "contentTypeId": "39",
+      "title": "가마솥 양푼이 밥상",
+      "name": "가마솥 양푼이 밥상",
+      "city": "경북",
+      "profileSlug": "gyeongbuk",
+      "region": "경북",
+      "address": "경상북도 경주시 북군3길 12-1",
+      "tel": "",
+      "mapX": "129.2645765871",
+      "mapY": "35.8529760771",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/42/2905342_image2_1.jpg",
+      "description": "경북 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gyeongbuk-2905359/"
     },
     {
       "slug": "restaurants-gyeongnam-403841",
