@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-08-06T03:17:27",
+  "readyForLaunch": true,
+  "readyForRevenue": false,
+  "readyForAutomation": true,
+  "readyForMeasurement": true,
+  "missingCount": 2,
+  "missing": [
+    {
+      "key": "affiliate",
+      "label": "제휴 링크",
+      "ok": false,
+      "severity": "block_revenue",
+      "message": "myrealtrip_mylink_id 또는 Agoda/Trip.com/개별 affiliate URL이 필요합니다."
+    },
+    {
+      "key": "adsense",
+      "label": "AdSense",
+      "ok": false,
+      "severity": "block_ad_revenue",
+      "message": "adsense_client와 adsense_slots의 4개 슬롯(article_top, article_after_intro, news_list_mid, booking_sidebar)을 입력해야 광고 지면이 실제 광고로 바뀝니다."
+    }
+  ],
+  "checks": [
+    {
+      "key": "base_url",
+      "label": "실제 도메인",
+      "ok": true,
+      "severity": "block_launch",
+      "message": "실제 공개 도메인으로 바꿔야 canonical, sitemap, feed가 정상 운영됩니다."
+    },
+    {
+      "key": "affiliate",
+      "label": "제휴 링크",
+      "ok": false,
+      "severity": "block_revenue",
+      "message": "myrealtrip_mylink_id 또는 Agoda/Trip.com/개별 affiliate URL이 필요합니다."
+    },
+    {
+      "key": "adsense",
+      "label": "AdSense",
+      "ok": false,
+      "severity": "block_ad_revenue",
+      "message": "adsense_client와 adsense_slots의 4개 슬롯(article_top, article_after_intro, news_list_mid, booking_sidebar)을 입력해야 광고 지면이 실제 광고로 바뀝니다."
+    },
+    {
+      "key": "tourapi",
+      "label": "여행 데이터",
+      "ok": true,
+      "severity": "block_automation",
+      "message": "tourapi_enabled=true와 tourapi_service_key가 필요합니다."
+    },
+    {
+      "key": "click_log",
+      "label": "클릭 로그",
+      "ok": true,
+      "severity": "block_measurement",
+      "message": "click_log_endpoint가 있어야 /go 클릭을 측정할 수 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta http-equiv="refresh" content="1;url=https://www.agoda.com/ko-kr/deals">
+  <title>agoda 할인 조건 페이지로 이동</title>
+</head>
+<body>
+  <p>agoda 할인 조건 페이지로 이동 중입니다.</p>
+  <p><a href="https://www.agoda.com/ko-kr/deals" rel="sponsored nofollow">이동하지 않으면 여기를 누르세요.</a></p>
+  
+  <script>
+  (function(){
+    var payload = {"label": "agoda 할인 조건", "target": "https://www.agoda.com/ko-kr/deals", "kind": "affiliate_redirect"};
+    payload.path = location.pathname;
+    payload.referrer = document.referrer || "";
+    payload.ts = new Date().toISOString();
+    var body = JSON.stringify(payload);
+    try {
+      if (navigator.sendBeacon) {
+        navigator.sendBeacon("/api/click", new Blob([body], {type:"application/json"}));
+      } else {
+        fetch("/api/click", {method:"POST", headers:{"Content-Type":"application/json"}, body:body, keepalive:true});
+      }
+    } catch(e) {}
+  })();
+  </script>
+  <script>setTimeout(function(){location.replace("https://www.agoda.com/ko-kr/deals");},120);</script>
+</body>
+</html>

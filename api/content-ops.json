@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-08-06T03:17:27",
+  "site": "여행쉼표",
+  "benchmark": "mytravelnotes.co.kr structural benchmark; do not copy article text or images verbatim",
+  "navigationAxes": [
+    "가볼 만한 곳",
+    "읽을거리",
+    "여행 정보"
+  ],
+  "homepageLanes": [
+    "TODAY keyword strip",
+    "4-grid magazine hero",
+    "places discovery",
+    "official data expansion",
+    "scene and culture",
+    "read before practical guides",
+    "booking check conversion band",
+    "category curation"
+  ],
+  "titlePatterns": [
+    "장소 + 계절/시간대 + 감성 장면",
+    "장소 + 핵심 변수 3개 + 방문 전 확인 포인트",
+    "축제명 + 연도 + 기간·장소·입장료·운영시간",
+    "호텔명 + 위치/객실/동선 + 정리",
+    "도시 + 할인코드·프로모션 + 예약 전 확인"
+  ],
+  "articleTemplate": [
+    "breadcrumb",
+    "category label",
+    "H1",
+    "date/read time",
+    "share buttons",
+    "intro",
+    "hero image",
+    "booking compare bar",
+    "ad after intro",
+    "3-5 H2 sections",
+    "FAQ where search intent is informational",
+    "related content"
+  ],
+  "categoryPageTemplate": [
+    "breadcrumb",
+    "H1 and category description",
+    "total content count",
+    "header-triggered subcategory mega dropdown",
+    "booking/conversion check shortcuts",
+    "paginated article grid",
+    "RSS/category feed link",
+    "footer hub links"
+  ],
+  "subcategoryOperations": [
+    "top header axes expose children in a click-to-open mega dropdown",
+    "category pages rely on the header dropdown instead of repeating subcategory cards",
+    "category pages keep booking intent links close to the first fold",
+    "large categories paginate with stable static URLs",
+    "cards preserve image, category label, title, excerpt, date, read time, and popularity signal"
+  ],
+  "monetization": [
+    "AdSense in-article top and after intro",
+    "booking hubs for hotels, flights, activities, deals",
+    "affiliate redirect pages with click logging",
+    "seasonal articles that route to booking checks",
+    "public feeds and sitemaps for indexing"
+  ],
+  "seoSurfaces": [
+    "canonical",
+    "RSS feed and category feeds",
+    "sitemap",
+    "news sitemap",
+    "image sitemap",
+    "Article schema",
+    "BreadcrumbList schema",
+    "FAQPage schema",
+    "hreflang landing pages"
+  ]
+}

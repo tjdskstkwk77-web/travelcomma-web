@@ -1,0 +1,148 @@
+User-Agent: *
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: Googlebot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: Bingbot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: Yeti
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: Applebot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: Baiduspider
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: GPTBot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: ChatGPT-User
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: OAI-SearchBot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: ClaudeBot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: anthropic-ai
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: PerplexityBot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: Amazonbot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: Bytespider
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: meta-externalagent
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+User-Agent: CCBot
+Allow: /
+Allow: /api/feed
+Allow: /api/travel
+Allow: /tourapi/
+Disallow: /admin/
+Disallow: /api/admin/
+Disallow: /login
+
+Host: travelcomma.com
+Sitemap: https://travelcomma.com/sitemap.xml
+Sitemap: https://travelcomma.com/news-sitemap.xml
+Sitemap: https://travelcomma.com/image-sitemap.xml
