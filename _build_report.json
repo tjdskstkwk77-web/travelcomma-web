@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T05:40:30",
+  "generatedAt": "2026-08-06T13:58:03",
   "posts": 17,
   "categories": 19,
   "bookingPages": [
@@ -10,7 +10,7 @@
     "tours"
   ],
   "output": "/Users/igijung/developer/secondbrain/수익화강의/ventures/여행정보-사이트/site-dist",
-  "affiliateConfigured": false,
+  "affiliateConfigured": true,
   "adsenseConfigured": false,
   "adsenseSlots": {
     "clientConfigured": false,
@@ -2848,20 +2848,13 @@
     "호텔/항공/투어 페이지는 예약 전 비교 의도를 제목에 포함"
   ],
   "settingsAudit": {
-    "generatedAt": "2026-08-06T05:40:30",
+    "generatedAt": "2026-08-06T13:58:03",
     "readyForLaunch": true,
     "readyForRevenue": false,
     "readyForAutomation": true,
     "readyForMeasurement": true,
-    "missingCount": 2,
+    "missingCount": 1,
     "missing": [
-      {
-        "key": "affiliate",
-        "label": "제휴 링크",
-        "ok": false,
-        "severity": "block_revenue",
-        "message": "myrealtrip_mylink_id 또는 Agoda/Trip.com/개별 affiliate URL이 필요합니다."
-      },
       {
         "key": "adsense",
         "label": "AdSense",
@@ -2881,7 +2874,7 @@
       {
         "key": "affiliate",
         "label": "제휴 링크",
-        "ok": false,
+        "ok": true,
         "severity": "block_revenue",
         "message": "myrealtrip_mylink_id 또는 Agoda/Trip.com/개별 affiliate URL이 필요합니다."
       },

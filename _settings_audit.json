@@ -1,18 +1,11 @@
 {
-  "generatedAt": "2026-08-06T05:40:30",
+  "generatedAt": "2026-08-06T13:58:03",
   "readyForLaunch": true,
   "readyForRevenue": false,
   "readyForAutomation": true,
   "readyForMeasurement": true,
-  "missingCount": 2,
+  "missingCount": 1,
   "missing": [
-    {
-      "key": "affiliate",
-      "label": "제휴 링크",
-      "ok": false,
-      "severity": "block_revenue",
-      "message": "myrealtrip_mylink_id 또는 Agoda/Trip.com/개별 affiliate URL이 필요합니다."
-    },
     {
       "key": "adsense",
       "label": "AdSense",
@@ -32,7 +25,7 @@
     {
       "key": "affiliate",
       "label": "제휴 링크",
-      "ok": false,
+      "ok": true,
       "severity": "block_revenue",
       "message": "myrealtrip_mylink_id 또는 Agoda/Trip.com/개별 affiliate URL이 필요합니다."
     },
