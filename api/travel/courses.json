@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:58:03",
+  "generatedAt": "2026-08-07T05:45:35",
   "kind": "courses",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 49,
@@ -21,14 +21,23 @@
       "mapX": "126.4060798813",
       "mapY": "37.5291206810",
       "image": "http://tong.visitkorea.or.kr/cms/resource/07/190607_image2_1.jpg",
+      "detail": {
+        "distance": "약 180km",
+        "schedule": "1박2일",
+        "taketime": "약 3시간 30분",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2987504/"
     },
     {
@@ -48,14 +57,23 @@
       "mapX": "125.9830110242",
       "mapY": "37.1912609926",
       "image": "http://tong.visitkorea.or.kr/cms/resource/87/2661887_image2_1.JPG",
+      "detail": {
+        "distance": "약 145km",
+        "schedule": "당일",
+        "taketime": "약 3시간",
+        "theme": "웰빙관광"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2987545/"
     },
     {
@@ -75,14 +93,23 @@
       "mapX": "126.2810593845",
       "mapY": "37.7805447369",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/2661846_image2_1.jpg",
+      "detail": {
+        "distance": "약 130km",
+        "schedule": "당일",
+        "taketime": "약 2시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2987551/"
     },
     {
@@ -102,14 +129,23 @@
       "mapX": "125.7023324332",
       "mapY": "37.6645816412",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/1385402_image2_1.jpg",
+      "detail": {
+        "distance": "약 210km",
+        "schedule": "당일",
+        "taketime": "약 5시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2987555/"
     },
     {
@@ -129,14 +165,23 @@
       "mapX": "126.4238087338",
       "mapY": "37.6325117278",
       "image": "http://tong.visitkorea.or.kr/cms/resource/44/217644_image2_1.jpg",
+      "detail": {
+        "distance": "약 50km",
+        "schedule": "당일",
+        "taketime": "약 1시간",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2987537/"
     },
     {
@@ -156,14 +201,23 @@
       "mapX": "126.4848944278",
       "mapY": "37.7457829284",
       "image": "http://tong.visitkorea.or.kr/cms/resource/82/2616982_image2_1.jpg",
+      "detail": {
+        "distance": "37km",
+        "schedule": "당일",
+        "taketime": "1시간 30분",
+        "theme": "문화여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2961651/"
     },
     {
@@ -183,14 +237,21 @@
       "mapX": "126.4913773782",
       "mapY": "37.6386205364",
       "image": "",
+      "detail": {
+        "schedule": "1박2일",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2936862/"
     },
     {
@@ -210,14 +271,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "",
+      "detail": {
+        "distance": "127km",
+        "schedule": "1박2일",
+        "taketime": "약 3시간 25분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "대구 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-daegu-2823807/"
     },
     {
@@ -237,14 +307,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/2653346_image2_1.jpg",
+      "detail": {
+        "distance": "76.1km",
+        "schedule": "3박이상",
+        "taketime": "3박이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "부산 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-busan-2804685/"
     },
     {
@@ -264,14 +343,23 @@
       "mapX": "126.7640975177",
       "mapY": "37.5170395056",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/1850602_image2_1.jpg",
+      "detail": {
+        "distance": "11.69km",
+        "schedule": "기타",
+        "taketime": "7시간",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2363051/"
     },
     {
@@ -291,14 +379,23 @@
       "mapX": "127.0637782388",
       "mapY": "38.0116483757",
       "image": "http://tong.visitkorea.or.kr/cms/resource/81/2642381_image2_1.jpg",
+      "detail": {
+        "distance": "약 430km",
+        "schedule": "1박2일",
+        "taketime": "약 7시간 30분",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987549/"
     },
     {
@@ -318,14 +415,23 @@
       "mapX": "126.7155881596",
       "mapY": "37.6125164284",
       "image": "http://tong.visitkorea.or.kr/cms/resource/80/755180_image2_1.jpg",
+      "detail": {
+        "distance": "약 55km",
+        "schedule": "당일",
+        "taketime": "약 1시간",
+        "theme": "일출/일몰"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987534/"
     },
     {
@@ -345,14 +451,23 @@
       "mapX": "126.8470904550",
       "mapY": "37.9880472103",
       "image": "http://tong.visitkorea.or.kr/cms/resource/90/2783190_image2_1.jpg",
+      "detail": {
+        "distance": "약 120km",
+        "schedule": "당일",
+        "taketime": "약 2시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987554/"
     },
     {
@@ -372,14 +487,23 @@
       "mapX": "126.7402919011",
       "mapY": "37.8915065690",
       "image": "http://tong.visitkorea.or.kr/cms/resource/32/2654232_image2_1.jpg",
+      "detail": {
+        "distance": "약 70km",
+        "schedule": "당일",
+        "taketime": "약 1시간 20분",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987543/"
     },
     {
@@ -399,14 +523,23 @@
       "mapX": "127.0637782388",
       "mapY": "38.0116483757",
       "image": "http://tong.visitkorea.or.kr/cms/resource/81/2642381_image2_1.jpg",
+      "detail": {
+        "distance": "약 35km",
+        "schedule": "당일",
+        "taketime": "약 50분",
+        "theme": "체험관광"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987558/"
     },
     {
@@ -426,14 +559,23 @@
       "mapX": "126.7404030300",
       "mapY": "37.8905011326",
       "image": "http://tong.visitkorea.or.kr/cms/resource/17/2874217_image2_1.jpg",
+      "detail": {
+        "distance": "약 180km",
+        "schedule": "당일",
+        "taketime": "약 3시간 30분",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987564/"
     },
     {
@@ -453,14 +595,23 @@
       "mapX": "126.8742905293",
       "mapY": "37.8014139252",
       "image": "http://tong.visitkorea.or.kr/cms/resource/98/2713098_image2_1.jpg",
+      "detail": {
+        "distance": "약 160km",
+        "schedule": "1박2일",
+        "taketime": "약 3시간 30분",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987539/"
     },
     {
@@ -480,14 +631,23 @@
       "mapX": "126.9023221079",
       "mapY": "37.7730205159",
       "image": "http://tong.visitkorea.or.kr/cms/resource/22/2638222_image2_1.jpg",
+      "detail": {
+        "distance": "약 90km",
+        "schedule": "당일",
+        "taketime": "약 2시간",
+        "theme": "문화여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2987541/"
     },
     {
@@ -507,14 +667,23 @@
       "mapX": "127.1694149861",
       "mapY": "37.7518472513",
       "image": "http://tong.visitkorea.or.kr/cms/resource/24/2846124_image2_1.jpg",
+      "detail": {
+        "distance": "88km",
+        "schedule": "1박2일",
+        "taketime": "약 2시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2899221/"
     },
     {
@@ -534,14 +703,23 @@
       "mapX": "126.9868988672",
       "mapY": "38.1178956717",
       "image": "",
+      "detail": {
+        "distance": "133km",
+        "schedule": "1박2일",
+        "taketime": "약 2시간 55분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2895293/"
     },
     {
@@ -561,14 +739,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "",
+      "detail": {
+        "distance": "121km",
+        "schedule": "1박2일",
+        "taketime": "약 2시간 55분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2833445/"
     },
     {
@@ -588,14 +775,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/96/2716496_image2_1.jpg",
+      "detail": {
+        "distance": "36.1km",
+        "schedule": "3박이상",
+        "taketime": "3박이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2807088/"
     },
     {
@@ -615,14 +811,23 @@
       "mapX": "127.9828295908",
       "mapY": "38.1306932194",
       "image": "http://tong.visitkorea.or.kr/cms/resource/27/2921627_image2_1.jpg",
+      "detail": {
+        "distance": "약 180km",
+        "schedule": "1박2일",
+        "taketime": "약 3시간 30분",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987565/"
     },
     {
@@ -642,14 +847,23 @@
       "mapX": "127.1998974779",
       "mapY": "38.2559834094",
       "image": "http://tong.visitkorea.or.kr/cms/resource/39/1583839_image2_1.jpg",
+      "detail": {
+        "distance": "약 240km",
+        "schedule": "1박2일",
+        "taketime": "약 5시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2988349/"
     },
     {
@@ -669,14 +883,23 @@
       "mapX": "127.6642590347",
       "mapY": "38.2109528514",
       "image": "http://tong.visitkorea.or.kr/cms/resource/13/2668213_image2_1.jpg",
+      "detail": {
+        "distance": "약 280km",
+        "schedule": "당일",
+        "taketime": "약 5시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987552/"
     },
     {
@@ -696,14 +919,23 @@
       "mapX": "128.5265599668",
       "mapY": "38.3315552444",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/1581438_image2_1.jpg",
+      "detail": {
+        "distance": "약 100km",
+        "schedule": "당일",
+        "taketime": "약 2시간",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987544/"
     },
     {
@@ -723,14 +955,23 @@
       "mapX": "127.2889996684",
       "mapY": "38.1872292046",
       "image": "http://tong.visitkorea.or.kr/cms/resource/50/2675250_image2_1.jpg",
+      "detail": {
+        "distance": "약 230km",
+        "schedule": "1박2일",
+        "taketime": "약 4시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987542/"
     },
     {
@@ -750,14 +991,23 @@
       "mapX": "128.0739750220",
       "mapY": "38.1902435638",
       "image": "http://tong.visitkorea.or.kr/cms/resource/28/2921628_image2_1.jpg",
+      "detail": {
+        "distance": "약 120km",
+        "schedule": "당일",
+        "taketime": "약 2시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987538/"
     },
     {
@@ -777,14 +1027,23 @@
       "mapX": "127.2019389791",
       "mapY": "38.2552363123",
       "image": "http://tong.visitkorea.or.kr/cms/resource/75/2921375_image2_1.jpg",
+      "detail": {
+        "distance": "약 260km",
+        "schedule": "1박2일",
+        "taketime": "약 5시간",
+        "theme": "문화여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987536/"
     },
     {
@@ -804,14 +1063,23 @@
       "mapX": "127.8165586479",
       "mapY": "38.1306706374",
       "image": "http://tong.visitkorea.or.kr/cms/resource/42/2607542_image2_1.jpg",
+      "detail": {
+        "distance": "약 160km",
+        "schedule": "1박2일",
+        "taketime": "약 3시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987535/"
     },
     {
@@ -831,14 +1099,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/09/2716609_image2_1.jpg",
+      "detail": {
+        "distance": "40km",
+        "schedule": "1박2일",
+        "taketime": "약 1시간 15분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2833450/"
     },
     {
@@ -858,14 +1135,22 @@
       "mapX": "128.3969565090",
       "mapY": "36.9967294703",
       "image": "http://tong.visitkorea.or.kr/cms/resource/01/2613301_image2_1.jpg",
+      "detail": {
+        "distance": "약 13km",
+        "schedule": "1박2일",
+        "theme": "기타"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "충북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungbuk-2990340/"
     },
     {
@@ -885,14 +1170,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/2779046_image2_1.jpg",
+      "detail": {
+        "distance": "93km",
+        "schedule": "1박2일",
+        "taketime": "약 2시간 26분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "충북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungbuk-2867109/"
     },
     {
@@ -912,14 +1206,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/20/1602720_image2_1.jpg",
+      "detail": {
+        "distance": "40.1km",
+        "schedule": "3박이상",
+        "taketime": "3박 이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "충남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungnam-2804868/"
     },
     {
@@ -939,14 +1242,22 @@
       "mapX": "126.4935201987",
       "mapY": "36.1379050125",
       "image": "http://tong.visitkorea.or.kr/cms/resource/40/2633040_image2_1.jpg",
+      "detail": {
+        "distance": "41.58km",
+        "schedule": "기타",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "충남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungnam-2514416/"
     },
     {
@@ -966,14 +1277,23 @@
       "mapX": "126.5173140741",
       "mapY": "36.5037078993",
       "image": "",
+      "detail": {
+        "distance": "92.05km",
+        "schedule": "기타",
+        "taketime": "1박 2일",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "충남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungnam-1937646/"
     },
     {
@@ -993,14 +1313,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "",
+      "detail": {
+        "distance": "53km",
+        "schedule": "1박2일",
+        "taketime": "약 1시간 17분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "충남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungnam-2867082/"
     },
     {
@@ -1020,14 +1349,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/56/1613356_image2_1.jpg",
+      "detail": {
+        "distance": "77.7km",
+        "schedule": "3박이상",
+        "taketime": "3박 이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeongbuk-2804867/"
     },
     {
@@ -1047,14 +1385,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/23/2654423_image2_1.jpg",
+      "detail": {
+        "distance": "112km",
+        "schedule": "1박2일",
+        "taketime": "약 2시간 36분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeongbuk-2826888/"
     },
     {
@@ -1074,14 +1421,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/84/2675084_image2_1.jpg",
+      "detail": {
+        "distance": "55km",
+        "schedule": "1박2일",
+        "taketime": "약 1시간 15분",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeongnam-2821974/"
     },
     {
@@ -1101,14 +1457,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/36/2715736_image2_1.JPG",
+      "detail": {
+        "distance": "49.6km",
+        "schedule": "3박이상",
+        "taketime": "3박이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeongnam-2807090/"
     },
     {
@@ -1128,14 +1493,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/69/2355069_image2_1.JPG",
+      "detail": {
+        "distance": "37.5km",
+        "schedule": "3박이상",
+        "taketime": "3박 이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeongnam-2804862/"
     },
     {
@@ -1155,14 +1529,23 @@
       "mapX": "128.0002121149",
       "mapY": "34.8341481396",
       "image": "http://tong.visitkorea.or.kr/cms/resource/77/2628877_image2_1.jpg",
+      "detail": {
+        "distance": "41.6km",
+        "schedule": "기타",
+        "taketime": "7시간",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeongnam-1855403/"
     },
     {
@@ -1182,14 +1565,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/40/2737440_image2_1.JPG",
+      "detail": {
+        "distance": "101.5km",
+        "schedule": "3박이상",
+        "taketime": "3박 이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "전북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-jeonbuk-2804869/"
     },
     {
@@ -1209,14 +1601,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/57/2706257_image2_1.jpg",
+      "detail": {
+        "distance": "91km",
+        "schedule": "1박2일",
+        "taketime": "약 2시간",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "전북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-jeonbuk-2822525/"
     },
     {
@@ -1236,14 +1637,21 @@
       "mapX": "127.1029417",
       "mapY": "35.99032124",
       "image": "http://tong.visitkorea.or.kr/cms/resource/97/2514197_image2_1.jpg",
+      "detail": {
+        "schedule": "1박2일",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "전북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-jeonbuk-2932734/"
     },
     {
@@ -1263,14 +1671,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/49/2617849_image2_1.jpg",
+      "detail": {
+        "distance": "40.1km",
+        "schedule": "3박이상",
+        "taketime": "3박 이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "전남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-jeonnam-2804863/"
     },
     {
@@ -1290,14 +1707,23 @@
       "mapX": "0",
       "mapY": "0",
       "image": "http://tong.visitkorea.or.kr/cms/resource/82/1970982_image2_1.jpg",
+      "detail": {
+        "distance": "72.4km",
+        "schedule": "3박이상",
+        "taketime": "3박이상",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "전남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-jeonnam-2804720/"
     },
     {
@@ -1317,14 +1743,21 @@
       "mapX": "126.3821193361",
       "mapY": "34.7873731725",
       "image": "http://tong.visitkorea.or.kr/cms/resource/17/2706017_image2_1.jpg",
+      "detail": {
+        "schedule": "1박2일",
+        "theme": "----지자체-----"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "전남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-jeonnam-2916281/"
     }
   ]
