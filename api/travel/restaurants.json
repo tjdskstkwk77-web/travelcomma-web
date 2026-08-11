@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T05:45:35",
+  "generatedAt": "2026-08-12T05:47:17",
   "kind": "restaurants",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 850,
@@ -1502,46 +1502,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-seoul-1932502/"
     },
     {
-      "slug": "restaurants-seoul-2778821",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2778821",
-      "contentTypeId": "39",
-      "title": "르프리크",
-      "name": "르프리크",
-      "city": "서울",
-      "profileSlug": "seoul",
-      "region": "서울",
-      "address": "서울특별시 성동구 연무장5길 9-16 블루스톤타워 B103",
-      "tel": "",
-      "mapX": "127.0526732224",
-      "mapY": "37.5444914739",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/40/3576240_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "시그니처 버거",
-        "treatmenu": "찹포테이토 / 후무스 / 체리 토마토 / 스모어 등",
-        "infocenterfood": "0507-1376-0199",
-        "parkingfood": "가능",
-        "opentimefood": "- 11:30~21:00\n- 준비시간 15:00~17:30\n- 점심 마지막 주문 14:30 / 저녁 마지막 주문 20:30",
-        "restdatefood": "연중무휴",
-        "lcnsno": "20210086318"
-      },
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY",
-        "detail"
-      ],
-      "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
-      "articlePath": "/tourapi/restaurants/restaurants-seoul-2778821/"
-    },
-    {
       "slug": "restaurants-seoul-2049449",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -1844,15 +1804,27 @@
       "mapX": "126.8429766262",
       "mapY": "37.5102805829",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/3573802_image2_1.jpg",
+      "detail": {
+        "kidsfacility": "0",
+        "firstmenu": "설렁탕",
+        "treatmenu": "도가니탕 / 곰탕 / 왕만두 등",
+        "infocenterfood": "02-2696-8825",
+        "parkingfood": "가능",
+        "opentimefood": "06:00~23:00",
+        "restdatefood": "연중무휴",
+        "lcnsno": "20080073843"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2758120/"
     },
     {
@@ -1892,7 +1864,6 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2373394/"
     },
@@ -1933,7 +1904,6 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2465041/"
     },
@@ -2018,6 +1988,47 @@
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2779128/"
+    },
+    {
+      "slug": "restaurants-seoul-2563380",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2563380",
+      "contentTypeId": "39",
+      "title": "[백년가게] 장군숯불족발",
+      "name": "[백년가게] 장군숯불족발",
+      "city": "서울",
+      "profileSlug": "seoul",
+      "region": "서울",
+      "address": "서울특별시 노원구 화랑로43가길 29 (월계동)",
+      "tel": "",
+      "mapX": "127.0633591310",
+      "mapY": "37.6150723535",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/05/3572005_image2_1.jpg",
+      "detail": {
+        "kidsfacility": "0",
+        "firstmenu": "숯불족발",
+        "treatmenu": "숯불매운족발 / 원조냉족발 / 반반족발 등",
+        "smoking": "모두 금연석",
+        "infocenterfood": "0507-1355-5884",
+        "parkingfood": "불가능",
+        "opentimefood": "- 화요일~토요일 17:00~24:00\n- 일요일 17:00~23:00",
+        "restdatefood": "매주 월요일",
+        "lcnsno": "19880059001"
+      },
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY",
+        "detail"
+      ],
+      "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
+      "articlePath": "/tourapi/restaurants/restaurants-seoul-2563380/"
     },
     {
       "slug": "restaurants-incheon-601711",
@@ -2426,6 +2437,7 @@
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-2834235/"
     },
@@ -2628,7 +2640,6 @@
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-2835499/"
     },
@@ -4579,28 +4590,15 @@
       "mapX": "127.3020906339",
       "mapY": "36.4050856767",
       "image": "http://tong.visitkorea.or.kr/cms/resource/43/2767243_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "생망고 빙수",
-        "treatmenu": "흑임자 빙수 / 인절미 빙수 / 아메리카노 등",
-        "packing": "가능",
-        "infocenterfood": "0507-1314-1226",
-        "parkingfood": "가능",
-        "opentimefood": "- 평일 10:00~18:00\n- 주말 10:00~19:00",
-        "restdatefood": "연중무휴",
-        "lcnsno": "20100240607"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2766948/"
     },
     {
@@ -5147,28 +5145,15 @@
       "mapX": "127.3472294776",
       "mapY": "36.3601693955",
       "image": "http://tong.visitkorea.or.kr/cms/resource/16/2913116_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "크룽지",
-        "treatmenu": "밤티라미수라떼 / 열라뽕따이 / 한라봉쥬르 등",
-        "packing": "가능",
-        "infocenterfood": "0507-1427-3432",
-        "parkingfood": "불가능",
-        "opentimefood": "00:00~24:00",
-        "restdatefood": "연중무휴",
-        "lcnsno": "20210244373"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2913121/"
     },
     {
@@ -6861,27 +6846,15 @@
       "mapX": "128.6333846593",
       "mapY": "35.8582664578",
       "image": "http://tong.visitkorea.or.kr/cms/resource/50/2846250_image2_1.png",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "고운곰탕",
-        "treatmenu": "평양냉면 / 어복쟁반 / 들기름비빔면 등",
-        "packing": "가능",
-        "infocenterfood": "0507-1375-5969",
-        "opentimefood": "- 11:30~21:00\n- 준비시간 15:00~17:00\n- 마지막 주문 14:30, 20:30",
-        "restdatefood": "매주 일요일",
-        "lcnsno": "20010176515"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daegu-2846252/"
     },
     {
@@ -13795,28 +13768,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-133700/"
     },
     {
-      "slug": "restaurants-gangwon-2775583",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2775583",
-      "contentTypeId": "39",
-      "title": "346커피스토리",
-      "name": "346커피스토리",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 강릉시 창해로 348 (강문동)",
-      "tel": "",
-      "mapX": "128.9187745232",
-      "mapY": "37.7945308250",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/99/3571799_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2775583/"
-    },
-    {
       "slug": "restaurants-gangwon-135532",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -14411,28 +14362,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2874093/"
     },
     {
-      "slug": "restaurants-gangwon-2891927",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2891927",
-      "contentTypeId": "39",
-      "title": "롱블랙",
-      "name": "롱블랙",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 강릉시 창해로362번길 12",
-      "tel": "",
-      "mapX": "128.9177884667",
-      "mapY": "37.7956334557",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/18/2891918_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2891927/"
-    },
-    {
       "slug": "restaurants-gangwon-2892006",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -14739,6 +14668,50 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796875/"
+    },
+    {
+      "slug": "restaurants-gangwon-2710947",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2710947",
+      "contentTypeId": "39",
+      "title": "동해순대국집",
+      "name": "동해순대국집",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 속초시 중앙로129번길 35-17 (금호동)",
+      "tel": "",
+      "mapX": "128.5889027151",
+      "mapY": "38.2045962485",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/10/2711310_image2_1.jpg",
+      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2710947/"
+    },
+    {
+      "slug": "restaurants-gangwon-2796909",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2796909",
+      "contentTypeId": "39",
+      "title": "대관령김치찌개집",
+      "name": "대관령김치찌개집",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 평창군 대관령면 경강로 5103",
+      "tel": "",
+      "mapX": "128.6957340493",
+      "mapY": "37.6868861689",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/88/2796888_image2_1.JPG",
+      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796909/"
     },
     {
       "slug": "restaurants-chungbuk-3422403",
@@ -16875,28 +16848,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-chungnam-2858405/"
     },
     {
-      "slug": "restaurants-chungnam-2858697",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2858697",
-      "contentTypeId": "39",
-      "title": "탕정집 쭈꾸미 지중해점",
-      "name": "탕정집 쭈꾸미 지중해점",
-      "city": "충남",
-      "profileSlug": "chungnam",
-      "region": "충남",
-      "address": "충청남도 아산시 탕정면로22번길 15-18",
-      "tel": "",
-      "mapX": "127.0614043611",
-      "mapY": "36.7972502742",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/82/2858682_image2_1.jpg",
-      "description": "충남 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-chungnam-2858697/"
-    },
-    {
       "slug": "restaurants-chungnam-2858804",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -16939,6 +16890,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-chungnam-2609545/"
+    },
+    {
+      "slug": "restaurants-chungnam-2605882",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2605882",
+      "contentTypeId": "39",
+      "title": "[백년가게]진주회관본관",
+      "name": "[백년가게]진주회관본관",
+      "city": "충남",
+      "profileSlug": "chungnam",
+      "region": "충남",
+      "address": "충청남도 천안시 서북구 성환읍 성환11길 15",
+      "tel": "",
+      "mapX": "127.1296254723",
+      "mapY": "36.9169710238",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/86/2606486_image2_1.jpg",
+      "description": "충남 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-chungnam-2605882/"
     },
     {
       "slug": "restaurants-gyeongbuk-133964",
@@ -18107,28 +18080,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2915070/"
     },
     {
-      "slug": "restaurants-gyeongnam-2915030",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2915030",
-      "contentTypeId": "39",
-      "title": "옐로우미",
-      "name": "옐로우미",
-      "city": "경남",
-      "profileSlug": "gyeongnam",
-      "region": "경남",
-      "address": "경상남도 거제시 성포로 129 1층",
-      "tel": "",
-      "mapX": "128.5230197853",
-      "mapY": "34.9210588066",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/26/2915026_image2_1.jpg",
-      "description": "경남 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2915030/"
-    },
-    {
       "slug": "restaurants-gyeongnam-2792700",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -19141,6 +19092,28 @@
       "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2788002/"
     },
     {
+      "slug": "restaurants-gyeongnam-2787999",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2787999",
+      "contentTypeId": "39",
+      "title": "늘봄식당",
+      "name": "늘봄식당",
+      "city": "경남",
+      "profileSlug": "gyeongnam",
+      "region": "경남",
+      "address": "경상남도 하동군 화개면 화개로 239",
+      "tel": "",
+      "mapX": "127.6334707288",
+      "mapY": "35.2075303279",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/71/2790871_image2_1.jpg",
+      "description": "경남 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2787999/"
+    },
+    {
       "slug": "restaurants-jeonbuk-133561",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -20131,28 +20104,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-jeonbuk-2851446/"
     },
     {
-      "slug": "restaurants-jeonbuk-2851518",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2851518",
-      "contentTypeId": "39",
-      "title": "미안커피",
-      "name": "미안커피",
-      "city": "전북",
-      "profileSlug": "jeonbuk",
-      "region": "전북",
-      "address": "전북특별자치도 남원시 함파우길 65-14 1층",
-      "tel": "",
-      "mapX": "127.3895706199",
-      "mapY": "35.3987461657",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/04/2851504_image2_1.jpg",
-      "description": "전북 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-jeonbuk-2851518/"
-    },
-    {
       "slug": "restaurants-jeonbuk-2866882",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -20239,6 +20190,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-jeonbuk-2867037/"
+    },
+    {
+      "slug": "restaurants-jeonbuk-2867049",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2867049",
+      "contentTypeId": "39",
+      "title": "사랑오리",
+      "name": "사랑오리",
+      "city": "전북",
+      "profileSlug": "jeonbuk",
+      "region": "전북",
+      "address": "전북특별자치도 전주시 완산구 쑥고개로 247 (효자동2가)",
+      "tel": "",
+      "mapX": "127.0923726588",
+      "mapY": "35.8002065971",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/45/2867045_image2_1.jpg",
+      "description": "전북 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-jeonbuk-2867049/"
     },
     {
       "slug": "restaurants-jeonnam-135236",
