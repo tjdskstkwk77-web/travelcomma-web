@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T05:47:17",
+  "generatedAt": "2026-08-13T05:45:06",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -194,7 +194,6 @@
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-128622/"
     },
@@ -370,26 +369,15 @@
       "mapX": "127.0146067184",
       "mapY": "37.5630580770",
       "image": "http://tong.visitkorea.or.kr/cms/resource/93/3589993_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "명동 관광정보센터 02-778-0333",
-        "restdate": "점포 별로 상이함",
-        "usetime": "점포 별로 상이함",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-699249/"
     },
     {
@@ -487,27 +475,15 @@
       "mapX": "127.0810141360",
       "mapY": "37.4800522436",
       "image": "http://tong.visitkorea.or.kr/cms/resource/45/3589845_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "강남구청 공원녹지과 02-3423-6283",
-        "opendate": "1989년 11월 23일",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1602451/"
     },
     {
@@ -3223,6 +3199,7 @@
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2535506/"
     },
@@ -4924,6 +4901,7 @@
       "description": "대전 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daejeon-2689820/"
     },
@@ -7687,26 +7665,15 @@
       "mapX": "128.4465583097",
       "mapY": "35.6981894668",
       "image": "http://tong.visitkorea.or.kr/cms/resource/20/3570020_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "053-614-3115",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "불가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daegu-485748/"
     },
     {
@@ -10549,28 +10516,6 @@
       "articlePath": "/tourapi/attractions/attractions-ulsan-772462/"
     },
     {
-      "slug": "attractions-ulsan-2752336",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2752336",
-      "contentTypeId": "12",
-      "title": "쇠평어린이공원",
-      "name": "쇠평어린이공원",
-      "city": "울산",
-      "profileSlug": "ulsan",
-      "region": "울산",
-      "address": "울산광역시 동구 동해안로 263 (동부동)",
-      "tel": "",
-      "mapX": "129.4340453660",
-      "mapY": "35.5508383137",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/30/2752330_image2_1.png",
-      "description": "울산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-ulsan-2752336/"
-    },
-    {
       "slug": "attractions-ulsan-1395991",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -11163,6 +11108,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-ulsan-2788447/"
+    },
+    {
+      "slug": "attractions-ulsan-2788450",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2788450",
+      "contentTypeId": "12",
+      "title": "솔개해수욕장",
+      "name": "솔개해수욕장",
+      "city": "울산",
+      "profileSlug": "ulsan",
+      "region": "울산",
+      "address": "울산광역시 울주군 서생면 진하리",
+      "tel": "",
+      "mapX": "129.3467301771",
+      "mapY": "35.3737398854",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/45/3534645_image2_1.jpg",
+      "description": "울산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-ulsan-2788450/"
     },
     {
       "slug": "attractions-sejong-2435243",
