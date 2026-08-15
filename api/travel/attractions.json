@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:49:27",
+  "generatedAt": "2026-08-15T13:09:52",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -293,15 +293,26 @@
       "mapX": "126.9769154284",
       "mapY": "37.5729534722",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/3590038_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "서울시청 광장관리팀 02-2133-1296",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1364932/"
     },
     {
@@ -572,6 +583,7 @@
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2783547/"
     },
@@ -864,25 +876,15 @@
       "mapX": "126.8537642877",
       "mapY": "37.5189547671",
       "image": "http://tong.visitkorea.or.kr/cms/resource/64/2611664_image2_1.bmp",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "양천구 자원봉사센터 02-2643-1365",
-        "usetime": "09:00~18:00",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2611669/"
     },
     {
@@ -996,7 +998,6 @@
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2456536/"
     },
@@ -2227,26 +2228,15 @@
       "mapX": "126.5339071139",
       "mapY": "37.6280419618",
       "image": "http://tong.visitkorea.or.kr/cms/resource/18/3350618_image2_1.JPG",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "인천종합관광안내소 032-832-3031",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "불가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-732652/"
     },
     {
@@ -2307,28 +2297,15 @@
       "mapX": "126.6394960555",
       "mapY": "37.4790556043",
       "image": "http://tong.visitkorea.or.kr/cms/resource/18/3039318_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "공원녹지팀 032-770-6204",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "가능",
-        "chkbabycarriage": "없음",
-        "chkcreditcard": "없음"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-1114598/"
     },
     {
@@ -2447,6 +2424,7 @@
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2767573/"
     },
@@ -2664,15 +2642,30 @@
       "mapX": "126.6526667493",
       "mapY": "37.5904345493",
       "image": "http://tong.visitkorea.or.kr/cms/resource/16/3395816_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "032-567-3245",
+        "opendate": "2018년도",
+        "restdate": "매주 일요일~월요일",
+        "expguide": "아빠와 함께하는 천체여행 / 일일 천문 교실 / 일일 별자리 체험 / 특강 별빛탐험대 / 특강 우주탐험대 등",
+        "usetime": "14:30~24:00 (프로그램별 상이)",
+        "parking": "가능\n요금 (무료)",
+        "chkbabycarriage": "없음",
+        "chkcreditcard": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2781599/"
     },
     {
@@ -5827,28 +5820,15 @@
       "mapX": "127.4425308280",
       "mapY": "36.4055714493",
       "image": "http://tong.visitkorea.or.kr/cms/resource/44/3033644_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "042-623-9909",
-        "opendate": "1995년 6월",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "가능",
-        "chkbabycarriage": "불가"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daejeon-705678/"
     },
     {
@@ -6186,27 +6166,15 @@
       "mapX": "128.6985587221",
       "mapY": "35.9843506081",
       "image": "http://tong.visitkorea.or.kr/cms/resource/85/3576785_image2_1.JPG",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "053-980-7900",
-        "restdate": "연중무휴",
-        "expguide": "템플스테이",
-        "usetime": "상시 개방",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daegu-126160/"
     },
     {
@@ -6805,15 +6773,26 @@
       "mapX": "128.5721868162",
       "mapY": "35.8746495855",
       "image": "http://tong.visitkorea.or.kr/cms/resource/91/3576191_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "053-663-2000",
+        "restdate": "연중무휴",
+        "usetime": "점포별 상이",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daegu-2366462/"
     },
     {
@@ -7611,26 +7590,15 @@
       "mapX": "128.5390037751",
       "mapY": "35.7691386926",
       "image": "http://tong.visitkorea.or.kr/cms/resource/30/3570030_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "053-631-9390",
-        "restdate": "연중무휴",
-        "usetime": "09:00~18:00",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daegu-346629/"
     },
     {
@@ -9522,28 +9490,6 @@
       "articlePath": "/tourapi/attractions/attractions-busan-2554068/"
     },
     {
-      "slug": "attractions-busan-2504464",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2504464",
-      "contentTypeId": "12",
-      "title": "부산 송도해상케이블카",
-      "name": "부산 송도해상케이블카",
-      "city": "부산",
-      "profileSlug": "busan",
-      "region": "부산",
-      "address": "부산광역시 서구 송도해변로 171",
-      "tel": "",
-      "mapX": "129.0234248332",
-      "mapY": "35.0766810472",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/11/3413711_image2_1.jpg",
-      "description": "부산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-busan-2504464/"
-    },
-    {
       "slug": "attractions-busan-2456837",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -10026,6 +9972,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-busan-2867934/"
+    },
+    {
+      "slug": "attractions-busan-1942299",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1942299",
+      "contentTypeId": "12",
+      "title": "남선창고터",
+      "name": "남선창고터",
+      "city": "부산",
+      "profileSlug": "busan",
+      "region": "부산",
+      "address": "부산광역시 동구 초량로13번길 53 (초량동)",
+      "tel": "",
+      "mapX": "129.0395112298",
+      "mapY": "35.1167962983",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/79/3070879_image2_1.JPG",
+      "description": "부산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-busan-1942299/"
     },
     {
       "slug": "attractions-ulsan-126722",
@@ -14538,28 +14506,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungbuk-2770109/"
     },
     {
-      "slug": "attractions-chungbuk-3083730",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "3083730",
-      "contentTypeId": "12",
-      "title": "초정약수세종스파텔",
-      "name": "초정약수세종스파텔",
-      "city": "충북",
-      "profileSlug": "chungbuk",
-      "region": "충북",
-      "address": "충청북도 청주시 청원구 내수읍 신기초정로 699",
-      "tel": "",
-      "mapX": "127.5987081910",
-      "mapY": "36.7191355285",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/26/3083726_image2_1.jpg",
-      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungbuk-3083730/"
-    },
-    {
       "slug": "attractions-chungbuk-125813",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -14910,6 +14856,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungbuk-2782476/"
+    },
+    {
+      "slug": "attractions-chungbuk-1679841",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1679841",
+      "contentTypeId": "12",
+      "title": "화양서원 묘정비",
+      "name": "화양서원 묘정비",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 괴산군 청천면 화양동길 188",
+      "tel": "",
+      "mapX": "127.8113849763",
+      "mapY": "36.6690145813",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/90/3571290_image2_1.jpg",
+      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungbuk-1679841/"
     },
     {
       "slug": "attractions-chungnam-525648",

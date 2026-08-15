@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-14T05:49:28",
+  "generatedAt": "2026-08-15T13:09:52",
   "source": "공개 관광 데이터 정규화 캐시",
   "lastRun": {
-    "generatedAt": "2026-08-14T05:30:04",
+    "generatedAt": "2026-08-15T05:31:23",
     "status": "partial",
     "counts": {
       "attractions": 822,
       "courses": 49,
       "restaurants": 850,
-      "lodgings": 505,
+      "lodgings": 504,
       "festivals": 96,
-      "totalTourItems": 2226
+      "totalTourItems": 2225
     },
     "detailEnrichment": {
       "enabled": true,
-      "calls": 1477,
-      "errors": 13
+      "calls": 1468,
+      "errors": 22
     },
     "calls": [
       {
@@ -84,7 +84,7 @@
         "city": "인천",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 343,
+        "totalCount": 341,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -94,9 +94,9 @@
         "city": "인천",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 26,
+        "totalCount": 25,
         "pageNo": 1,
-        "numOfRows": 26
+        "numOfRows": 25
       },
       {
         "operation": "areaBasedList2",
@@ -224,7 +224,7 @@
         "city": "부산",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 143,
+        "totalCount": 142,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -254,7 +254,7 @@
         "city": "부산",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 67,
+        "totalCount": 66,
         "pageNo": 1,
         "numOfRows": 40
       },
@@ -374,7 +374,7 @@
         "city": "경기",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 161,
+        "totalCount": 160,
         "pageNo": 1,
         "numOfRows": 40
       },
@@ -384,7 +384,7 @@
         "city": "강원",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 718,
+        "totalCount": 716,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -404,7 +404,7 @@
         "city": "강원",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 939,
+        "totalCount": 934,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -424,7 +424,7 @@
         "city": "충북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 519,
+        "totalCount": 518,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -464,7 +464,7 @@
         "city": "충남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 621,
+        "totalCount": 619,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -484,7 +484,7 @@
         "city": "충남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 420,
+        "totalCount": 419,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -504,7 +504,7 @@
         "city": "경북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 785,
+        "totalCount": 784,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -524,7 +524,7 @@
         "city": "경북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 424,
+        "totalCount": 423,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -624,7 +624,7 @@
         "city": "전남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 710,
+        "totalCount": 704,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -703,7 +703,7 @@
         "scope": "nationwide",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 222,
+        "totalCount": 223,
         "pageNo": 1,
         "numOfRows": 96
       },
@@ -874,6 +874,17 @@
       },
       {
         "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "1364932",
+        "title": "세종대왕 동상",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
         "operation": "detailCommon2",
         "contentId": "809190",
         "title": "북악산",
@@ -1003,6 +1014,17 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailCommon2",
+        "contentId": "2783547",
+        "title": "독립선언문 배부 터",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
       },
       {
         "type": "attractions",
@@ -1182,17 +1204,6 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2611669",
-        "title": "양천나눔누리타운",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
         "contentId": "749355",
         "title": "영등포 신길동 홍어거리",
@@ -1234,17 +1245,6 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
-      },
-      {
-        "type": "attractions",
-        "operation": "detailCommon2",
-        "contentId": "2456536",
-        "title": "강남 마이스 관광특구",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
       },
       {
         "type": "attractions",
@@ -1952,17 +1952,6 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "732652",
-        "title": "초지대교",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
         "contentId": "945221",
         "title": "(구)인천일본제58은행지점",
@@ -1993,17 +1982,6 @@
         "totalCount": 0,
         "pageNo": 1,
         "numOfRows": 0
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "1114598",
-        "title": "송현근린공원",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
       },
       {
         "type": "attractions",
@@ -2048,6 +2026,17 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailCommon2",
+        "contentId": "2767573",
+        "title": "감중공원",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
       },
       {
         "type": "attractions",
@@ -2183,6 +2172,17 @@
       },
       {
         "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2781599",
+        "title": "인천어린이천문대",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
         "operation": "detailCommon2",
         "contentId": "126676",
         "title": "용궁사(인천)",
@@ -3932,17 +3932,6 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "705678",
-        "title": "장동산림욕장",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
         "contentId": "1954045",
         "title": "회덕향교",
@@ -4127,17 +4116,6 @@
         "totalCount": 0,
         "pageNo": 1,
         "numOfRows": 0
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "126160",
-        "title": "동화사(대구)",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
       },
       {
         "type": "attractions",
@@ -4482,6 +4460,17 @@
       },
       {
         "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2366462",
+        "title": "서부 오미가미거리",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
         "operation": "detailCommon2",
         "contentId": "1611782",
         "title": "현풍향교",
@@ -4930,17 +4919,6 @@
         "totalCount": 0,
         "pageNo": 1,
         "numOfRows": 0
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "346629",
-        "title": "용문사(대구)",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
       },
       {
         "type": "attractions",
@@ -5615,17 +5593,6 @@
       },
       {
         "type": "courses",
-        "operation": "detailIntro2",
-        "contentId": "2987544",
-        "title": "잘 쉬는 데도 기술이 필요하다. 고수의 힐링 코스!",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "courses",
         "operation": "detailCommon2",
         "contentId": "2987542",
         "title": "예술과 자연을 하나의 작품으로 만나는 여행 코스",
@@ -6283,6 +6250,17 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "restaurants",
+        "operation": "detailCommon2",
+        "contentId": "2784696",
+        "title": "동작구름카페",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
       },
       {
         "type": "restaurants",
@@ -6473,17 +6451,6 @@
       },
       {
         "type": "restaurants",
-        "operation": "detailCommon2",
-        "contentId": "2495458",
-        "title": "명문막국수",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "restaurants",
         "operation": "detailIntro2",
         "contentId": "2495458",
         "title": "명문막국수",
@@ -6514,17 +6481,6 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
-      },
-      {
-        "type": "restaurants",
-        "operation": "detailCommon2",
-        "contentId": "2858244",
-        "title": "사운드키친",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
       },
       {
         "type": "restaurants",
@@ -7614,6 +7570,17 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "restaurants",
+        "operation": "detailCommon2",
+        "contentId": "2838641",
+        "title": "봄솔보리밥",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
       },
       {
         "type": "restaurants",
@@ -8233,17 +8200,6 @@
       },
       {
         "type": "restaurants",
-        "operation": "detailIntro2",
-        "contentId": "2844630",
-        "title": "청라꽃갈비 청라본점",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "restaurants",
         "operation": "detailCommon2",
         "contentId": "2845021",
         "title": "경인면옥",
@@ -8299,6 +8255,17 @@
       },
       {
         "type": "restaurants",
+        "operation": "detailIntro2",
+        "contentId": "2845088",
+        "title": "시굴집",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "restaurants",
         "operation": "detailCommon2",
         "contentId": "2738009",
         "title": "농민순대",
@@ -8780,17 +8747,6 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
-      },
-      {
-        "type": "restaurants",
-        "operation": "detailCommon2",
-        "contentId": "2915848",
-        "title": "훈불",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
       },
       {
         "type": "restaurants",
@@ -9924,6 +9880,17 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "restaurants",
+        "operation": "detailCommon2",
+        "contentId": "2766516",
+        "title": "무화커피",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
       },
       {
         "type": "restaurants",
@@ -10543,17 +10510,6 @@
       },
       {
         "type": "lodgings",
-        "operation": "detailIntro2",
-        "contentId": "142771",
-        "title": "임피리얼 팰리스 부티크 호텔",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "lodgings",
         "operation": "detailCommon2",
         "contentId": "1876565",
         "title": "호텔 마누",
@@ -10595,17 +10551,6 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailCommon2",
-        "contentId": "2592489",
-        "title": "복합한옥공간 곳",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
       },
       {
         "type": "lodgings",
@@ -10972,17 +10917,6 @@
       },
       {
         "type": "lodgings",
-        "operation": "detailCommon2",
-        "contentId": "2504658",
-        "title": "딜라이트 호텔",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "lodgings",
         "operation": "detailIntro2",
         "contentId": "2504658",
         "title": "딜라이트 호텔",
@@ -11211,6 +11145,17 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "3084394",
+        "title": "호텔아르누보서초",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
       },
       {
         "type": "lodgings",
@@ -11390,6 +11335,17 @@
       },
       {
         "type": "lodgings",
+        "operation": "detailIntro2",
+        "contentId": "861350",
+        "title": "오션사이드 호텔",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "lodgings",
         "operation": "detailCommon2",
         "contentId": "2594928",
         "title": "데이즈호텔 앤 스위트 인천에어포트",
@@ -11558,28 +11514,6 @@
         "operation": "detailIntro2",
         "contentId": "1893109",
         "title": "별장아원",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailCommon2",
-        "contentId": "2593573",
-        "title": "노을내리는아름다운집",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailIntro2",
-        "contentId": "2593573",
-        "title": "노을내리는아름다운집",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -11871,6 +11805,17 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "2628203",
+        "title": "한가라지 농원",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
       },
       {
         "type": "lodgings",
@@ -12732,6 +12677,17 @@
       },
       {
         "type": "lodgings",
+        "operation": "detailIntro2",
+        "contentId": "2542013",
+        "title": "호텔여기어때 광주역점",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "lodgings",
         "operation": "detailCommon2",
         "contentId": "2548018",
         "title": "아리네 게스트하우스",
@@ -13261,28 +13217,6 @@
       {
         "type": "lodgings",
         "operation": "detailCommon2",
-        "contentId": "2736088",
-        "title": "시그니엘 부산",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailIntro2",
-        "contentId": "2736088",
-        "title": "시그니엘 부산",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailCommon2",
         "contentId": "2714406",
         "title": "신라스테이 서부산",
         "resultCode": "",
@@ -13411,17 +13345,6 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailCommon2",
-        "contentId": "3028593",
-        "title": "베이하운드호텔",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
       },
       {
         "type": "lodgings",
@@ -13692,6 +13615,28 @@
         "operation": "detailIntro2",
         "contentId": "2531399",
         "title": "더파크 게스트하우스(The Park Guesthouse)",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "2572851",
+        "title": "모닝듀 게스트 하우스(모닝듀)",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailIntro2",
+        "contentId": "2572851",
+        "title": "모닝듀 게스트 하우스(모닝듀)",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -14558,17 +14503,6 @@
       },
       {
         "type": "lodgings",
-        "operation": "detailCommon2",
-        "contentId": "3081864",
-        "title": "그린피아관광호텔",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "lodgings",
         "operation": "detailIntro2",
         "contentId": "3081864",
         "title": "그린피아관광호텔",
@@ -14712,17 +14646,6 @@
       },
       {
         "type": "lodgings",
-        "operation": "detailCommon2",
-        "contentId": "3011195",
-        "title": "해와달수상낚시빌리지",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "lodgings",
         "operation": "detailIntro2",
         "contentId": "3011195",
         "title": "해와달수상낚시빌리지",
@@ -14836,6 +14759,28 @@
         "operation": "detailIntro2",
         "contentId": "3091322",
         "title": "호텔베네",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "3091337",
+        "title": "라트리호텔",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailIntro2",
+        "contentId": "3091337",
+        "title": "라트리호텔",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -15197,28 +15142,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "4008618",
-        "title": "고흥 국가유산 야행",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4008618",
-        "title": "고흥 국가유산 야행",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "2614763",
         "title": "공주 국가유산 야행",
         "resultCode": "",
@@ -15438,17 +15361,6 @@
       },
       {
         "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "4060434",
-        "title": "국악공연 진연",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
         "operation": "detailIntro2",
         "contentId": "4060434",
         "title": "국악공연 진연",
@@ -15468,17 +15380,6 @@
         "totalCount": 0,
         "pageNo": 1,
         "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "1018971",
-        "title": "국토정중앙 청춘양구 배꼽축제",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
       },
       {
         "type": "festivals",
@@ -15567,17 +15468,6 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "3493864",
-        "title": "기장군반려동물문화축제",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
       },
       {
         "type": "festivals",
@@ -15680,17 +15570,6 @@
       },
       {
         "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "2809535",
-        "title": "남산봉수의식 등 전통문화행사",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
         "operation": "detailIntro2",
         "contentId": "2809535",
         "title": "남산봉수의식 등 전통문화행사",
@@ -15760,28 +15639,6 @@
         "operation": "detailIntro2",
         "contentId": "2412052",
         "title": "대한민국 청년의 날 축제",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "3351268",
-        "title": "동대문구 맥주축제",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3351268",
-        "title": "동대문구 맥주축제",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -16231,6 +16088,28 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
+        "contentId": "1409287",
+        "title": "삼토 페스티벌",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1409287",
+        "title": "삼토 페스티벌",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
         "contentId": "2434545",
         "title": "새연교 주말 문화공연 '금토금토 새연쇼'",
         "resultCode": "",
@@ -16244,6 +16123,28 @@
         "operation": "detailIntro2",
         "contentId": "2434545",
         "title": "새연교 주말 문화공연 '금토금토 새연쇼'",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "3348418",
+        "title": "새활용 페스티벌",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "3348418",
+        "title": "새활용 페스티벌",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -16451,28 +16352,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "2989981",
-        "title": "서초뮤직앤아트페스티벌(SMAF)",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "2989981",
-        "title": "서초뮤직앤아트페스티벌(SMAF)",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "3501104",
         "title": "성남동 커피페스티벌",
         "resultCode": "",
@@ -16486,28 +16365,6 @@
         "operation": "detailIntro2",
         "contentId": "3501104",
         "title": "성남동 커피페스티벌",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "2651042",
-        "title": "세계유산축전",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "2651042",
-        "title": "세계유산축전",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -16948,6 +16805,50 @@
         "operation": "detailIntro2",
         "contentId": "1390147",
         "title": "안양춤축제",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "507599",
+        "title": "얼음나라화천 산천어축제",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "507599",
+        "title": "얼음나라화천 산천어축제",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "4098916",
+        "title": "여기저기 페스티벌 in 철원",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "4098916",
+        "title": "여기저기 페스티벌 in 철원",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -16959,92 +16860,155 @@
       {
         "type": "attractions",
         "operation": "detailIntro2",
-        "contentId": "1364932",
-        "title": "세종대왕 동상",
-        "error": "<urlopen error timed out>"
+        "contentId": "2611669",
+        "title": "양천나눔누리타운",
+        "error": "[Errno 60] Operation timed out"
       },
       {
         "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "2783547",
-        "title": "독립선언문 배부 터",
-        "error": "<urlopen error timed out>"
+        "contentId": "2456536",
+        "title": "강남 마이스 관광특구",
+        "error": "The read operation timed out"
       },
       {
         "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "732652",
+        "title": "초지대교",
+        "error": "[Errno 60] Operation timed out"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "1114598",
+        "title": "송현근린공원",
+        "error": "The read operation timed out"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "705678",
+        "title": "장동산림욕장",
+        "error": "<urlopen error [Errno 60] Operation timed out>"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "126160",
+        "title": "동화사(대구)",
+        "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "346629",
+        "title": "용문사(대구)",
+        "error": "The read operation timed out"
+      },
+      {
+        "type": "courses",
+        "operation": "detailIntro2",
+        "contentId": "2987544",
+        "title": "잘 쉬는 데도 기술이 필요하다. 고수의 힐링 코스!",
+        "error": "The read operation timed out"
+      },
+      {
+        "type": "restaurants",
         "operation": "detailCommon2",
-        "contentId": "2767573",
-        "title": "감중공원",
-        "error": "<urlopen error timed out>"
+        "contentId": "2495458",
+        "title": "명문막국수",
+        "error": "[Errno 60] Operation timed out"
       },
       {
-        "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2781599",
-        "title": "인천어린이천문대",
-        "error": "<urlopen error timed out>"
+        "type": "restaurants",
+        "operation": "detailCommon2",
+        "contentId": "2858244",
+        "title": "사운드키친",
+        "error": "The read operation timed out"
       },
       {
-        "type": "attractions",
+        "type": "restaurants",
         "operation": "detailIntro2",
-        "contentId": "2366462",
-        "title": "서부 오미가미거리",
+        "contentId": "2844630",
+        "title": "청라꽃갈비 청라본점",
         "error": "<urlopen error timed out>"
       },
       {
         "type": "restaurants",
         "operation": "detailCommon2",
-        "contentId": "2784696",
-        "title": "동작구름카페",
-        "error": "<urlopen error timed out>"
-      },
-      {
-        "type": "restaurants",
-        "operation": "detailCommon2",
-        "contentId": "2838641",
-        "title": "봄솔보리밥",
-        "error": "<urlopen error timed out>"
-      },
-      {
-        "type": "restaurants",
-        "operation": "detailIntro2",
-        "contentId": "2845088",
-        "title": "시굴집",
-        "error": "<urlopen error timed out>"
-      },
-      {
-        "type": "restaurants",
-        "operation": "detailCommon2",
-        "contentId": "2766516",
-        "title": "무화커피",
-        "error": "<urlopen error timed out>"
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailCommon2",
-        "contentId": "3084394",
-        "title": "호텔아르누보서초",
+        "contentId": "2915848",
+        "title": "훈불",
         "error": "<urlopen error timed out>"
       },
       {
         "type": "lodgings",
         "operation": "detailIntro2",
-        "contentId": "861350",
-        "title": "오션사이드 호텔",
+        "contentId": "142771",
+        "title": "임피리얼 팰리스 부티크 호텔",
         "error": "<urlopen error timed out>"
       },
       {
         "type": "lodgings",
         "operation": "detailCommon2",
-        "contentId": "2628203",
-        "title": "한가라지 농원",
+        "contentId": "2592489",
+        "title": "복합한옥공간 곳",
         "error": "<urlopen error timed out>"
       },
       {
         "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "2504658",
+        "title": "딜라이트 호텔",
+        "error": "<urlopen error timed out>"
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "3028593",
+        "title": "베이하운드호텔",
+        "error": "<urlopen error timed out>"
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "3081864",
+        "title": "그린피아관광호텔",
+        "error": "<urlopen error timed out>"
+      },
+      {
+        "type": "lodgings",
+        "operation": "detailCommon2",
+        "contentId": "3011195",
+        "title": "해와달수상낚시빌리지",
+        "error": "<urlopen error timed out>"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "4060434",
+        "title": "국악공연 진연",
+        "error": "<urlopen error timed out>"
+      },
+      {
+        "type": "festivals",
         "operation": "detailIntro2",
-        "contentId": "2542013",
-        "title": "호텔여기어때 광주역점",
+        "contentId": "1018971",
+        "title": "국토정중앙 청춘양구 배꼽축제",
+        "error": "<urlopen error timed out>"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "3493864",
+        "title": "기장군반려동물문화축제",
+        "error": "<urlopen error timed out>"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "2809535",
+        "title": "남산봉수의식 등 전통문화행사",
         "error": "<urlopen error timed out>"
       }
     ],
@@ -17061,10 +17025,10 @@
     "attractions": 822,
     "courses": 49,
     "restaurants": 850,
-    "lodgings": 505,
+    "lodgings": 504,
     "festivals": 96
   },
-  "total": 2226,
+  "total": 2225,
   "seedCities": [
     "경주",
     "인천",
@@ -17373,15 +17337,26 @@
       "mapX": "126.9769154284",
       "mapY": "37.5729534722",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/3590038_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "서울시청 광장관리팀 02-2133-1296",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1364932/"
     },
     {
@@ -17652,6 +17627,7 @@
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2783547/"
     },
@@ -17944,25 +17920,15 @@
       "mapX": "126.8537642877",
       "mapY": "37.5189547671",
       "image": "http://tong.visitkorea.or.kr/cms/resource/64/2611664_image2_1.bmp",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "양천구 자원봉사센터 02-2643-1365",
-        "usetime": "09:00~18:00",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2611669/"
     },
     {
@@ -18076,7 +18042,6 @@
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2456536/"
     },
@@ -19307,26 +19272,15 @@
       "mapX": "126.5339071139",
       "mapY": "37.6280419618",
       "image": "http://tong.visitkorea.or.kr/cms/resource/18/3350618_image2_1.JPG",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "인천종합관광안내소 032-832-3031",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "불가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-732652/"
     },
     {
@@ -19387,28 +19341,15 @@
       "mapX": "126.6394960555",
       "mapY": "37.4790556043",
       "image": "http://tong.visitkorea.or.kr/cms/resource/18/3039318_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "공원녹지팀 032-770-6204",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "가능",
-        "chkbabycarriage": "없음",
-        "chkcreditcard": "없음"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-1114598/"
     },
     {
@@ -19527,6 +19468,7 @@
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2767573/"
     },
@@ -19744,15 +19686,30 @@
       "mapX": "126.6526667493",
       "mapY": "37.5904345493",
       "image": "http://tong.visitkorea.or.kr/cms/resource/16/3395816_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "032-567-3245",
+        "opendate": "2018년도",
+        "restdate": "매주 일요일~월요일",
+        "expguide": "아빠와 함께하는 천체여행 / 일일 천문 교실 / 일일 별자리 체험 / 특강 별빛탐험대 / 특강 우주탐험대 등",
+        "usetime": "14:30~24:00 (프로그램별 상이)",
+        "parking": "가능\n요금 (무료)",
+        "chkbabycarriage": "없음",
+        "chkcreditcard": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2781599/"
     },
     {
@@ -22907,28 +22864,15 @@
       "mapX": "127.4425308280",
       "mapY": "36.4055714493",
       "image": "http://tong.visitkorea.or.kr/cms/resource/44/3033644_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "042-623-9909",
-        "opendate": "1995년 6월",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방",
-        "parking": "가능",
-        "chkbabycarriage": "불가"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daejeon-705678/"
     },
     {
@@ -23266,27 +23210,15 @@
       "mapX": "128.6985587221",
       "mapY": "35.9843506081",
       "image": "http://tong.visitkorea.or.kr/cms/resource/85/3576785_image2_1.JPG",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "053-980-7900",
-        "restdate": "연중무휴",
-        "expguide": "템플스테이",
-        "usetime": "상시 개방",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daegu-126160/"
     },
     {
@@ -23885,15 +23817,26 @@
       "mapX": "128.5721868162",
       "mapY": "35.8746495855",
       "image": "http://tong.visitkorea.or.kr/cms/resource/91/3576191_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "053-663-2000",
+        "restdate": "연중무휴",
+        "usetime": "점포별 상이",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daegu-2366462/"
     },
     {
@@ -24691,26 +24634,15 @@
       "mapX": "128.5390037751",
       "mapY": "35.7691386926",
       "image": "http://tong.visitkorea.or.kr/cms/resource/30/3570030_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "053-631-9390",
-        "restdate": "연중무휴",
-        "usetime": "09:00~18:00",
-        "parking": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daegu-346629/"
     },
     {
@@ -26602,28 +26534,6 @@
       "articlePath": "/tourapi/attractions/attractions-busan-2554068/"
     },
     {
-      "slug": "attractions-busan-2504464",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2504464",
-      "contentTypeId": "12",
-      "title": "부산 송도해상케이블카",
-      "name": "부산 송도해상케이블카",
-      "city": "부산",
-      "profileSlug": "busan",
-      "region": "부산",
-      "address": "부산광역시 서구 송도해변로 171",
-      "tel": "",
-      "mapX": "129.0234248332",
-      "mapY": "35.0766810472",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/11/3413711_image2_1.jpg",
-      "description": "부산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-busan-2504464/"
-    },
-    {
       "slug": "attractions-busan-2456837",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -27106,6 +27016,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-busan-2867934/"
+    },
+    {
+      "slug": "attractions-busan-1942299",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1942299",
+      "contentTypeId": "12",
+      "title": "남선창고터",
+      "name": "남선창고터",
+      "city": "부산",
+      "profileSlug": "busan",
+      "region": "부산",
+      "address": "부산광역시 동구 초량로13번길 53 (초량동)",
+      "tel": "",
+      "mapX": "129.0395112298",
+      "mapY": "35.1167962983",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/79/3070879_image2_1.JPG",
+      "description": "부산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-busan-1942299/"
     },
     {
       "slug": "attractions-ulsan-126722",
@@ -31618,28 +31550,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungbuk-2770109/"
     },
     {
-      "slug": "attractions-chungbuk-3083730",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "3083730",
-      "contentTypeId": "12",
-      "title": "초정약수세종스파텔",
-      "name": "초정약수세종스파텔",
-      "city": "충북",
-      "profileSlug": "chungbuk",
-      "region": "충북",
-      "address": "충청북도 청주시 청원구 내수읍 신기초정로 699",
-      "tel": "",
-      "mapX": "127.5987081910",
-      "mapY": "36.7191355285",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/26/3083726_image2_1.jpg",
-      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungbuk-3083730/"
-    },
-    {
       "slug": "attractions-chungbuk-125813",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -31990,6 +31900,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungbuk-2782476/"
+    },
+    {
+      "slug": "attractions-chungbuk-1679841",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1679841",
+      "contentTypeId": "12",
+      "title": "화양서원 묘정비",
+      "name": "화양서원 묘정비",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 괴산군 청천면 화양동길 188",
+      "tel": "",
+      "mapX": "127.8113849763",
+      "mapY": "36.6690145813",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/90/3571290_image2_1.jpg",
+      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungbuk-1679841/"
     },
     {
       "slug": "attractions-chungnam-525648",
@@ -39506,23 +39438,15 @@
       "mapX": "128.5265599668",
       "mapY": "38.3315552444",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/1581438_image2_1.jpg",
-      "detail": {
-        "distance": "약 100km",
-        "schedule": "당일",
-        "taketime": "약 2시간",
-        "theme": "자연여행"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987544/"
     },
     {
@@ -40664,6 +40588,7 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2784696/"
     },
@@ -41031,7 +40956,6 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2495458/"
     },
@@ -41112,7 +41036,6 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2858244/"
     },
@@ -43148,6 +43071,7 @@
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-2838641/"
     },
@@ -44275,27 +44199,15 @@
       "mapX": "126.6524683579",
       "mapY": "37.5334411768",
       "image": "http://tong.visitkorea.or.kr/cms/resource/16/2844616_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "돼지 왕갈비",
-        "treatmenu": "꽃목살 / 이베리코 목살 / 눈꽃살 등",
-        "infocenterfood": "0507-1352-9592",
-        "parkingfood": "가능",
-        "opentimefood": "- 월요일~목요일 15:00~24:00\n- 금요일 15:00~01:00\n- 주말 및 공휴일 11:30~01:00",
-        "restdatefood": "연중무휴",
-        "lcnsno": "20190211345"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-2844630/"
     },
     {
@@ -44396,15 +44308,28 @@
       "mapX": "126.6777736570",
       "mapY": "37.5593580542",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/2845074_image2_1.jpg",
+      "detail": {
+        "kidsfacility": "0",
+        "firstmenu": "능이버섯오리백숙",
+        "treatmenu": "토종닭볶음탕 / 능이토종닭백숙 / 한방엄나무오리백숙 등",
+        "packing": "가능",
+        "infocenterfood": "032-563-5003",
+        "parkingfood": "가능",
+        "opentimefood": "- 11:00~22:00\n- 마지막 주문 21:00",
+        "restdatefood": "연중무휴",
+        "lcnsno": "20020208423"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-2845088/"
     },
     {
@@ -45348,7 +45273,6 @@
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2915848/"
     },
@@ -47467,6 +47391,7 @@
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daegu-2766516/"
     },
@@ -62912,40 +62837,15 @@
       "mapX": "126.9982451030",
       "mapY": "37.5354165502",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/3592274_image2_1.jpg",
-      "detail": {
-        "roomcount": "128실",
-        "roomtype": "디럭스 / 스위트 / 슈페리어",
-        "checkintime": "15:00",
-        "checkouttime": "12:00",
-        "chkcooking": "불가",
-        "seminar": "0",
-        "sports": "0",
-        "sauna": "0",
-        "beauty": "0",
-        "beverage": "0",
-        "karaoke": "0",
-        "barbecue": "0",
-        "campfire": "0",
-        "bicycle": "0",
-        "fitness": "1",
-        "publicpc": "0",
-        "publicbath": "0",
-        "subfacility": "컨퍼런스룸 / 피트니스룸 / 클럽스타디움",
-        "foodplace": "보왈라 레스토랑(음식점)",
-        "infocenterlodging": "02-3702-8000",
-        "parkinglodging": "가능"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-142771/"
     },
     {
@@ -63104,7 +63004,6 @@
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-2592489/"
     },
@@ -63992,7 +63891,6 @@
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-2504658/"
     },
@@ -64544,6 +64442,7 @@
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-3084394/"
     },
@@ -64933,15 +64832,40 @@
       "mapX": "126.4212063206",
       "mapY": "37.4265356564",
       "image": "http://tong.visitkorea.or.kr/cms/resource/80/3535380_image2_1.jpg",
+      "detail": {
+        "roomcount": "46실",
+        "roomtype": "펜션 / 스탠다드 더블 / 스탠다드 트윈 / 디럭스 / 디럭스 패밀리 프리미엄 / 패밀리 스위트",
+        "checkintime": "16:00",
+        "checkouttime": "12:00",
+        "chkcooking": "가능(객실 별로 상이함)",
+        "seminar": "0",
+        "sports": "0",
+        "sauna": "0",
+        "beauty": "0",
+        "beverage": "0",
+        "karaoke": "0",
+        "barbecue": "0",
+        "campfire": "0",
+        "bicycle": "0",
+        "fitness": "0",
+        "publicpc": "0",
+        "publicbath": "0",
+        "subfacility": "비즈니스센터 / 휴게공간",
+        "foodplace": "레스토랑 / 카페",
+        "infocenterlodging": "032-746-0072",
+        "parkinglodging": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-incheon-861350/"
     },
     {
@@ -65353,63 +65277,6 @@
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-incheon-1893109/"
-    },
-    {
-      "slug": "lodgings-incheon-2593573",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "2593573",
-      "contentTypeId": "32",
-      "title": "노을내리는아름다운집",
-      "name": "노을내리는아름다운집",
-      "city": "인천",
-      "profileSlug": "incheon",
-      "region": "인천",
-      "address": "인천광역시 강화군 삼산남로 933",
-      "tel": "",
-      "mapX": "126.3063373769",
-      "mapY": "37.6890725216",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/73/2594673_image2_1.jpg",
-      "detail": {
-        "roomcount": "11실",
-        "roomtype": "양실",
-        "refundregulation": "숙박 8일 전까지 취소 시 전체금액 90% 환불\n숙박 6~7일 전까지 취소 시 전체금액 80% 환불\n숙박 4~5일 전까지 취소 시 전체금액 50% 환불\n숙박 3일 전까지 취소 시 전체금액 30% 환불\n숙박 2일 전~당일 취소 시 전체금액 환불 불가",
-        "checkintime": "15:00",
-        "checkouttime": "11:00",
-        "chkcooking": "가능",
-        "seminar": "0",
-        "sports": "0",
-        "sauna": "0",
-        "beauty": "0",
-        "beverage": "0",
-        "karaoke": "0",
-        "barbecue": "0",
-        "campfire": "0",
-        "bicycle": "0",
-        "fitness": "0",
-        "publicpc": "0",
-        "publicbath": "0",
-        "subfacility": "카페 / 바비큐장",
-        "foodplace": "있음",
-        "pickup": "가능",
-        "infocenterlodging": "010-8505-9160",
-        "parkinglodging": "가능",
-        "scalelodging": "지상 2층\n대지면적 1.645㎡\n건축물면적 276.3㎡",
-        "accomcountlodging": "36"
-      },
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY",
-        "detail"
-      ],
-      "description": "인천 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
-      "articlePath": "/tourapi/lodgings/lodgings-incheon-2593573/"
     },
     {
       "slug": "lodgings-incheon-2708337",
@@ -66195,6 +66062,7 @@
       "description": "인천 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-incheon-2628203/"
     },
@@ -68265,15 +68133,37 @@
       "mapX": "126.9090330311",
       "mapY": "35.1613814244",
       "image": "http://tong.visitkorea.or.kr/cms/resource/09/2542009_image2_1.jpg",
+      "detail": {
+        "roomcount": "36실",
+        "checkintime": "14:00 주중\n20:00 주말/공휴일",
+        "checkouttime": "13:00 주중\n12:00 주말/공휴일",
+        "seminar": "0",
+        "sports": "0",
+        "sauna": "0",
+        "beauty": "0",
+        "beverage": "0",
+        "karaoke": "0",
+        "barbecue": "0",
+        "campfire": "0",
+        "bicycle": "0",
+        "fitness": "0",
+        "publicpc": "0",
+        "publicbath": "0",
+        "infocenterlodging": "062-514-1988",
+        "parkinglodging": "가능",
+        "reservationlodging": "062-514-1988"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "광주 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gwangju-2542013/"
     },
     {
@@ -69519,57 +69409,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-busan-2574073/"
     },
     {
-      "slug": "lodgings-busan-2736088",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "2736088",
-      "contentTypeId": "32",
-      "title": "시그니엘 부산",
-      "name": "시그니엘 부산",
-      "city": "부산",
-      "profileSlug": "busan",
-      "region": "부산",
-      "address": "부산광역시 해운대구 달맞이길 30",
-      "tel": "",
-      "mapX": "129.1684043635",
-      "mapY": "35.1611020536",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/74/2736074_image2_1.png",
-      "detail": {
-        "roomcount": "260실",
-        "roomtype": "로얄스위트 오션뷰 / 프리미어 스위트 오션뷰 / 시그니엘 프리미어 패밀리트윈 오션뷰 등",
-        "checkintime": "15:00",
-        "checkouttime": "11:00",
-        "chkcooking": "불가능",
-        "seminar": "1",
-        "sports": "0",
-        "sauna": "1",
-        "beauty": "0",
-        "beverage": "1",
-        "karaoke": "0",
-        "barbecue": "0",
-        "campfire": "0",
-        "bicycle": "0",
-        "fitness": "1",
-        "publicpc": "0",
-        "publicbath": "0",
-        "foodplace": "더 라운지 / 더뷰 레스토랑 / 차오란 / 패스트리 살롱 등",
-        "infocenterlodging": "051-922-1000"
-      },
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY",
-        "detail"
-      ],
-      "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
-      "articlePath": "/tourapi/lodgings/lodgings-busan-2736088/"
-    },
-    {
       "slug": "lodgings-busan-2714406",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -69928,7 +69767,6 @@
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-busan-3028593/"
     },
@@ -70607,6 +70445,65 @@
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-busan-2531399/"
+    },
+    {
+      "slug": "lodgings-busan-2572851",
+      "type": "lodgings",
+      "typeLabel": "호텔·숙소",
+      "category": "hotels",
+      "contentId": "2572851",
+      "contentTypeId": "32",
+      "title": "모닝듀 게스트 하우스(모닝듀)",
+      "name": "모닝듀 게스트 하우스(모닝듀)",
+      "city": "부산",
+      "profileSlug": "busan",
+      "region": "부산",
+      "address": "부산광역시 동구 초량중로21번길 5-2 (초량동)",
+      "tel": "",
+      "mapX": "129.0364337920",
+      "mapY": "35.1141493149",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/58/2571658_image2_1.jpg",
+      "detail": {
+        "roomcount": "8",
+        "roomtype": "양실",
+        "refundregulation": "에어비앤비 규정",
+        "checkintime": "16:00",
+        "checkouttime": "11:00",
+        "chkcooking": "불가(공용주방 이용)",
+        "seminar": "0",
+        "sports": "0",
+        "sauna": "0",
+        "beauty": "0",
+        "beverage": "1",
+        "karaoke": "0",
+        "barbecue": "0",
+        "campfire": "0",
+        "bicycle": "0",
+        "fitness": "0",
+        "publicpc": "0",
+        "publicbath": "0",
+        "subfacility": "세탁실",
+        "foodplace": "있음",
+        "reservationurl": "https://airbnb.co.kr/h/catnap08",
+        "pickup": "불가",
+        "infocenterlodging": "0507-1423-9782",
+        "parkinglodging": "가능",
+        "reservationlodging": "홈페이지",
+        "scalelodging": "6층 단독건물",
+        "accomcountlodging": "16"
+      },
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY",
+        "detail"
+      ],
+      "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
+      "articlePath": "/tourapi/lodgings/lodgings-busan-2572851/"
     },
     {
       "slug": "lodgings-ulsan-2571095",
@@ -72708,7 +72605,6 @@
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3081864/"
     },
@@ -73057,7 +72953,6 @@
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3011195/"
     },
@@ -73326,9 +73221,37 @@
       "mapX": "127.0720072667",
       "mapY": "37.7498540505",
       "image": "http://tong.visitkorea.or.kr/cms/resource/30/3091330_image2_1.JPG",
+      "detail": {
+        "roomtype": "스탠다드 / 커플 PC / 디럭스",
+        "checkintime": "14:00",
+        "checkouttime": "12:00",
+        "chkcooking": "불가",
+        "seminar": "0",
+        "sports": "0",
+        "sauna": "0",
+        "beauty": "0",
+        "beverage": "0",
+        "karaoke": "0",
+        "barbecue": "0",
+        "campfire": "0",
+        "bicycle": "0",
+        "fitness": "0",
+        "publicpc": "0",
+        "publicbath": "0",
+        "infocenterlodging": "031-843-5100",
+        "parkinglodging": "가능"
+      },
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY",
+        "detail"
+      ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3091337/"
     },
     {
