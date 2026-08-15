@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:09:52",
+  "generatedAt": "2026-08-16T05:57:45",
   "kind": "courses",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 49,
@@ -682,7 +682,6 @@
       "description": "경기 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gyeonggi-2899221/"
     },
@@ -919,15 +918,23 @@
       "mapX": "128.5265599668",
       "mapY": "38.3315552444",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/1581438_image2_1.jpg",
+      "detail": {
+        "distance": "약 100km",
+        "schedule": "당일",
+        "taketime": "약 2시간",
+        "theme": "자연여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "강원 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-gangwon-2987544/"
     },
     {
@@ -1177,7 +1184,6 @@
       "description": "충북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungbuk-2867109/"
     },
@@ -1269,23 +1275,15 @@
       "mapX": "126.5173140741",
       "mapY": "36.5037078993",
       "image": "",
-      "detail": {
-        "distance": "92.05km",
-        "schedule": "기타",
-        "taketime": "1박 2일",
-        "theme": "----지자체-----"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "충남 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-chungnam-1937646/"
     },
     {

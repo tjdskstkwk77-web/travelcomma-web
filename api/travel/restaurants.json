@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:09:52",
+  "generatedAt": "2026-08-16T05:57:45",
   "kind": "restaurants",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 850,
@@ -160,7 +160,6 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2758163/"
     },
@@ -689,6 +688,7 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2495458/"
     },
@@ -769,6 +769,7 @@
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2858244/"
     },
@@ -1966,28 +1967,15 @@
       "mapX": "127.0633591310",
       "mapY": "37.6150723535",
       "image": "http://tong.visitkorea.or.kr/cms/resource/05/3572005_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "숯불족발",
-        "treatmenu": "숯불매운족발 / 원조냉족발 / 반반족발 등",
-        "smoking": "모두 금연석",
-        "infocenterfood": "0507-1355-5884",
-        "parkingfood": "불가능",
-        "opentimefood": "- 화요일~토요일 17:00~24:00\n- 일요일 17:00~23:00",
-        "restdatefood": "매주 월요일",
-        "lcnsno": "19880059001"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2563380/"
     },
     {
@@ -2007,28 +1995,14 @@
       "mapX": "127.0765994976",
       "mapY": "37.6183333237",
       "image": "http://tong.visitkorea.or.kr/cms/resource/73/3570973_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "돼지왕갈비",
-        "treatmenu": "한우투뿔채끝등심 / 한돈목살양념구이 / 소양념구이 등",
-        "smoking": "모두 금연석",
-        "infocenterfood": "02-974-1500",
-        "parkingfood": "가능",
-        "opentimefood": "[평일]\n- 11:30~21:30\n- 준비시간 15:00~17:00\n[주말]\n- 11:30~21:30",
-        "restdatefood": "연중무휴",
-        "lcnsno": "19970059595"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-820700/"
     },
     {
@@ -2048,28 +2022,14 @@
       "mapX": "126.6340494965",
       "mapY": "37.4730617607",
       "image": "http://tong.visitkorea.or.kr/cms/resource/83/3568683_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "설렁탕",
-        "treatmenu": "도가니탕 / 해장국 / 도가니무침 등",
-        "smoking": "모두 금연석",
-        "infocenterfood": "032-772-7885",
-        "parkingfood": "가능",
-        "opentimefood": "08:30~20:30 (마지막 주문 20:00)",
-        "restdatefood": "매주 화요일",
-        "lcnsno": "19740190013"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-601711/"
     },
     {
@@ -2089,29 +2049,14 @@
       "mapX": "126.6449151157",
       "mapY": "37.4750894946",
       "image": "http://tong.visitkorea.or.kr/cms/resource/85/3530785_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "해장국",
-        "treatmenu": "설렁탕",
-        "smoking": "모두 금연석",
-        "infocenterfood": "032-766-0335",
-        "parkingfood": "불가능",
-        "opentimefood": "- 해장국 05:00~10:30\n- 설렁탕 11:00~15:00",
-        "restdatefood": "연중무휴",
-        "chkcreditcardfood": "가능",
-        "lcnsno": "19720192016"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-601980/"
     },
     {
@@ -3643,28 +3588,15 @@
       "mapX": "126.6992344613",
       "mapY": "37.5995620894",
       "image": "http://tong.visitkorea.or.kr/cms/resource/08/2843508_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "대게",
-        "treatmenu": "킹크랩 / 랍스터 / 보일링 씨푸드 등",
-        "packing": "가능",
-        "infocenterfood": "0507-1406-3777",
-        "parkingfood": "가능",
-        "opentimefood": "[월요일~토요일]\n- 12:00~23:00\n- 마지막 주문 22:00\n[일요일]\n- 12:00~22:00\n- 마지막 주문 21:00",
-        "restdatefood": "연중무휴",
-        "lcnsno": "20140208645"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-2843519/"
     },
     {
@@ -3932,15 +3864,27 @@
       "mapX": "126.6524683579",
       "mapY": "37.5334411768",
       "image": "http://tong.visitkorea.or.kr/cms/resource/16/2844616_image2_1.jpg",
+      "detail": {
+        "kidsfacility": "0",
+        "firstmenu": "돼지 왕갈비",
+        "treatmenu": "꽃목살 / 이베리코 목살 / 눈꽃살 등",
+        "infocenterfood": "0507-1352-9592",
+        "parkingfood": "가능",
+        "opentimefood": "- 월요일~목요일 15:00~24:00\n- 금요일 15:00~01:00\n- 주말 및 공휴일 11:30~01:00",
+        "restdatefood": "연중무휴",
+        "lcnsno": "20190211345"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-incheon-2844630/"
     },
     {
@@ -5006,6 +4950,7 @@
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2915848/"
     },
@@ -5472,27 +5417,15 @@
       "mapX": "127.3344182266",
       "mapY": "36.3050032571",
       "image": "http://tong.visitkorea.or.kr/cms/resource/13/2899513_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "직화짬뽕",
-        "treatmenu": "꼬막짬뽕 / 소고기짬뽕 / 짜장면 등",
-        "infocenterfood": "042-542-7545",
-        "parkingfood": "가능",
-        "opentimefood": "- 11:00~21:00\n- 준비시간 16:00~17:00\n- 마지막 주문 20:30",
-        "restdatefood": "매주 월요일 / 화요일",
-        "lcnsno": "20160237465"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2899522/"
     },
     {
@@ -7832,28 +7765,15 @@
       "mapX": "128.5533589271",
       "mapY": "35.9382448127",
       "image": "http://tong.visitkorea.or.kr/cms/resource/19/2840619_image2_1.png",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "기와집보쌈",
-        "treatmenu": "산더미 쟁반막국수 / 비빔막국수 / 칼국수 등",
-        "packing": "가능",
-        "infocenterfood": "053-324-6886",
-        "parkingfood": "가능",
-        "opentimefood": "- 11:00~22:00\n- 준비시간 15:30~16:00\n- 마지막 주문 21:00",
-        "restdatefood": "매주 월요일",
-        "lcnsno": "20080169083"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daegu-2840622/"
     },
     {

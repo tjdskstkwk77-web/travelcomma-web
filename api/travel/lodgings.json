@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:09:52",
+  "generatedAt": "2026-08-16T05:57:45",
   "kind": "lodgings",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 504,
@@ -133,15 +133,40 @@
       "mapX": "126.9982451030",
       "mapY": "37.5354165502",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/3592274_image2_1.jpg",
+      "detail": {
+        "roomcount": "128실",
+        "roomtype": "디럭스 / 스위트 / 슈페리어",
+        "checkintime": "15:00",
+        "checkouttime": "12:00",
+        "chkcooking": "불가",
+        "seminar": "0",
+        "sports": "0",
+        "sauna": "0",
+        "beauty": "0",
+        "beverage": "0",
+        "karaoke": "0",
+        "barbecue": "0",
+        "campfire": "0",
+        "bicycle": "0",
+        "fitness": "1",
+        "publicpc": "0",
+        "publicbath": "0",
+        "subfacility": "컨퍼런스룸 / 피트니스룸 / 클럽스타디움",
+        "foodplace": "보왈라 레스토랑(음식점)",
+        "infocenterlodging": "02-3702-8000",
+        "parkinglodging": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-142771/"
     },
     {
@@ -300,6 +325,7 @@
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-2592489/"
     },
@@ -1187,6 +1213,7 @@
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-2504658/"
     },
@@ -2316,7 +2343,6 @@
       "description": "인천 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-incheon-2782945/"
     },
@@ -2628,7 +2654,6 @@
       "description": "인천 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-incheon-2708337/"
     },
@@ -4066,41 +4091,15 @@
       "mapX": "127.4332647099",
       "mapY": "36.3137317893",
       "image": "",
-      "detail": {
-        "roomcount": "1",
-        "roomtype": "양실",
-        "refundregulation": "온라인 예약 시 해당 업체의 환불 규정에 따름",
-        "checkintime": "15:00",
-        "checkouttime": "11:00",
-        "chkcooking": "가능",
-        "seminar": "0",
-        "sports": "0",
-        "sauna": "0",
-        "beauty": "0",
-        "beverage": "0",
-        "karaoke": "0",
-        "barbecue": "0",
-        "campfire": "0",
-        "bicycle": "0",
-        "fitness": "0",
-        "publicpc": "0",
-        "publicbath": "0",
-        "reservationurl": "https://www.airbnb.co.kr/rooms/1399744395791703662",
-        "pickup": "불가",
-        "parkinglodging": "가능",
-        "reservationlodging": "가능(에어비앤비예약)"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-daejeon-3533155/"
     },
     {
@@ -5592,38 +5591,15 @@
       "mapX": "126.9182520865",
       "mapY": "35.1443890545",
       "image": "",
-      "detail": {
-        "checkintime": "15:00",
-        "checkouttime": "12:00",
-        "chkcooking": "불가",
-        "seminar": "0",
-        "sports": "0",
-        "sauna": "0",
-        "beauty": "0",
-        "beverage": "1",
-        "karaoke": "1",
-        "barbecue": "0",
-        "campfire": "0",
-        "bicycle": "0",
-        "fitness": "0",
-        "publicpc": "0",
-        "publicbath": "0",
-        "subfacility": "세탁실",
-        "infocenterlodging": "062-229-0775",
-        "parkinglodging": "가능",
-        "accomcountlodging": "70"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "광주 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gwangju-3044674/"
     },
     {
@@ -6878,41 +6854,15 @@
       "mapX": "129.0365232086",
       "mapY": "35.0945070713",
       "image": "http://tong.visitkorea.or.kr/cms/resource/64/2568064_image2_1.jpg",
-      "detail": {
-        "roomcount": "3",
-        "roomtype": "양실",
-        "checkintime": "14:00",
-        "checkouttime": "11:00",
-        "chkcooking": "가능",
-        "seminar": "0",
-        "sports": "0",
-        "sauna": "0",
-        "beauty": "0",
-        "beverage": "0",
-        "karaoke": "0",
-        "barbecue": "0",
-        "campfire": "0",
-        "bicycle": "0",
-        "fitness": "0",
-        "publicpc": "0",
-        "publicbath": "1",
-        "pickup": "불가",
-        "parkinglodging": "가능",
-        "reservationlodging": "전화(010-2171-0390)",
-        "scalelodging": "20층 주상복합 건물 중 한 호실",
-        "accomcountlodging": "8"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-busan-2570213/"
     },
     {
@@ -7063,6 +7013,7 @@
       "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-busan-3028593/"
     },
@@ -8056,7 +8007,6 @@
       "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-ulsan-2994636/"
     },
@@ -9901,6 +9851,7 @@
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3081864/"
     },
@@ -10249,6 +10200,7 @@
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3011195/"
     },

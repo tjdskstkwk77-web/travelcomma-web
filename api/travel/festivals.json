@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:09:52",
+  "generatedAt": "2026-08-16T05:57:45",
   "kind": "festivals",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 96,
@@ -1015,6 +1015,7 @@
       "description": "국악공연 진연 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
@@ -1029,7 +1030,20 @@
       "city": "강원",
       "region": "강원",
       "image": "https://tong.visitkorea.or.kr/cms/resource/54/4095354_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "양구문화재단",
+        "sponsor1tel": "033-482-9174",
+        "eventenddate": "20260830",
+        "playtime": "09:00~22:00",
+        "eventplace": "양구 서천 레포츠공원 일원",
+        "program": "1. 공연 : 개막식, 개막축하 콘서트, 요일별 메인 공연\n2. 퍼포먼스 : 퍼레이드, 불꽃쇼, 워터 건 등\n3. 이벤트 : 해태크라운 로얄곰취키트 만들기 및 곰취관련 이벤트 등\n4. 홍보, 전시 : 양구 배꼬비 홍보, 문학 및 분재전시 등\n5. 먹거리, 판매 : 농특산물 판매, 양구명품막걸리판매, 카페분식, 푸드코트 등\n6. 연계 행사 : G1 라디오 공개방송, 21사단과 함께하는 군장병콘서트 등",
+        "eventstartdate": "20260828",
+        "usetimefestival": "무료입장 및 기타체험비 유료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-08-28",
       "end": "2026-08-30",
       "venue": "강원특별자치도 양구군 양구읍 상리 394-21",
@@ -1038,7 +1052,8 @@
       "description": "국토정중앙 청춘양구 배꼽축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2"
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1846797",
@@ -1225,6 +1240,7 @@
       "description": "기장군반려동물문화축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
@@ -1277,19 +1293,7 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/27/3544627_image2_1.jpg",
-      "detail": {
-        "sponsor1": "김천시",
-        "sponsor1tel": "053-965-0910",
-        "eventenddate": "20261025",
-        "playtime": "10:00~17:00",
-        "eventplace": "김천시 직지문화공원 및 사명대사공원 일원",
-        "program": "1. 메인프로그램 : 김밥플레이리스트(축하공연), 꼬달이 돌잡이 등2. 부대프로그램 : 김밥 미로 탈출, 김밥 에어바운스 등3. 소비자 참여 프로그램 : 김밥판매부스(로컬/일반), 나만의 김밥만들기, 프랜들리(분식), 플리마켓 등4. 기타 내용 : 김밥 체험부스(김밥캐릭터만들기, 김밥 보드게임 등)",
-        "eventstartdate": "20261023",
-        "usetimefestival": "무료"
-      },
-      "detailQuality": [
-        "detail"
-      ],
+      "detailQuality": [],
       "start": "2026-10-23",
       "end": "2026-10-25",
       "venue": "경상북도 김천시 대항면 황악로 1189-52",
@@ -1298,8 +1302,7 @@
       "description": "김천김밥축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2"
     },
     {
       "slug": "tourapi-2551117",
@@ -1413,6 +1416,7 @@
       "description": "남산봉수의식 등 전통문화행사 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
@@ -1763,22 +1767,7 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/65/4081065_image2_1.jpg",
-      "detail": {
-        "sponsor1": "한국문화예술위원회",
-        "sponsor1tel": "070-7954-1369",
-        "sponsor2": "한국문화예술위원회",
-        "eventenddate": "20260920",
-        "playtime": "프로그램 별 상이함",
-        "eventplace": "마로니에 공원",
-        "agelimit": "전 연령",
-        "program": "- 주요 프로그램 : 전시 및 문학 프로그램 / 공연 / 북토크 / 워크숍 / 협력 프로그램 / 개막식 등\n1. 개막식\n- 기간 : 2026.09.16. 19:30\n- 장소 : 아르코예술극장 소극장\n- 주요 프로그램 : 문학주간 2026의 주제인 '곁눈질'을 알리고, 11주년을 기념하는 개막 행사\n2. 주제 스테이지\n- 장소 : 아르코 예술극장 소극장 / 아르코꿈밭극장 / 예술가의 집 2층 라운지 / 예술가의 집 3층 다목적홀\n- 주요 프로그램 : 국내 주요 작가 및 극작가, 시인, 배우, 연출가 등이 함께하는 북토크, 낭독, 대담, 공연 등\n3. 협력 스테이지\n- 장소 : 아르코 예술극장 소극장 / 아르코꿈밭극장 / 예술가의 집 2층 라운지 / 예술가의 집 3층 다목적홀\n- 주요 프로그램 : 한국문학 비평 포럼 / 청소년 문학토크 / 출판사 및 문학관 협력 프로그램 등\n4. 우리동네 프로그램\n- 기간 : 2026.08.24.~2026.09.20.\n- 장소 : 전국 지역서점\n- 주요 프로그램 : 30개 지역서점에서 직접 기획한 전국 각지에서 만나는 문학주간 북토크 / 워크숍\n5. 전시\n- 장소 : 아르코 미술관 1층 공간열림\n- 주요 프로그램 : 현대어린이책미술관 협력 전시\n6. 참여 프로그램\n- 장소 : 마로니에 공원 일대\n- 주요 프로그램 : 팝업부스 / 북라운지 / DIY 거울만들기 체험 / 미션 빙고 등",
-        "eventstartdate": "20260916",
-        "usetimefestival": "무료",
-        "progresstype": "선택안함"
-      },
-      "detailQuality": [
-        "detail"
-      ],
+      "detailQuality": [],
       "start": "2026-09-16",
       "end": "2026-09-20",
       "venue": "서울특별시 종로구 대학로 104 (동숭동)",
@@ -1787,8 +1776,7 @@
       "description": "문학주간2026 〈곁눈질〉 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2"
     },
     {
       "slug": "tourapi-2598331",
@@ -2258,20 +2246,7 @@
       "city": "경남",
       "region": "경남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/88/3523088_image2_1.JPG",
-      "detail": {
-        "sponsor1": "산청축제관광재단",
-        "sponsor1tel": "055-970-6670",
-        "eventenddate": "20261011",
-        "playtime": "10:00 ~ 18:00",
-        "eventplace": "동의보감촌 일원",
-        "program": "- 공식행사 : 개막식, 폐막식- 주제행사 : 산청혜민서, 내몸의 보약체험, 항노화뷰티관- 전시행사 : (상설전시) - 엑스포 주제관, 산청한의학박물관, 산청약초관 / (특별전시) - 2025 산청한의학박물관 특별전. 웰니스전시홍보관, 산청문인시화전, 플랜트정원조성- 공연행사 : 상설 퍼레이드 주제공연, 무대별 연계행사 공연- 체험행사 : 산청문화체험존, 가족힐링체험존, 자연친화체험존, 동의보감상설체험- 판매행사 : 약초판매장터, 농특산물판매장, 산청공예전시판매장, 산청음식관, 푸드트럭존- 학술행사 : 향약집성방 및 신찬벽온방 학술대회",
-        "eventstartdate": "20261002",
-        "usetimefestival": "무료(일부 유료)",
-        "progresstype": "선택안함"
-      },
-      "detailQuality": [
-        "detail"
-      ],
+      "detailQuality": [],
       "start": "2026-10-02",
       "end": "2026-10-11",
       "venue": "경상남도 산청군 금서면 동의보감로555번길 45-6",
@@ -2280,8 +2255,7 @@
       "description": "산청한방약초축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2"
     },
     {
       "slug": "tourapi-1409287",
@@ -2926,44 +2900,6 @@
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
-      "slug": "tourapi-2989846",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "2989846",
-      "contentTypeId": "15",
-      "title": "송도해변축제",
-      "name": "송도해변축제",
-      "city": "인천",
-      "region": "인천",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/70/4089470_image2_1.JPG",
-      "detail": {
-        "sponsor1": "인천광역시 연수구",
-        "sponsor1tel": "032-749-7330 / 032-822-1000",
-        "sponsor2": "재단법인 연수문화재단",
-        "eventenddate": "20260815",
-        "playtime": "12:00~21:00 (물놀이장: 13:00~20:00)",
-        "eventplace": "송도달빛공원",
-        "program": "1. 메인 : 테마별 물놀이장(대형 풀장, 워터 슬라이드, 클라이밍풀, 북극곰 풀 등), 인공 백사장(모래 놀이터)\n2. 공연 : 개·폐막식 공연, 버스킹, 불꽃공연, 포토존\n3. 체험존 : 추억의 송도유원지 놀이기구(바이킹, 회전목마 등)\n4. 이벤트 : 비어요가, 랜덤플레이 댄스, 러닝교실, 버블폼 파티, 물총대전 등\n5. 휴식존 : 먹거리존, 캠프닉존, 폭염 대비 쿨존 등",
-        "eventstartdate": "20260808",
-        "usetimefestival": "무료",
-        "progresstype": "선택안함"
-      },
-      "detailQuality": [
-        "detail"
-      ],
-      "start": "2026-08-08",
-      "end": "2026-08-15",
-      "venue": "인천광역시 연수구 아암대로 764 (송도동) 성지아파트 인근",
-      "contact": "032-749-7330 / 032-822-1000",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "송도해변축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
-    },
-    {
       "slug": "tourapi-1916616",
       "type": "festivals",
       "typeLabel": "축제·행사",
@@ -3600,6 +3536,44 @@
       "contact": "033-769-1905",
       "organizer": "TourAPI·공식 공지 확인",
       "description": "여기저기 페스티벌 in 철원 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-1147035",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "1147035",
+      "contentTypeId": "15",
+      "title": "여주오곡나루축제",
+      "name": "여주오곡나루축제",
+      "city": "경기",
+      "region": "경기",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/63/3546463_image2_1.JPG",
+      "detail": {
+        "sponsor1": "여주시",
+        "sponsor1tel": "031-881-9694",
+        "sponsor2": "여주세종문화관광재단",
+        "eventenddate": "20261025",
+        "playtime": "10:00~21:00",
+        "eventplace": "신륵사 관광지 일원",
+        "program": "1. 대표 프로그램- 여주쌀 가마솥 비빔밥 : 대형 가마솥으로 지은 여주 햅쌀 비빔밥을 저렴하게 맛볼 수 있는 프로그램- 군고구마 기네스 : 초대형 군고구마통 10개로 구운 여주 고구마를 다함께 나눠 먹는 대형 퍼포먼스- 진상 퍼레이드 : 조선시대 조포나루에서 여주 농특산물을 한양으로 진상했던 스토리를 구현한 퍼레이드- 소원지길 : 남한강을 바라보며 소원을 빌면 이뤄진다는 설화를 담은 출렁다리 소원지길- 여주 흔암리 쌍용거 줄다리기 : 정월대보름 풍년을 기원하며 점동면 흔암리 마을주민들이 펼치던 전통 줄다리기 행렬- 여주 본두리 낙화놀이 : 불꽃이 남한강 위에 흩날리는 장관을 연출하는 가남읍 본두리 전통 불꽃놀이2. 축제 공간별 프로그램- 오곡마당 : 오곡장터, 여주쌀 홍보관, 조선놀이터, 농촌관광체험- 나루마당 : 군고구마 기네스, 바비큐 꼬치 체험, 나루공연장, 나루터 저잣거리, 짚풀놀이터, 소원지길, 낙화놀이, 별빛 곡창길, 남한강 미디어 라이팅쇼, 나루터 플라잉쇼, 나루터 미디어아트, 몽유도원- 잔치마당 : 가마솥 여주쌀 비빔밥, 먹거리 장터, 가양주 품평회, 떡메치기, 여주 도자 물레",
+        "eventstartdate": "20261023",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "venue": "경기도 여주시 천송동 290-3",
+      "contact": "031-881-9694",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "여주오곡나루축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
