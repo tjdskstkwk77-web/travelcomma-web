@@ -1,15 +1,15 @@
 {
   "base": "KRW",
   "rates": {
-    "JPY": 0.11248,
-    "THB": 0.023444,
-    "VND": 18.293196,
-    "USD": 0.000706,
+    "JPY": 0.112511,
+    "THB": 0.023447,
+    "VND": 18.283987,
+    "USD": 0.000707,
     "EUR": 0.000611,
-    "TWD": 0.022585,
+    "TWD": 0.022594,
     "SGD": 0.000904
   },
-  "generatedAt": "2026-08-16 05:30",
-  "sourceUpdated": "Sat, 15 Aug 2026 00:02:31 +0000",
+  "generatedAt": "2026-08-17 05:30",
+  "sourceUpdated": "Sun, 16 Aug 2026 00:02:31 +0000",
   "source": "open.er-api.com"
 }
