@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:43:28",
+  "generatedAt": "2026-08-19T05:49:14",
   "kind": "festivals",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 96,
@@ -16,7 +16,22 @@
       "city": "울산",
       "region": "울산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/02/4090202_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "울산문화관광재단",
+        "sponsor1tel": "052-255-1823",
+        "sponsor2": "울산문화관광재단",
+        "eventenddate": "20260829",
+        "playtime": "18:00~22:00",
+        "eventplace": "울산대공원 잔디광장",
+        "agelimit": "전 연령",
+        "program": "- 주요 프로그램 : 야시장(25개 마켓 부스와 16개의 푸드트럭)\n- 부대 행사 및 프로그램 : 회전목마 / 미니기차 / 버스킹 공연 / 메카세쿼이아 숲길 체험존 / 캠핑존 / 피크닉존 / 관람객 신청곡 플레이",
+        "eventstartdate": "20260729",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-07-29",
       "end": "2026-08-29",
       "venue": "울산광역시 남구 대공원로 94 (옥동)",
@@ -24,7 +39,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "가든 나이트 마켓 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-4098571",
@@ -38,7 +55,19 @@
       "city": "경남",
       "region": "경남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/77/4098577_image2_1.png",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "김해문화관광재단",
+        "sponsor1tel": "055-340-7900~1",
+        "eventenddate": "20260823",
+        "playtime": "17:20~22:00 (입장마감21:00)",
+        "eventplace": "김해가야테마파크",
+        "program": "1. 빛 축제 콘텐츠 : 빛의 바다, 빛의 랑골리, 하늘 속 파도, 가야의 섬광, 빛의 등불, 빛의 별자리, 랑골리 로드, 빛의 홍살문, 항해의 끝\n2. 개막식 : LED퍼포먼스, 불꽃쇼\n3. 나이트스테이지 \"빛을 따라 흐르는 선율\" : 수로공연장 앞에서 즐기는 시민 무료 콘서트\n4. 달빛 국악산책 : 가야왕궁 앞에서 펼쳐지는 대금, 가야금, 고수 국악 연주\n5. 먹거리푸드존 : 김해지역의 유명한 베이커리카페와 김해 식재료를 사용한 먹거리 푸드존과 푸드트럭\n6. 가꿈아트마켓: 김해지역 특산품을 만나볼 수 있는 아트마켓",
+        "eventstartdate": "20260814",
+        "usetimefestival": "유료(2,000원)"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-08-14",
       "end": "2026-08-23",
       "venue": "경상남도 김해시 가야테마길 161 (어방동)",
@@ -46,7 +75,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "가야테마파크 빛 축제 빛을 향한 항해 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2746930",
@@ -60,7 +91,20 @@
       "city": "경남",
       "region": "경남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/19/3539719_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "거창군",
+        "sponsor1tel": "055-940-8227",
+        "eventenddate": "20261011",
+        "playtime": "07:00 ~ 19:00",
+        "eventplace": "거창 별바람언덕",
+        "program": "1. 관람코스\n- 아스타 단지 : 아스타국화 5ha, 30만본, 전망대, 억새 미로, 체험장 등\n- 구절초 단지 : 구절초, 벌개미취 쑥부쟁이 4ha, 40만본, 데크쉼터\n- 무장애나눔길 : 데크로드 3.8km, 전망대 3개소\n2. 공연프로그램\n- 노을빛언덕음악회, 버스킹, 마술쇼, 지역예술인 단체 공연\n3. 체험프로그램\n- 스탬프투어\n4. 판매 및 먹거리\n- 꽃별마켓, 먹거리장터, 푸드트럭존",
+        "eventstartdate": "20260918",
+        "usetimefestival": "유료(셔틀버스 이용료 3,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-10-11",
       "venue": "경상남도 거창군 신원면 연수사길 452",
@@ -68,7 +112,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "감악산 꽃별 여행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1307813",
@@ -82,7 +128,20 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/77/3541977_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "강동구",
+        "sponsor1tel": "02-3425-5240",
+        "eventenddate": "20261018",
+        "playtime": "10:00~22:00",
+        "eventplace": "서울 암사동 유적",
+        "program": "1. 메인프로그램 : 개, 폐막식, 축하공연, 개막 드론쇼, 폐막 불꽃쇼, 거리퍼레이드, 강동선사 노래자랑, 자치회관 프로그램 경연대회, 바위절 호상놀이 재연2. 부대프로그램 : 먹거리장터, 지역예술인 공연 등3. 소비자 참여 프로그램 : 선사바비큐체험, 신석기 고고학 체험스쿨, 선사힐링족욕 등4. 기타 내용 : 숲속무대 공연, 거리 공연, 선사숲놀이터, 선사우물보물찾기 등",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료(먹거리장터의 경우 개별 음식구매는 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-18",
       "venue": "서울특별시 강동구 올림픽로 875 (암사동)",
@@ -90,7 +149,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "강동선사문화축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-825295",
@@ -104,7 +165,21 @@
       "city": "강원",
       "region": "강원",
       "image": "https://tong.visitkorea.or.kr/cms/resource/24/3546224_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "문화체육관광부, 강원특별자치도, 강릉시",
+        "sponsor1tel": "033-647-6802",
+        "sponsor2": "강릉문화재단",
+        "eventenddate": "20261025",
+        "playtime": "10:00~21:00",
+        "eventplace": "강릉커피거리",
+        "program": "1. 도심 축제- 웰컴커피숍- 스탬프랠리2. 커피거리축제- 별이빛나는밤에- 별의별강릉커피- 커피축제 Radio- 커피놀이터- 원두상점- 커피용품전시·판매- 커피크닉- 100人100味- 커피웨이브- 커피축제마켓- 수공예마켓- 커피버스킹- 커피와인문학- 커피체험존- 커피스타3. 부대프로그램- 불꽃놀이- 영수증이벤트- 대형케이크퍼포먼스축제장 내 먹거리 부스가 없으므로 인근 지역 식당 이용 바랍니다.",
+        "eventstartdate": "20261021",
+        "usetimefestival": "일부유료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-21",
       "end": "2026-10-25",
       "venue": "강원특별자치도 강릉시 창해로14번길 20-1 (견소동)",
@@ -112,7 +187,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "강릉커피축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2614762",
@@ -126,7 +203,20 @@
       "city": "경남",
       "region": "경남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/11/4097611_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "거제해양관광개발공사",
+        "sponsor1tel": "055-639-8193",
+        "eventenddate": "20260912",
+        "playtime": "18:00~22:00",
+        "eventplace": "장승포 수변공원",
+        "program": "1. 메인 공연 : 지역가수 및 전문팀 공연(EDM·댄스·7080·K-POP), 시민 참여 이벤트\n2. 맥주존 : 생맥주 무제한 제공\n3. 먹거리존 : 푸드트럭, 장승포동 주민자치회 먹거리 부스\n4. 체험 프로그램 : 지역 막걸리 전시·홍보·시음 체험, 거제 관광 홍보부스\n5. 부대행사 : 포토존, 외국인 통역 지원 부스, 베리어프리존, 무더위 쉼터, 친환경 캠페인\n[이용요금]\n- 1차 사전예매(8.7.~23.) 12,000원(20%할인)\n- 2차 사전예매(8.24~9.10.) 13,500원(10%할인)",
+        "eventstartdate": "20260911",
+        "usetimefestival": "유료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-11",
       "end": "2026-09-12",
       "venue": "경상남도 거제시 장승로 138 (장승포동)",
@@ -134,7 +224,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "거제맥주축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-141105",
@@ -148,7 +240,21 @@
       "city": "경남",
       "region": "경남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/32/4084832_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "경남 고성군",
+        "sponsor1tel": "055-670-7400",
+        "sponsor2": "(재)고성문화관광재단",
+        "eventenddate": "20261101",
+        "playtime": "09:00~18:00 (야간개장 시 22:00까지)",
+        "eventplace": "당항포관광지",
+        "program": "1. 메인프로그램: 공룡퍼레이드, 서커스 공연, 공룡테마 전시, 로봇 공룡 라이브쇼 등\n2. 부대프로그램: 캐릭터 특별전시관, 쥬라기파크, 야간 퍼레이드, 불꽃쇼 등\n3. 소비자 참여 프로그램 : 대형 화석 발굴 체험, 공룡그리기, 공룡 먹이주기, 다이노퍼즐, 바닥 스케치북 등",
+        "eventstartdate": "20260922",
+        "usetimefestival": "유료 (대인 19,000원, 소인 13,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-22",
       "end": "2026-11-01",
       "venue": "경상남도 고성군 당항만로 1116 당항포관광지",
@@ -156,7 +262,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "경남고성공룡세계엑스포 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506766",
@@ -170,7 +278,21 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/55/3563955_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "영주시",
+        "sponsor1tel": "054-635-0020",
+        "sponsor2": "영주풍기인삼축제조직위원회",
+        "eventenddate": "20261011",
+        "playtime": "10:00~22:00",
+        "eventplace": "영주시 풍기읍 남원천 및 인삼문화팝업공원 일원",
+        "program": "1. 메인프로그램 : 개삼터 고유제, 인삼대제, 주세붕군수 행차재현, 우량인삼 선발대회 및 전시2. 부대프로그램 : 개폐막식 및 축하공연, 청소년 문화공연, 환경 노래자랑, 덴동어미 화전놀이 마당극, 청소년 락 페스티벌, 지역문화예술인 공연, 전국 파워풀 댄스페스티벌, 소백산 풍기인삼가요제, 한마음 체육대회 등3. 소비자 참여 프로그램 : 인삼깎기 경연대회, 인삼병주 만들기, 인삼 인절미 떡메치기, 관광객 노래자랑, 풍기인삼 경매, 황금인삼을 찾아라 !4. 기타 내용 : 영주 농특산물 판매장 운영 등",
+        "eventstartdate": "20261003",
+        "usetimefestival": "무료(일부 체험프로그램 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-03",
       "end": "2026-10-11",
       "venue": "경상북도 영주시 풍기읍 성내리 240-1",
@@ -178,7 +300,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "경북영주 풍기인삼축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2992940",
@@ -192,7 +316,20 @@
       "city": "충남",
       "region": "충남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/74/3514774_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "계룡시",
+        "sponsor1tel": "042-840-2621~4",
+        "sponsor2": "(재)계룡시문화관광재단",
+        "eventenddate": "20261005",
+        "playtime": "09:00~17:00",
+        "program": "1. 공식행사 : 개막식 및 축하공연\n2. 전시행사 : 웰니스라이프 특별전시관, 익스트림 특별체험관 운영영 등\n3. 공연행사 : 軍문화 페스타 장르별 콘서트(락, 트로트, K-POP), 3軍 군악의장, 버스킹 공연, 시민예술단체 공연, 로드퍼레이드 등\n4. 체험행사 : 1박2일 우리가족 병영캠프, 용도령 순환열차, 서바이벌 전투체험, 병영훈련체험 등\n5. 부대행사 : 상상페스티벌, 계룡 팥거리 축제, 글로벌 문화 경연대회 등",
+        "eventstartdate": "20261001",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-01",
       "end": "2026-10-05",
       "venue": "충청남도 계룡시 신도안면 정장리 16 계룡대 활주로 및 계룡시 일원",
@@ -200,7 +337,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "계룡軍문화축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3520743",
@@ -214,7 +353,19 @@
       "city": "강원",
       "region": "강원",
       "image": "https://tong.visitkorea.or.kr/cms/resource/95/4091695_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "한국예술종합학교 기술지주 자회사 ㈜케이아츠크리에이티브",
+        "sponsor1tel": "02-966-6561",
+        "eventenddate": "20260913",
+        "playtime": "13:00 ~ 22:00 (일 14:00 ~ 22:00)",
+        "eventplace": "계촌마을 일대",
+        "program": "1. 메인 프로그램\n- 휴[休]스테이지 9.12.Sat 13:00 계촌로망스파크\n- 비닐하우스 콘서트 9.12.Sat - 9.13.Sun 14:00 계촌마을 인근 비닐하우스\n- 휴[休]북 콘서트 9.12.Sat - 9.13.Sun 16:00 계촌클래식공원\n- 휴[休]나이트 콘서트 9.12.Sat - 9.13.Sun 19:00 계촌로망스파크\n2. 세부 프로그램\n- 낭독의 환대: 소설, 시, 에세이 등 다양한 분야의 작가 10명을 섭외하여 학교, 카페, 마을회관 등 마을 일대에서 회당 10명 내외의 소규모 참여형 낭독 살롱\n- 휴[休]퍼블릭 프로그램: 창작과 취향을 함께 나누는 다양한 체험 프로그램\n- 휴[休]정찬: 전문셰프가 함께하는 스토리텔링 중심의 다이닝 프로그램으로, 계촌마을 고유의 로컬 먹거리와 미식, 그리고 음악을 함께 즐기는 특별한 체류형 힐링 경험 제공\n3. 기타 내용\n- 별빛 피크닉 패키지 대여: 편안한 관람과 감성 가득한 피크닉을 위해 피크닉 패키지를 무료로 대여\n- 먹거리 장터: 축제 관람객과 주민을 위한 현장 먹거리 장터 운영, 지역 특산물, 간식, 음료 등 다양한 메뉴 제공",
+        "eventstartdate": "20260912",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-12",
       "end": "2026-09-13",
       "venue": "강원특별자치도 평창군 방림면 계촌리 1520-6",
@@ -222,7 +373,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "계촌 휴 페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-4091713",
@@ -236,7 +389,20 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/19/4091719_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "고령군",
+        "sponsor1tel": "054-955-0554",
+        "sponsor2": "(재)고령문화관광재단",
+        "eventenddate": "20260906",
+        "playtime": "18:00 ~ 22:00",
+        "eventplace": "대가야역사테마관광지",
+        "program": "1. 야경(夜景) - 가야정원 : 고령 명소 야간 개방, 지산동고분군 야간 경관 조성\n2. 야사(夜史) - 가야낭만 : 대가야놀이터(체험)\n3. 야설(夜說) - 가야탐구 : 대가夜 달빛 담화, 캔들라이트 가야금 콘서트\n4. 야로(夜路) - 가야마실 : 달빛 스탬프 투어, 지산동고분군 달빛 산책, 대가야 빛의 숲 퍼포먼스\n5. 야화(夜畵) - 가야낙화 : 대가야 낙화놀이, 불도깨비 퍼포먼스\n6. 야시(夜市) - 가야장터 : 소비 영수증 인증 이벤트, 대가夜시장(플리마켓)\n7. 야식(夜食) - 가야야참 : 야간 먹거리 마당(푸드트럭)\n8. 야숙(夜宿) - 가야생활 : 오늘 밤, 쉬어가夜\n※'지산동고분군 달빛 산책 프로그램'과 '대가야놀이터 - 대가야 나이트 발굴 체험'은 일부 사전 예약이 가능합니다.",
+        "eventstartdate": "20260904",
+        "usetimefestival": "무료(일부 유료)"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-04",
       "end": "2026-09-06",
       "venue": "경상북도 고령군 대가야읍 대가야로 1216",
@@ -244,7 +410,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "고령 국가유산 야행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3383613",
@@ -258,7 +426,19 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/73/4066273_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "고양축산농협",
+        "sponsor1tel": "031-960-3034,3050",
+        "eventenddate": "20261101",
+        "playtime": "10:00~17:00(무료시식 및 즐길거리)",
+        "eventplace": "고양소방서 옆(주교제1공영주차장 맞은편)",
+        "program": "1. 메인프로그램 : 초청가수 댄수공연, 행주한우 구이터 운영(1,000석)\n2. 부대프로그램 : 한우, 한돈, 계란, 닭고기, 꿀, 서울우유 축산물 전품목 20~50% 할인 및 무료시식, 시음\n3. 소비자 참여 프로그램 : 버블쇼, 마술쇼, 경품지급, 무료체험부스(페이스페인팅, 풍선아트)",
+        "eventstartdate": "20261031",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-31",
       "end": "2026-11-01",
       "venue": "경기도 고양시 덕양구 원당로 16 (주교동)",
@@ -266,7 +446,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "고양행주한우 숯불구이축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1100492",
@@ -280,7 +462,21 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/61/4081461_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "고양시",
+        "sponsor1tel": "1577-7766",
+        "sponsor2": "고양문화재단",
+        "eventenddate": "20260920",
+        "playtime": "14:00~21:00",
+        "eventplace": "일산호수공원 및 일산문화광장 일원",
+        "program": "1. 컨템포러리 서커스, 거리극, 거리무용, 인형극, 마술 등 국내외 최정상의 거리예술공연 100여회와 관객 체험 참여 프로그램\n2. GSAF초이스(국내 거리예술 공모 선정작) 15편, GSAF글로벌(해외 거리예술 공모 선정작) 5편, 왁자지껄 유랑단(퍼레이드)\n3. 개막작, 폐막공연, 불꽃놀이 등 야간 특별 프로그램, 관객 체험 프로그램(서커스 체험, 예술체험 외)",
+        "eventstartdate": "20260918",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-20",
       "venue": "경기도 고양시 일산동구 호수로 595 (장항동) 일산호수공원 및 일산문화광장 일원",
@@ -288,7 +484,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "고양호수예술축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-604454",
@@ -302,7 +500,19 @@
       "city": "전북",
       "region": "전북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/30/3519730_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "고창군",
+        "sponsor1tel": "063-560-2949",
+        "eventenddate": "20261019",
+        "playtime": "10:00~22:00",
+        "program": "1. 메인프로그램\n- 답성놀이, 야간 답성놀이, 강강술래 달BAM, 거리퍼레이드, 리턴즈1453\n2. 부대프로그램\n- 플리마켓, 드론쇼, 패밀리존, 먹거리부스, 직거래장터, 주막\n3. 소비자 참여 프로그램\n- 어린이 당근마켓, 전통놀이 체험, 체험프로그램",
+        "eventstartdate": "20261015",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-15",
       "end": "2026-10-19",
       "venue": "전북특별자치도 고창군 고창읍 모양성로 11 고창읍성",
@@ -310,7 +520,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "고창모양성제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2614763",
@@ -324,7 +536,21 @@
       "city": "충남",
       "region": "충남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/69/4091769_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "국가유산청, 충청남도, 공주시",
+        "sponsor1tel": "041-852-8063",
+        "sponsor2": "공주문화관광재단",
+        "eventenddate": "20260906",
+        "playtime": "18:00~22:00",
+        "eventplace": "공주 왕도심 일원 근대 국가유산(옛 공주읍사무소 등)",
+        "program": "1. 메인 프로그램 : 국가유산 미디어파사드, 시간의 문 공주 1926 등\n2. 부대 프로그램 : 1926 공주시가도를 찾아서, 1926 공주 역사탐정의 밀서, 근대 인생사진관, 각종 체험프로그램 등\n3. 소비자 참여 프로그램 : 147 야시장 등",
+        "eventstartdate": "20260904",
+        "usetimefestival": "무료(일부 프로그램 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-04",
       "end": "2026-09-06",
       "venue": "충청남도 공주시 우체국길 8",
@@ -332,7 +558,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "공주 국가유산 야행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2029491",
@@ -346,7 +574,21 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/81/4087181_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "과천시",
+        "sponsor1tel": "02-2009-9735",
+        "sponsor2": "과천문화재단",
+        "eventenddate": "20260920",
+        "playtime": "12:00~22:00",
+        "eventplace": "과천청사민광장 및 과천시민회관 일대",
+        "program": "1. 메인프로그램 : 개막프로그램, 폐막프로그램, 퍼레이드, 공식참가작 공연, 국내 초청공연, 해외공연 등\n2. 부대프로그램 : 체험프로그램(천예총문화원효문화센터 등, 분장의상서커스 체험 등, 체험 놀이터 구성), 홍보부스등 다양한 부스 프로그램, 푸드존, 플리마켓\n3. 시민 참여 프로그램 : 과천집합쇼, 퍼레이드 등",
+        "eventstartdate": "20260918",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-20",
       "venue": "경기도 과천시 관문로 64 (중앙동)",
@@ -354,7 +596,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "과천공연예술축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2612274",
@@ -368,7 +612,21 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/31/4073831_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "관악구",
+        "sponsor1tel": "02-828-5766",
+        "sponsor2": "관악문화재단",
+        "eventenddate": "20261018",
+        "playtime": "12:00~21:00",
+        "eventplace": "낙성대공원",
+        "program": "메인 프로그램\n- ‘21 우리동네 한바퀴’. ‘시민 풍류제’, 설민석 강사와 함께하는 ‘강감찬 토크쇼’ 등 주민 참여 프로그램\n- 주제공연 ‘낙성연희’, ‘별별 스테이지‘ 등 문화예술 프로그램\n- ‘고려장터‘, ‘벽란도 21’ 등 지역경제 활성화 프로그램\n- ‘리틀강감찬’, ‘별별 놀이터’, ‘낙성대 야별회’ 등 교육 연계 프로그램",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-18",
       "venue": "서울특별시 관악구 낙성대로 77 (봉천동)",
@@ -376,7 +634,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "관악강감찬축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2786391",
@@ -390,7 +650,21 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/12/3518612_image2_1.jpeg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "부산광역시 수영구",
+        "sponsor1tel": "051-610-6518",
+        "sponsor2": "부산광역시 수영구",
+        "eventenddate": "20261231",
+        "playtime": "- 하절기(3월~9월) 20:00, 22:00- 동절기(10월~2월) 19:00, 21:00",
+        "eventplace": "광안리 해변 일원",
+        "program": "주요프로그램 : 드론 비행 상설 공연 / 특별 공연\n부대행사 : 다시 보고 싶은 베스트컷 투표 이벤트 등",
+        "eventstartdate": "20260101",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-01-01",
       "end": "2026-12-31",
       "venue": "부산광역시 수영구 광안해변로 219 (광안동)",
@@ -398,7 +672,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "광안리 M(Marvelous) 드론 라이트쇼 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-692682",
@@ -412,7 +688,20 @@
       "city": "국내",
       "region": "국내",
       "image": "https://tong.visitkorea.or.kr/cms/resource/71/3584471_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "전남광주통합특별시 동구, 광주특별시문화관광재단, 충장축제위원회",
+        "sponsor1tel": "062-608-4672",
+        "eventenddate": "20261011",
+        "playtime": "14:00~22:00",
+        "eventplace": "금남로, 충장로, 5.18민주광장, 예술의거리 일원",
+        "program": "1. 일자별 금남로 메인 프로그램\n- 1일차 : 개막쇼\n- 2일차 : 충장 꿈나무 축제, 젊음의 행진, 충장 발광 나이트\n- 3일차 : K-뷰티&한복쇼, 아시아 컬처쇼, 충장 W(world) 퍼레이드\n- 4일차 : 광주 주먹밥 콘테스트, 충장 K(korea) 퍼레이드, 충장 O(original) 퍼레이드\n- 5일차 : 주민자치 페스티벌 본선, 충장 골든 퍼레이드, 폐막 퍼포먼스\n2. 금남로 부대 프로그램\n- 푸드트럭&힐링쉼터, 행정동 퍼레이드 상징물 전시, 복싱대회, 렛츠GO! 저스트 댄스! 등\n3. 신서석로 프로그램\n- 추억의 노래 테마거리, 추억 유랑단 등\n4. 충장로 및 예술의 거리 프로그램\n- 판판판(춤판,놀판,노래판), 인생 최고의 대로 등\n5. 협력 행사\n- 제5회 광주 버스킹월드컵 등",
+        "eventstartdate": "20261007",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-07",
       "end": "2026-10-11",
       "venue": "전남광주통합특별시 동구 금남로3가",
@@ -420,7 +709,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "광주 추억의 충장축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-604097",
@@ -434,7 +725,21 @@
       "city": "국내",
       "region": "국내",
       "image": "https://tong.visitkorea.or.kr/cms/resource/32/3545732_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "전남광주통합특별시",
+        "sponsor1tel": "062-613-3955~6",
+        "sponsor2": "광주김치축제위원회",
+        "eventenddate": "20261025",
+        "playtime": "10:00~20:00",
+        "eventplace": "전남광주통합특별시청",
+        "program": "1. 메인프로그램 : 천인의밥상(음식먹거리 부스), K-김치파티, 광주스타셰프 푸드쇼, 김치명인 푸드스테이지, 김치마켓2. 부대프로그램 : 김치전시, 판매, 체험, 문화공연 등3. 소비자 참여 프로그램 : 김치체험관, 김치놀이터, 김장운동회, 김치키즈랜드, 소금체험관 등4. 기타 내용 : 도시농부축제",
+        "eventstartdate": "20261023",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-23",
       "end": "2026-10-25",
       "venue": "전남광주통합특별시 서구 내방로 111 (치평동)",
@@ -442,7 +747,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "광주김치축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2990881",
@@ -456,7 +763,22 @@
       "city": "국내",
       "region": "국내",
       "image": "https://tong.visitkorea.or.kr/cms/resource/63/4076763_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "광주광역시 동구",
+        "sponsor1tel": "062-228-9812",
+        "sponsor2": "(재)광주광역시동구문화관광재단",
+        "eventenddate": "20261011",
+        "playtime": "13:00~22:00",
+        "eventplace": "5·18 민주광장",
+        "agelimit": "전 연령",
+        "program": "1. 전 세계 개성 넘치는 뮤지션들이 참여하는 버스킹 경연대회\n- 기간 : 2026.10.07.~2026.10.11.\n- 장소 : 5·18 민주광장\n2. 버스킹 라이브 경연\n- 기간 : 2026.10.10.(8강) / 2026.10.11.(결선)\n- 장소 : 5·18 민주광장\n3. 뮤지션 초청공연 / 전년도 수상팀 공연 등 초청공연\n- 기간 : 2026.10.11\n- 장소 : 5·18 민주광장\n4. 버스킹프린지 - 거리에서 펼치는 버스킹 공연\n- 기간 : 2026.10.07.~2026.10.11\n- 장소 : 5·18 민주광장\n5. 외국인 유학생 버스킹 - 전국 유학생들이 펼치는 버스킹 공연\n- 기간 : 2026.10.08. / 15:00\n- 장소 : 5·18 민주광장\n6. 스트릿 댄스배틀 - 전 세계 춤꾼들의 한판 승부\n- 기간 : 2026.10.09. / 14:00\n- 장소 : 5·18 민주광장\n7. 스탬프 투어 - 공연과 골목관광을 연계한 이색투어\n- 기간 : 2026.10.08~2026.10.11.\n- 장소 : 충장로 일원 (5·18 민주광장 등)\n- 사전 신청자 500명 참여 가능\n8. 푸드트럭 - 피크닉풍 음악축제로의 변신\n- 기간 : 2026.10.07.~2026.10.11.\n- 장소 : 충장로 일원 (5·18 민주광장 등)\n9. 웰컴파티 - 전 세계 뮤지션들의 교류의 장\n- 기간 : 2026.10.09 / 16:00\n- 장소 : 국립아시아문화전당",
+        "eventstartdate": "20261007",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-07",
       "end": "2026-10-11",
       "venue": "전남광주통합특별시 동구 금남로1가 41 금남지하상가 5·18 민주광장",
@@ -464,7 +786,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "광주버스킹월드컵 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-141234",
@@ -478,7 +802,21 @@
       "city": "충북",
       "region": "충북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/34/4091734_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "괴산군",
+        "sponsor1tel": "043-830-3463",
+        "sponsor2": "괴산축제위원회",
+        "eventenddate": "20260906",
+        "playtime": "10:00~20:00",
+        "eventplace": "괴산유기농엑스포광장 일원",
+        "program": "1. 황금고추를 찾아라\n2. 속풀이 고추난타\n3. 고추물고기를 잡아라\n4. 유기농괴산가요제\n5. 괴산특산물 전시 및 판매",
+        "eventstartdate": "20260903",
+        "usetimefestival": "무료/일부 체험비 부분 유료(5,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-03",
       "end": "2026-09-06",
       "venue": "충청북도 괴산군 괴산읍 임꺽정로 92",
@@ -486,7 +824,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "괴산고추축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3028462",
@@ -500,7 +840,20 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/40/3497640_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "구미시",
+        "sponsor1tel": "054-480-2652",
+        "eventenddate": "20261108",
+        "playtime": "10:00~22:00",
+        "eventplace": "구미역 일원",
+        "program": "1. 메인프로그램 : 이색라면 레스토랑 및 `갓 튀긴 라면` 팝업스토어 운영 등\n2. 부대프로그램 : 스트릿댄스파이터, MSG팝업, 뉴타운라면빠\n3. 소비자 참여 프로그램 : 나만의 라면 만들기, 라믈리에 선발대회, 농심산업투어, 라면테마 체험 등\n4. 기타 내용 : 라면쉼터 등 라면테마 각종 체험 부스 및 프로그램 운영",
+        "eventstartdate": "20261106",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-11-06",
       "end": "2026-11-08",
       "venue": "경상북도 구미시 원평동 124-23 구미역 일원",
@@ -508,7 +861,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "구미라면 축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3017799",
@@ -522,7 +877,19 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/50/4063650_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "구미시",
+        "sponsor1tel": "054-480-5593",
+        "eventenddate": "20261018",
+        "playtime": "12:00~20:00",
+        "eventplace": "송정맛길(광평천 공영주차장)",
+        "program": "1. 낭만구미(볼거리) : 개막 퍼포먼스, 초청가수 및 버스킹, 레크레이션(마술쇼, 풍선아트) 등 다채로운 공연\n2. 맛난구미(먹거리) : 구미에서 맛보는 9가지 특별한 순간, 9味*존 운영\n* 9味존 : 식품대전(1), 구미먹거리장터(2), 베이커리카페존(3), 아시아미식존(4), 로컬맛집존(5)향토막걸리존(6), 구미당김치맥존(7), 어린이 먹거리존(8), 삼겹굽굽존(9)\n3. 꿀잼구미(놀거리) : 가족단위 쿠킹클래스, 코스튬 콘테스트, 체험프로그램, 먹빵대회(구미빵·구미당김라거) 등",
+        "eventstartdate": "20261017",
+        "usetimefestival": "무료 (일부구간 유료)"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-17",
       "end": "2026-10-18",
       "venue": "경상북도 구미시 송정동 505",
@@ -530,7 +897,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "구미푸드페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-4060434",
@@ -544,7 +913,23 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/35/4060435_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "더 크리에이터스 주식회사",
+        "sponsor1tel": "02-953-0515",
+        "sponsor2": "더 크리에이터스 주식회사",
+        "eventenddate": "20261231",
+        "playtime": "- 매일 11:00 / 14:00 / 16:00※ 법정공휴일 공연 없음",
+        "eventplace": "진연",
+        "agelimit": "전 연령",
+        "program": "- 1부 길제 : 공연에 와주신 분들께 정화수를 올리고 이들의 평안한 행복을 정성스레 기원한다.\n- 2부 진연 : 궁중에서 귀한 손님들에게 선보였던 전통공연과 임금에게 올렸던 정악과 악기의 테크닉이 돋보이는 산조를 감상한다.\n- 3부 화합 : 대한민국의 전통악기로 다양한 나라의 음악을 연주하며 예술로 관객과 연주자가 하나되는 시간이다.",
+        "eventstartdate": "20260101",
+        "usetimefestival": "- 일반 65,000원- 장애인 50% 할인※ 무료 : 24개월 미만",
+        "spendtimefestival": "60분",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-01-01",
       "end": "2026-12-31",
       "venue": "서울특별시 종로구 인사동5길 10 (인사동)",
@@ -552,7 +937,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "국악공연 진연 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1018971",
@@ -566,7 +953,20 @@
       "city": "강원",
       "region": "강원",
       "image": "https://tong.visitkorea.or.kr/cms/resource/54/4095354_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "양구문화재단",
+        "sponsor1tel": "033-482-9174",
+        "eventenddate": "20260830",
+        "playtime": "09:00~22:00",
+        "eventplace": "양구 서천 레포츠공원 일원",
+        "program": "1. 공연 : 개막식, 개막축하 콘서트, 요일별 메인 공연\n2. 퍼포먼스 : 퍼레이드, 불꽃쇼, 워터 건 등\n3. 이벤트 : 해태크라운 로얄곰취키트 만들기 및 곰취관련 이벤트 등\n4. 홍보, 전시 : 양구 배꼬비 홍보, 문학 및 분재전시 등\n5. 먹거리, 판매 : 농특산물 판매, 양구명품막걸리판매, 카페분식, 푸드코트 등\n6. 연계 행사 : G1 라디오 공개방송, 21사단과 함께하는 군장병콘서트 등",
+        "eventstartdate": "20260828",
+        "usetimefestival": "무료입장 및 기타체험비 유료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-08-28",
       "end": "2026-08-30",
       "venue": "강원특별자치도 양구군 양구읍 상리 394-21",
@@ -574,7 +974,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "국토정중앙 청춘양구 배꼽축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1846797",
@@ -588,7 +990,20 @@
       "city": "전북",
       "region": "전북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/48/3561448_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "군산시",
+        "sponsor1tel": "063-454-3300",
+        "eventenddate": "20261005",
+        "playtime": "10:00~21:00",
+        "eventplace": "구·시청광장 및 시간여행마을 일원",
+        "program": "1. 메인 프로그램 : 글로벌 모던 플래시몹, 1919,태극기 게양작전, 우리모두 3.5 만세, 모아모아 시간, 군산항 밤부두 콩쿠르 등\n2. 체험 프로그램 : 근대의상실, 받아라 미션공중전화, 시간여시간여행공예공작소, 시민기획 프로그램, 향기를 담은 미래 우체통 등\n3. 부대행사 : 스트릿마당, 길바닥 낙서장, K-관광섬을 찾아라, 텀블러 쿠폰제, 보부상장터, 실속가득 프리마켓, 홍보부스, 먹거리 장터, 빵야빵야, 숲속 모험 놀이터, 패션쇼 등",
+        "eventstartdate": "20261002",
+        "usetimefestival": "무료(일부유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-05",
       "venue": "전북특별자치도 군산시 중앙로1가 11-1",
@@ -596,29 +1011,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "군산시간여행축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-2728613",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "2728613",
-      "contentTypeId": "15",
-      "title": "귀몽 제주신화월드",
-      "name": "귀몽 제주신화월드",
-      "city": "제주",
-      "region": "제주",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/60/4081660_image2_1.png",
-      "detailQuality": [],
-      "start": "2026-07-24",
-      "end": "2026-08-17",
-      "venue": "제주특별자치도 서귀포시 안덕면 신화역사로304번길 98",
-      "contact": "1670-1188",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "귀몽 제주신화월드 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506465",
@@ -632,7 +1027,21 @@
       "city": "충남",
       "region": "충남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/59/3524159_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "금산군",
+        "sponsor1tel": "041-750-2316",
+        "sponsor2": "금산문화관광축제재단",
+        "eventenddate": "20261011",
+        "playtime": "10:00 ~ 21:00",
+        "eventplace": "금산세계인삼엑스포 광장",
+        "program": "1. 메인프로그램 : 인삼캐기체험여행, 홍삼족욕체험 등\n2. 부대프로그램 : 인삼왕 선발대회, 인삼제전, 야간 드론 라이팅 쇼\n3. 소비자 참여 프로그램 : 금산인삼아트체험, 금산인삼 민속촌, 가족전통놀이 체험 등",
+        "eventstartdate": "20261002",
+        "usetimefestival": "입장료 무료 (일부유료 2,000원 ~ 5,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-11",
       "venue": "충청남도 금산군 금산읍 인삼광장로 30",
@@ -640,7 +1049,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "금산세계인삼축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1275743",
@@ -654,7 +1065,21 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/56/4090456_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "부산광역시 금정구, 금정구축제위원회",
+        "sponsor1tel": "051-715-6884",
+        "sponsor2": "(재)금정문화재단",
+        "eventenddate": "20261018",
+        "playtime": "10:00~19:00",
+        "eventplace": "금정산성광장 및 금정산성 일원",
+        "program": "1. 생태 프로그램\n- 걷기 대회: 금정산의 자연과 금정산성의 역사를 스토리텔링한 걷기 프로그램\n- 금정산 생태 투어: 전문 해설사와 함께 금정산에 서식하는 생물을 탐방하는 생태 프로그램\n- 주제 전시: 금정산 국립공원 지정과 금정산성의 가치를 담은 야외 전시\n- 금정산 토크쇼: 명사가 전하는 금정산 국립공원 생태 이야기\n- 기타 생태 프로그램 등\n2. 역사 프로그램\n- 금정산성 마을 투어: 해설사와 함께하는 금정산성마을 역사 탐방\n- 축성 체험: 거중기, 녹로 등 축성 원리 체험\n- 역사 문화 체험: 조선시대를 배경으로 한 전통 소품 만들기\n- 팝업 사진관: 금정산성을 배경으로 한 스티커 사진 촬영\n- 금정산성 VR 투어: VR 기술을 활용한 금정산성 탐방\n- 기타 역사 프로그램 등\n3. 공연 프로그램\n- 주제 공연: 지역 예술가와 주민이 함께 만드는 창작 뮤지컬\n- 개·폐막 기념 행사: 국립공원 지정 기념 세리머니 및 축하 공연\n- 주민 노래자랑: 참여자 대상 경품 이벤트가 함께하는 프로그램\n- 금정산성 예술제: 금정구 대표 문화예술단체 공연\n- 합창제: 지역 합창단 공연\n- 프린지 공연: 서커스·마임·마술 등 거리공연\n- 생활문화 공연: 지역 생활문화 동호회 공연\n- 기타 단체 공연 프로그램 등\n4. 부대 프로그램\n- 지역 상권 연계: 축제장 인증 및 지역 관광 홍보 이벤트\n- 축제 서포터즈 \"금반지\" 기획 프로그램: 지역의 대학생들이 직접 만들고 운영하는 체험 프로그램\n- 플리마켓 : 셀러 판매 및 체험 프로그램\n- 제29회 금정백일장\n- 제22회 금정사생대회\n- 금정산성 막걸리 페스티벌: 금정산성막걸리와 음식을 함께 나눠먹는 전통적인 지역주민 행사\n- 지역 내 유관 기관이 함께하는 홍보관\n※ 일부 체험 프로그램은 유료로 진행되며, 현장 진행 상황에 따라 프로그램이 변동될 수 있습니다.",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료(일부 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-18",
       "venue": "부산광역시 금정구 산성로 501-2 (금성동)",
@@ -662,7 +1087,46 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "금정산성축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-4099989",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "4099989",
+      "contentTypeId": "15",
+      "title": "금천시흥행궁문화제",
+      "name": "금천시흥행궁문화제",
+      "city": "서울",
+      "region": "서울",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/02/4100002_image2_1.jpg",
+      "detail": {
+        "sponsor1": "금천구",
+        "sponsor1tel": "070-4114-6352",
+        "sponsor2": "금천문화재단",
+        "eventenddate": "20261004",
+        "playtime": "12:00 ~ 20:00",
+        "eventplace": "금천구 은행나무로 일대",
+        "program": "1. 메인프로그램 : 시흥행궁night(공연프로그램), 정조대왕 능행차 공동재현\n2. 부대프로그램 : 야외규장각, 전통연희 체험 프로그램 등",
+        "eventstartdate": "20261004",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-10-04",
+      "end": "2026-10-04",
+      "venue": "서울특별시 금천구 은행나무로 44 (시흥동)",
+      "contact": "070-4114-6352",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "금천시흥행궁문화제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3493864",
@@ -676,7 +1140,19 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/44/4093144_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "기장군반려동물협회",
+        "sponsor1tel": "010-3880-4966",
+        "eventenddate": "20260919",
+        "playtime": "09:00~18:00",
+        "eventplace": "정관 중앙공원",
+        "program": "1. 문화프로그램\n- 반려동물 장기 페스티벌/반려동물 견주동반 달리기/반려동물 멍때리기\n2. 교육프로그램\n- 반려견 행동교정/반려견 산책교실 / 반려견 응급처치 교육\n3. 체험프로그램\n- 반려견 어질리티 체험/수제간식 만들기/반려동물 건강미용 체험/반려동물 포토존/반려견 목걸이 만들기\n4. 동물복지 프로그램\n- 유기동물 입양홍보관/ 동물보호 캠페인/반려동물 등록제 홍보\n5. 부대시설\n- 카페테리아/반려동물수영장/반려동물놀이터\n6. 공연프로그램\n- 반려견 공연 페스티벌(SNS 모집)\n7. 참여 이벤트\n- SNS 축제알리기 이벤트/기장군 반려동물 관광객 환영이벤트/경품 추첨 행사",
+        "eventstartdate": "20260919",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-19",
       "end": "2026-09-19",
       "venue": "부산광역시 기장군 정관읍 구연3로 27",
@@ -684,7 +1160,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "기장군반려동물문화축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-574285",
@@ -698,7 +1176,21 @@
       "city": "전북",
       "region": "전북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/54/3516354_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "김제시",
+        "sponsor1tel": "063-540-3172",
+        "sponsor2": "(사)김제시지평선축제제전위원회",
+        "eventenddate": "20261005",
+        "playtime": "09:00 ~ 21:00",
+        "eventplace": "김제시 일원(벽골제 중심)",
+        "program": "1. 메인 프로그램\n- 대통령배 지평선 전국 농악 경연대회 : 전국 축제 경연대회 중 유일한 대통령배 경연대회로 전국 지역 농악을 대표하는 팀들이 참가하여 우리 전통 농악의 진수를 느낄 수 있는 대회\n- 벽골제 전설 쌍용놀이 : 김제지평선축제 주무대인 벽골제에 얽힌 쌍룡 설화를 바탕으로 상황극 퍼포먼스 연출과 함께 김제시 부량면 주민들이 참여하여 진행되는 대표 전통행사 문화공연\n- 풍년기원 입석줄다리기 : 정월보름 풍년을 기원하는 전통 민속놀이로 김제시 교월동 주민들이 참여하여 운영되는 대표 전통행사 문화공연\n2. 체험프로그램\n- 대지아트 짚라인 체험 : 벽골제에 조성된 대규모 대지아트(논 체험장) 위를 가로지르는 이색 레저스포츠 체험\n- 아궁이 쌀밥 짓기 : 가족과 함께 소형 아궁이에서 직접 가마솥밥을 지어 먹는 체험\n- 지평선 연날리기: 전국 최대 규모의 연날리기 프로젝트로 다양한 연을 동시에 날려보는 프로그램\n3. 부대 프로그램\n- LED 대지아트: 한복을 입은 싸리콩이가 지평선의 풍섬함과 정겨움을 담아 맞이하는 모습을 표현한 대지아트에 축제의 주제에 부합하는 조명을 설치해 야간경관 조성\n- 싸리콩이 곤포 아트전: 축제의 감성을 보여줄 수 있는 곤포 아트전으로 싸리콩이 캐릭터부터 인기 캐릭터들까지 다양한 그림들 전시\n- 지평선 파이널 판타지쇼: 화려한 축제의 밤과 대규모 야간 볼거리로 레이저, 조명, 불꽃, 멀티미디어가 결합 된 파이널 미디어 쇼\n4. 기타(먹거리 등)\n- 지역특화음식 부스 : 읍면동 대표 음식뿐만 아니라, 지역 축제의 부실 먹거리를 근절하기 위한 김제 대표 맛집 선정 프로젝트 '맛보자고 컴페티션'을 통해 선정된 관내 대표음식점 음식 판매\n- 지평선 마중거리 : 젊은 층이 즐길 수 있는 간식 판매 부스 운영\n- 농특산품 직거래장터 : 김제에서 생산된 농축수산물 원물 및 가공품, 특산품 등 판매",
+        "eventstartdate": "20261001",
+        "usetimefestival": "무료 (일부 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-01",
       "end": "2026-10-05",
       "venue": "전북특별자치도 김제시 부량면 벽골제로 442",
@@ -706,7 +1198,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "김제지평선축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3377995",
@@ -720,7 +1214,19 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/27/3544627_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "김천시",
+        "sponsor1tel": "053-965-0910",
+        "eventenddate": "20261025",
+        "playtime": "10:00~17:00",
+        "eventplace": "김천시 직지문화공원 및 사명대사공원 일원",
+        "program": "1. 메인프로그램 : 김밥플레이리스트(축하공연), 꼬달이 돌잡이 등2. 부대프로그램 : 김밥 미로 탈출, 김밥 에어바운스 등3. 소비자 참여 프로그램 : 김밥판매부스(로컬/일반), 나만의 김밥만들기, 프랜들리(분식), 플리마켓 등4. 기타 내용 : 김밥 체험부스(김밥캐릭터만들기, 김밥 보드게임 등)",
+        "eventstartdate": "20261023",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-23",
       "end": "2026-10-25",
       "venue": "경상북도 김천시 대항면 황악로 1189-52",
@@ -728,7 +1234,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "김천김밥축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2551117",
@@ -742,7 +1250,21 @@
       "city": "경남",
       "region": "경남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/17/4073617_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "국가유산청, 경상남도, 김해시",
+        "sponsor1tel": "070-8824-0347",
+        "sponsor2": "(재)김해문화관광재단",
+        "eventenddate": "20261018",
+        "playtime": "16:00~23:00",
+        "eventplace": "수로왕릉 및 수릉원 일대",
+        "program": "1. 메인프로그램 : 미디어파사드, 드론 라이트쇼, 전통공연, 야시장 등\n2. 부대프로그램 : 8야프로그램 야경, 야로, 야사, 야화, 야설, 야식, 야시, 야숙 등\n3. 소비자 참여 프로그램 : 수로왕릉 바로알기, 비비단 별빛로드, 밤의 고고학자, 나만의 도자기 꾸미기, 손끝으로 만나는 가야 등\n4. 기타 내용 : 가꿈예술장터, 실크로드장시, 가치가게청년몰 등",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-18",
       "venue": "경상남도 김해시 가락로93번길 26 수로왕릉 및 수릉원 일대",
@@ -750,7 +1272,46 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "김해 국가유산 야행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-506470",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "506470",
+      "contentTypeId": "15",
+      "title": "김해분청도자기축제",
+      "name": "김해분청도자기축제",
+      "city": "경남",
+      "region": "경남",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/49/3546549_image2_1.jpg",
+      "detail": {
+        "sponsor1": "(사)김해도예협회, (재)김해문화관광재단",
+        "sponsor1tel": "055-330-3244",
+        "eventenddate": "20261110",
+        "playtime": "10:00~18:00 (금,토 10:00~20:00)",
+        "eventplace": "김해분청도자박물관, 클레이아크김해미술관 일원",
+        "program": "- 축제 30주년 기념 행사 : 도예인 중심 개막 퍼포먼스, 30년 기념 기억관- 특별전시 : ‘세종’ 태항아리 특별전, 분청도자존, 전국공모전 전시(도자대전, 찻사발)- 체험 : 토더기 도자기 꾸미기, 찻사발 제작 체험, 도자기 오감체험, 물레체험, 발굴체험 등- 기타 : 인생네컷(나도 도예가다), AR스탬프 투어, 미니열차(셔틀버스), 다도피크닉- 대회 : 우리가족도자기만들기대회, 가족 흙높이 쌓기대회, 도자기 공개경매, 대형도자기 제작시연- 공연 : 조선유랑극단, 버스킹공연- 음식 : 지역 부녀회 식당, 지역대표 식당, 푸드트럭",
+        "eventstartdate": "20261106",
+        "usetimefestival": "무료 (일부 체험프로그램 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-10",
+      "venue": "경상남도 김해시 진례면 분청로 17 김해분청도자박물관, 클레이아크김해미술관 일원",
+      "contact": "055-330-3244",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "김해분청도자기축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2766000",
@@ -764,7 +1325,22 @@
       "city": "강원",
       "region": "강원",
       "image": "https://tong.visitkorea.or.kr/cms/resource/09/4059609_image2_1.png",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "원주시설관리공단",
+        "sponsor1tel": "033-749-4860",
+        "sponsor2": "원주시설관리공단",
+        "eventenddate": "20261031",
+        "playtime": "19:50~21:00",
+        "eventplace": "소금산 그랜드밸리 내 나오라쇼 광장",
+        "agelimit": "전 연령",
+        "program": "1. 음악분수(Aqua Orchestra)\n소금산 절벽을 배경으로 펼쳐지는 멋진 음악과 역동적인 분수쇼 세계 3대 분수(두바이, 여수엑스포, 벨라지오 호텔)에 적용된 최첨단 분수 기술을 활용한 간현관광지만의 아름다운 명품분수로, 최대 60m를 쏘아올리는 연출 분수를 포함 100여개의 노즐과 다수의 LED조명을 활용하여 다채로운 연출이 가능하다. 하천에 설치된 국내 최대 규모의 음악분수로 관람객분들께 잊지 못할 추억을 선물할 것이다.\n2. 미디어파사드(Media Facade)\n밤에 내리는 아름다운 조명과 신비한 이야기가 있는 환상적인 세계 12대의 37,000안 시급 빔프로젝트를 간현관광지내 자연암벽에 비춰 양상을 표현하는 것으로 폭 250m, 높이 70m의 국내 최대 규모와 최고 화질로 보은 이야기를 담은 원주의 대표적인 설화 \"은혜 갚은 꿩\"을 소재로 미디어 파사드를 통한 풍성한 콘텐츠는 특별한 추억과 낭만이 가득한 아름다운 밤을 만끽할 수 있다.\n3. 야간경관조명(Night view Lighting)\n간현, 빛으로 깨어나다, 간현에서 즐기는 빛의 산책 삼산천교를 따라 레이저, 안개분수, 빛의 터널이 만들어내는 환상적인 빛의 쇼. 폐자재에 생명을 불어넣어 탄생한 생명의 나무 미디어아트 조형물, 수목조명이 밝히는 신비로운 숲을 지나 천렵을 주제로 한 몽환적인 홀로그램까지, 빛이 그리는 풍경화 나무가 속삭이는 이야기 속에서 우리가 꿈꾸는 환상속의 자연을 만날 수 있다.\n- 공연 기간\n(7월~8월 휴장)\n매주 토요일/ 공휴일 전날 공연일\n[5월 5일(화), 5월 24일(일), 6월 6일(토), 9월 24일(목), 9월 25일(금), 9월 26일(토), 10월 3일(토), 10월 9일(금)]",
+        "eventstartdate": "20260425",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-04-25",
       "end": "2026-10-31",
       "venue": "강원특별자치도 원주시 지정면 소금산길 12",
@@ -772,7 +1348,85 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "나오라쇼 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-3009344",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "3009344",
+      "contentTypeId": "15",
+      "title": "나주영산강축제",
+      "name": "나주영산강축제",
+      "city": "국내",
+      "region": "국내",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/44/4100044_image2_1.png",
+      "detail": {
+        "sponsor1": "나주시",
+        "sponsor1tel": "061-339-8594",
+        "sponsor2": "나주영산강축제추진위원회",
+        "eventenddate": "20261011",
+        "playtime": "11:00 ~ 21:00",
+        "eventplace": "영산강정원",
+        "program": "1. 메인프로그램 : 개막식, 드론라이트쇼&불꽃쇼, 개막축하공연, 뮤지컬 드라마틱쇼, 영산강 리버웨이브 워터쇼, 문라이트 심포니, 폐막식&불꽃쇼\n2. 부대프로그램 : 영산강 주제관, 보드게임 나들이, 키자니아 in 나주, 영산강 미식관, 나주농업페스타, 영산강 가족정원 페스티벌\n3. 소비자 참여 프로그램 : 행운복권이벤트 등\n4. 기타 내용 : 티니핑 싱어롱쇼, 핑크퐁 싱어롱쇼, 안유성 명장과 함께하는 푸드 오케스트라, 시민과 함께하는 목사행차 행렬, 슈퍼모델 박둘선과 함께는 천연염색패션쇼 등",
+        "eventstartdate": "20261007",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-10-07",
+      "end": "2026-10-11",
+      "venue": "전남광주통합특별시 나주시 영산동 757-1",
+      "contact": "061-339-8594",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "나주영산강축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-2748395",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "2748395",
+      "contentTypeId": "15",
+      "title": "남구청년예술제",
+      "name": "남구청년예술제",
+      "city": "대구",
+      "region": "대구",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/83/4099083_image2_1.jpg",
+      "detail": {
+        "sponsor1": "대구 남구 대덕문화전당",
+        "sponsor1tel": "053-664-3118",
+        "sponsor2": "대구 남구 대덕문화전당",
+        "eventenddate": "20260911",
+        "playtime": "19:30",
+        "eventplace": "대덕문화전당 드림홀 및 대구음악창작소 창공홀",
+        "program": "- 주요 프로그램 : 청년작가 전시 / 프린지 FESTA / 청년 예술제\n- 청년작가 천시 : 2026.08.18.(화)~09.18.(토) / 대덕문화전당 제1~3전시실\n- 프린지 FESTA : 2026.09.01.(화)~2026.09.04.(금) / 대구음악창작소 창공홀\n- 청년 예술제 : 2026.09.10.(목)~2026.09.11(금) / 대덕문화전당 드림홀",
+        "eventstartdate": "20260901",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-09-01",
+      "end": "2026-09-11",
+      "venue": "대구광역시 남구 앞산순환로 478 (대명동)",
+      "contact": "053-664-3118",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "남구청년예술제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2809535",
@@ -786,7 +1440,21 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/57/4001657_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서울특별시",
+        "sponsor1tel": "행사장 02-319-1220운영사 02-737-6444",
+        "sponsor2": "서울특별시",
+        "eventenddate": "20261231",
+        "playtime": "11:00~15:40",
+        "eventplace": "남산 봉수대 및 보신각",
+        "program": "- 주요 프로그램 : 남산 봉수대 봉화의식\n- 부대 행사 및 프로그램 : 보신각 시민상설 타종행사 / 전통문화 공연 / 일일봉수꾼 체험 등",
+        "eventstartdate": "20260101",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-01-01",
       "end": "2026-12-31",
       "venue": "서울특별시 종로구 종로 54 (관철동)",
@@ -794,7 +1462,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "남산봉수의식 등 전통문화행사 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3301281",
@@ -808,7 +1478,20 @@
       "city": "대구",
       "region": "대구",
       "image": "https://tong.visitkorea.or.kr/cms/resource/84/4058484_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "달성군",
+        "sponsor1tel": "053-668-4273",
+        "sponsor2": "(재)달성문화재단 달성문화도시센터",
+        "eventenddate": "20260906",
+        "playtime": "12:30~16:30 (일부 프로그램 운영 시간은 변동 될 수 있음)",
+        "eventplace": "국립대구과학관 일원",
+        "program": "1. 메인프로그램\n9월 5일 : 지역공연팀, 폴로세움(크레용용), 마술 버블쇼(마술사 박주용), 싸이언스 매직쇼(마술사 문시호), 코미디서커스(팀 퍼니스트), 마술사 니키\n9월 6일 : 지역공연팀, 버블쇼(계면활성제 아저씨), 빅벌룬쇼, 싸이언스 매직쇼(마술사 문시호), 코미디서커스(팀 퍼니스트), 크리에이터 인싸가족\n2. 부대프로그램 : 체험부스 운영, 에어바운스, 교보문고 야외도서관\n3. 소비자 참여 프로그램 : 플리마켓, 사회적경제기업, 현풍 도깨비시장 판매부스\n4. 기타 내용 : 푸드트럭",
+        "eventstartdate": "20260905",
+        "usetimefestival": "무료 (일부 프로그램 유료)"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-05",
       "end": "2026-09-06",
       "venue": "대구광역시 달성군 유가읍 테크노대로6길 20",
@@ -816,7 +1499,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "달성가족문화축제 YES! 키즈존 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3532372",
@@ -830,7 +1515,20 @@
       "city": "대전",
       "region": "대전",
       "image": "https://tong.visitkorea.or.kr/cms/resource/83/4081183_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "대전광역시 중구청",
+        "sponsor1tel": "042-825-6781",
+        "eventenddate": "20260913",
+        "playtime": "15:00~21:00",
+        "eventplace": "대전 중구 선리단길",
+        "program": "1. 북스킹 : 사람책도서관(강연)과 뮤지션이 함께 꾸미는 무대\n2. 공연 : 어린이 인형극\n3. 마켓 부스 : 북마켓, 중고마켓\n4. 체험 프로그램\n5. 책골목 투어 : 책과 관련된 지역 골목, 공간을 떠나는 인문학 투어",
+        "eventstartdate": "20260912",
+        "usetimefestival": "입장료 무료 (체험 부분 유료 약 1,000원~5,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-12",
       "end": "2026-09-13",
       "venue": "대전광역시 중구 중앙로 85 (선화동) 대전 중구 선리단길",
@@ -838,7 +1536,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "대전 중구 북페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2412052",
@@ -852,7 +1552,20 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/82/4084482_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "(사)청년과미래",
+        "sponsor1tel": "02-780-3939",
+        "eventenddate": "20260920",
+        "playtime": "10:00~21:00",
+        "eventplace": "광안리해수욕장 일원",
+        "program": "1. 메인프로그램: 드론쇼, K-POP 콘서트, 크리에이터 페스티벌, 치어리딩 챔피언십, 댄스챌린지, 대학가요제, 청년 100인 대합창, 뮤지컬 갈라쇼, 싸일런스 디제잉 댄스\n2. 부대프로그램 : 개막식, 청년 스타트업 어워즈, 청년친화헌정대상, 청년정책경진대회\n3. 소비자 참여 프로그램 : 크리에이터 팬밋업, 뷰티 체험, MBTI 테스트, 청년 창업 체험 부스, 댄스 챌린지, 기업별 체험 부스\n4. 기타 내용 : 푸드 페스티벌",
+        "eventstartdate": "20260918",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-20",
       "venue": "부산광역시 수영구 광안해변로 219 (광안동) 광안리해수욕장 일원",
@@ -860,7 +1573,47 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "대한민국 청년의 날 축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-3351268",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "3351268",
+      "contentTypeId": "15",
+      "title": "동대문구 맥주축제",
+      "name": "동대문구 맥주축제",
+      "city": "서울",
+      "region": "서울",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/21/4090921_image2_1.jpg",
+      "detail": {
+        "sponsor1": "동대문구",
+        "sponsor1tel": "02-3291-5506",
+        "sponsor2": "동대문문화재단",
+        "eventenddate": "20260829",
+        "playtime": "17:00~22:00",
+        "eventplace": "장안1수변공원",
+        "program": "1. 메인프로그램 : 메인 스테이지(개막식, 공연 프로그램 등), 브루&푸드 스트리트(브루어리 및 푸드트럭 부스)\n2. 부대프로그램 : 비어 테라스(주류 등 섭취 공간)\n3. 소비자 참여 프로그램 : 웰컴 플레이(입장 게이트, 포토존 등)\n4. 기타 내용 : 미드나잇 콘텐츠(무성영화 상영, 캠핑 휴게, 관람 취식 공간)",
+        "eventstartdate": "20260828",
+        "usetimefestival": "입장료 무료 (주류, 식음료 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-08-28",
+      "end": "2026-08-29",
+      "venue": "서울특별시 동대문구 장안동 24-1",
+      "contact": "02-3291-5506",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "동대문구 맥주축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-4098740",
@@ -874,7 +1627,19 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/43/4098743_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "동대문문화재단",
+        "sponsor1tel": "070-7742-8871",
+        "eventenddate": "20260912",
+        "playtime": "12:00~17:00 (다목적 강당 13:00~17:00)",
+        "eventplace": "동대문구청 미래광장 및 다목적 강당",
+        "program": "1. 대표 프로그램 : 책력장(독서 피트니스, 몸으로 읽는 책)\n2. 체험 프로그램 : 동대문구 도서관 네트워크 체험 부스, 나만의 책표지 만들기, 이모저모: 이모티콘 스토리 만들기 등\n3. 야외도서관 : 야외도서관 및 도서 큐레이션 전시 등\n4. 시상식 및 공연 프로그램 : 책 읽는 가족, 도서관 유공자 시상식, 어린이 독서장려 뮤지컬, 버블쇼, 버스킹 공연 등",
+        "eventstartdate": "20260912",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-12",
       "end": "2026-09-12",
       "venue": "서울특별시 동대문구 천호대로 145 (용두동) 동대문구청",
@@ -882,7 +1647,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "동대문구 북 페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-229048",
@@ -896,7 +1663,21 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/43/3366443_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "부산광역시 동래구",
+        "sponsor1tel": "051-550-4092",
+        "sponsor2": "동래문화원, 동래읍성역사축제추진위원회",
+        "eventenddate": "20261018",
+        "playtime": "10:00~21:00",
+        "eventplace": "동래읍성북문, 동래문화회관 일원",
+        "program": "1. 대표 프로그램(3): 동래부사행차 길놀이, 동래세가닥줄다리기, 동래성전투재현 뮤지컬2. 주제 프로그램(2): 1592년 동래를 만나다(관문체험), 1592년 동래를 즐기다(동래장터체험)3. 문화 공연 프로그램(18): 개막공연, 동래읍성가요제, 전통줄타기, 슬기로운 읍성민 체육생활, 버스킹공연, 동래부사집무재현 마당극, 전기수 이야기 버스킹, 마술버스킹, 민속예술공연, 읍성민 솜씨자랑, 기획공연‘뮤지컬 갈라쇼’, 생활문화예술제, 오페라 ‘동래로 온 춘향이’, 발달장애아동 작품전시회, 어린이영어뮤지컬, 한복패션쇼, 북문미디어아트, 축제학술콘서트4. 참여 체험 프로그램(19): 동래읍성역사축제 주제관 체험, 장영실 과학체험, 조선힙쟁이 댄스배틀, 한복디스코파티, 읍성민게임, 읍성오락실, 스탬프 투어, 동래한걸음야행&달빛 티크닉, 동래읍성 따라 걷기, 청소년 어울마당, 동래읍성북페어, 동래 혜민서 체험, 행복마을 도자체험, 송상현 부사 투구 및 갑옷체험, 점자&보치아 체험, 읍성어린이놀이광장, 몰입형 영상체험관, 야외방탈출 ‘동래부사와 마법의씨앗’, 세계전통의상 체험5. 부대행사(9): 임진왜란 433주기 추모 제향, 동래세일대축제, 소원담은 소망등, 주민자치회 프로그램 발표회 및 전시회, 옥토버 페스트, 먹거리장터, 명륜1번가 나이트페스티벌, 혁신어울림센터 뷰티체험, 백투더조선놀이터",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료 (일부 프로그램 유료, 야외방탈출 10,000원, 체험 3,000~10,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-18",
       "venue": "부산광역시 동래구 문화로 80 (명륜동)",
@@ -904,7 +1685,47 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "동래읍성역사축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-607417",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "607417",
+      "contentTypeId": "15",
+      "title": "명량대첩축제",
+      "name": "명량대첩축제",
+      "city": "국내",
+      "region": "국내",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/71/4100271_image2_1.JPG",
+      "detail": {
+        "sponsor1": "전남광주통합특별시, 진도군, 해남군",
+        "sponsor1tel": "061-802-2192",
+        "sponsor2": "(재)전라남도관광재단",
+        "eventenddate": "20260913",
+        "playtime": "11:00 ~ 21:30 (13일 11:00 ~ 18:00)",
+        "eventplace": "울돌목 일원(해남군 우수영관광지, 진도군 녹진관광지)",
+        "program": "1. 메인프로그램 : 개막식, 디저털 융복합해전, 출정 퍼레이드, 회오리 불꽃쇼, 해상퍼레이드\n2. 부대프로그램 : 이순신동상경관조명, 조선수군 유등전시, 명량대첩 기록물전시, 명량대첩 스탬프랠리, 명량해전 AR,MR 체험\n3. 소비자 참여 프로그램 : 장군복 체험, 해군 병영 체험, 전통 국악기 만들기 체험\n4. 기타 내용 : 팔씨름 대회, 청소년 트로트 가요제, 청소년 가요&댄스 경연대회",
+        "eventstartdate": "20260911",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-09-11",
+      "end": "2026-09-13",
+      "venue": "전남광주통합특별시 진도군 군내면 명량대첩로 11",
+      "contact": "061-802-2192",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "명량대첩축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-574014",
@@ -918,7 +1739,21 @@
       "city": "국내",
       "region": "국내",
       "image": "https://tong.visitkorea.or.kr/cms/resource/90/3498990_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "목포시",
+        "sponsor1tel": "061-270-8441",
+        "sponsor2": "목포시축제추진위원회",
+        "eventenddate": "20261018",
+        "playtime": "13:00~22:00",
+        "eventplace": "목포항&삼학도 일원",
+        "program": "1. 메인프로그램 : 파시 해상 퍼레이드, 파시장터, 파시 경매2. 부대프로그램 : 도깨비장터, 시민노젓기대회, 어등 터널3. 소비자 참여 프로그램 : 파시장터 구이터, 파시 수랏간, 1897 건맥, 낭만한끼, 범선 승선 체험, 노젓기 대회4. 공연 프로그램 : 난영가요제, 바다콘서트, 목포항구 문화공연, 항구 디스코파티, 파시 노래자랑",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-18",
       "venue": "전남광주통합특별시 목포시 삼학로92번길 6 (산정동)",
@@ -926,7 +1761,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "목포항구축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1953493",
@@ -940,7 +1777,21 @@
       "city": "국내",
       "region": "국내",
       "image": "https://tong.visitkorea.or.kr/cms/resource/62/4095062_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "무안군",
+        "sponsor1tel": "061-450-5473",
+        "sponsor2": "무안군축제추진위원회",
+        "eventenddate": "20260906",
+        "playtime": "10:00~18:00",
+        "eventplace": "무안황토갯벌랜드 일원",
+        "program": "1. 메인프로그램 : 황토 갯벌 장어 잡기, 운저리낚시, 워터밤 물놀이장, 갯벌탐방다리 걷기대회 등\n2. 부대프로그램 : 전국 청소년 사생대회, 황토갯벌 읍·면 씨름 대항전 등 경연행사\n3. 소비자 참여 프로그램 : 바다예술체험(10종), 갯벌생태체험(10종), 상시체험(20종) 등\n4. 기타 내용 : 생태갯벌과학관, 해상안전체험관, 뷰 맛집 공유주방 등 상설시설 운영",
+        "eventstartdate": "20260829",
+        "usetimefestival": "무료 (일부 프로그램 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-08-29",
       "end": "2026-09-06",
       "venue": "전남광주통합특별시 무안군 해제면 황토갯벌길 88",
@@ -948,7 +1799,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "무안 황토 갯벌축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506523",
@@ -962,7 +1815,21 @@
       "city": "전북",
       "region": "전북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/66/3520566_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "무주군",
+        "sponsor1tel": "063-324-2440",
+        "sponsor2": "(사)무주반딧불축제위원회",
+        "eventenddate": "20260912",
+        "playtime": "10:00~22:30",
+        "eventplace": "무주군 예체문화관",
+        "program": "1. 메인프로그램 : 반딧불이신비탐사, 반딧불이주제관\n2. 부대프로그램 : 반디키즈월드, 반디별소풍, 남대천생명플러스, 문화예술공연 등\n3. 소비자 참여 프로그램 : 체험프로그램, 물벼락페스티벌, 각종 플리마켓 등",
+        "eventstartdate": "20260904",
+        "usetimefestival": "무료 (일부유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-04",
       "end": "2026-09-12",
       "venue": "전북특별자치도 무주군 무주읍 한풍루로 326-17",
@@ -970,7 +1837,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "무주반딧불축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2556687",
@@ -984,7 +1853,22 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/65/4081065_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "한국문화예술위원회",
+        "sponsor1tel": "070-7954-1369",
+        "sponsor2": "한국문화예술위원회",
+        "eventenddate": "20260920",
+        "playtime": "프로그램 별 상이함",
+        "eventplace": "마로니에 공원",
+        "agelimit": "전 연령",
+        "program": "- 주요 프로그램 : 전시 및 문학 프로그램 / 공연 / 북토크 / 워크숍 / 협력 프로그램 / 개막식 등\n1. 개막식\n- 기간 : 2026.09.16. 19:30\n- 장소 : 아르코예술극장 소극장\n- 주요 프로그램 : 문학주간 2026의 주제인 '곁눈질'을 알리고, 11주년을 기념하는 개막 행사\n2. 주제 스테이지\n- 장소 : 아르코 예술극장 소극장 / 아르코꿈밭극장 / 예술가의 집 2층 라운지 / 예술가의 집 3층 다목적홀\n- 주요 프로그램 : 국내 주요 작가 및 극작가, 시인, 배우, 연출가 등이 함께하는 북토크, 낭독, 대담, 공연 등\n3. 협력 스테이지\n- 장소 : 아르코 예술극장 소극장 / 아르코꿈밭극장 / 예술가의 집 2층 라운지 / 예술가의 집 3층 다목적홀\n- 주요 프로그램 : 한국문학 비평 포럼 / 청소년 문학토크 / 출판사 및 문학관 협력 프로그램 등\n4. 우리동네 프로그램\n- 기간 : 2026.08.24.~2026.09.20.\n- 장소 : 전국 지역서점\n- 주요 프로그램 : 30개 지역서점에서 직접 기획한 전국 각지에서 만나는 문학주간 북토크 / 워크숍\n5. 전시\n- 장소 : 아르코 미술관 1층 공간열림\n- 주요 프로그램 : 현대어린이책미술관 협력 전시\n6. 참여 프로그램\n- 장소 : 마로니에 공원 일대\n- 주요 프로그램 : 팝업부스 / 북라운지 / DIY 거울만들기 체험 / 미션 빙고 등",
+        "eventstartdate": "20260916",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-16",
       "end": "2026-09-20",
       "venue": "서울특별시 종로구 대학로 104 (동숭동)",
@@ -992,7 +1876,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "문학주간2026 〈곁눈질〉 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2598331",
@@ -1006,7 +1892,22 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/68/4059668_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서울시 문화정책과",
+        "sponsor1tel": "02-2133-2543",
+        "sponsor2": "아트카오스",
+        "eventenddate": "20261231",
+        "playtime": "18:00~19:30",
+        "eventplace": "서울광장 야외무대",
+        "agelimit": "전 연령",
+        "program": "- 주요 프로그램 : 클래식 / 재즈 마술 등 다양한 장르의 공연 제공\n※ 자세한 공연 일정 및 출연진은 홈페이지를 통해 확인 가능",
+        "eventstartdate": "20260506",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-05-06",
       "end": "2026-12-31",
       "venue": "서울특별시 중구 을지로 지하12 (을지로1가)",
@@ -1014,7 +1915,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "문화가 흐르는 서울광장 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-952988",
@@ -1028,7 +1931,21 @@
       "city": "충남",
       "region": "충남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/48/4098548_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "부여군",
+        "sponsor1tel": "041-837-2517",
+        "sponsor2": "백제문화재단",
+        "eventenddate": "20261011",
+        "playtime": "10:00~22:00",
+        "eventplace": "부여 시가지 일원(정림사지, 석탑로, 관북리유적)",
+        "program": "1. 대표프로그램\n- 개폐막식 : 개폐막공식, 축하공연\n- 사비천도선포식 : 사비 천도의 당위성 선포와 대규모 천도행렬 연출, 정도고유제, 축하공연\n- 주제공연 : 아름다운 백제 빛나는 사비, 72주년 백제문화제 주제공연\n- 주제전시관(백제인의 기약) : 시간의 문을 열어 백제로 떠나는 여정\n2. 메인프로그램\n- 백제역사문화행렬\n- 백제문화 나이트 퍼레이드 : 도심지 야간행렬 퍼포먼스\n- 사비어린이왕국 : 어린이 놀이터 및 백제 역사를 테마로 한 체험 프로그램\n- 빛으로 빚은 백제야(夜) : 정림사지를 배경으로 한 미디어아트\n3. 제례\n- 고천제\n- 제·불전 11종 : 백제혼불채화(고천제) 및 제·불전 10종\n4. 공연프로그램\n- 문화예술공연\n- 사비백제토크콘서트 등 8개 프로그램\n5. 체험프로그램\n- 웰컴 투 백제\n- 사비 로블록스\n- 사비 한 바퀴 등 9개 프로그램\n6. 경관프로그램\n- 사비의 밤(夜)\n- 왕의 후원\n- 빛으로 빚은 백제야 등\n7. 연계프로그램\n- 사비 꼬마 환영단\n- 부여 관광자원과 행사장 연계 등",
+        "eventstartdate": "20261003",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-03",
       "end": "2026-10-11",
       "venue": "충청남도 부여군 부여읍 정림로 83 부여군 일원(부여 시가지)",
@@ -1036,7 +1953,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "백제문화제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2858917",
@@ -1050,7 +1969,20 @@
       "city": "충북",
       "region": "충북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/28/4096528_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "보은군",
+        "sponsor1tel": "043-540-3407",
+        "eventenddate": "20260913",
+        "playtime": "18:00~22:00",
+        "eventplace": "보은군 회인면 일원",
+        "program": "1. 메인프로그램\n- 현감행렬 및 회인 인산객사 망궐례\n- 피반령 도깨비 개막 퍼포먼스\n- 인산객사 야간 공연 및 전통문화 공연\n- 무형유산 시연 및 공연\n2. 부대프로그램\n- 회인 국가유산 야간경관\n- 전기수와 함께하는 회인 밤길 이야기\n- 도깨비 버스킹 및 거리공연\n- 회인 달빛캠프\n- 꽃밭 및 야간 포토존\n- 회인 달빛담장과 골목길 경관",
+        "eventstartdate": "20260911",
+        "usetimefestival": "입장료 무료 (일부 체험 프로그램 사전예약제)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-11",
       "end": "2026-09-13",
       "venue": "충청북도 보은군 회인면 중앙리 회인로 42-5",
@@ -1058,7 +1990,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "보은 회인 국가유산 야행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-900168",
@@ -1072,7 +2006,21 @@
       "city": "충북",
       "region": "충북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/59/4096359_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "보은군",
+        "sponsor1tel": "043-540-3392",
+        "sponsor2": "보은군축제추진위원회",
+        "eventenddate": "20261025",
+        "playtime": "10:00~20:00",
+        "eventplace": "보은읍 뱃들공원 및 속리산 일원",
+        "program": "1. 공식행사 : 개막식 및 폐막행사\n2. 주요 프로그램 : 댄스챌린지, 대추 미션임파서블, 대추 경매, 보은 IN 콘서트, 파워 콘서트, 보은군 생활체육팀 공연, 수변무대 버스킹 공연 등\n3. 체험 및 참여프로그램 : 대추크루와 함께하는 기차놀이 이벤트, 스탬프 투어, 어린이놀이존 및 수상레저체험존 운영, 홈페이지 온라인 참여 이벤트 등\n4. 연계 프로그램 : 감성 버스킹 공연, 보은군민의 날, 보은 전국민속소힘겨루기 대회, 철판깔장 등",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-25",
       "venue": "충청북도 보은군 보은읍 뱃들로 54 보은읍 뱃들공원 및 속리산 일원",
@@ -1080,7 +2028,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "보은대추 축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-140799",
@@ -1094,7 +2044,21 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/06/4040606_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "부산광역시",
+        "sponsor1tel": "051-713-5000",
+        "sponsor2": "부산축제조직위원회",
+        "eventenddate": "20261004",
+        "playtime": "10:00~22:00",
+        "eventplace": "삼락생태공원",
+        "program": "1. 메인프로그램 : 부산국제록페스티벌\n2. 부대프로그램 : Rookies on the BU-ROCK, Road to BU-ROCK 등\n3. 기타 : MD부스, 푸드코트 라운지, 캠핑존 등",
+        "eventstartdate": "20261002",
+        "usetimefestival": "유료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-04",
       "venue": "부산광역시 사상구 삼락동 29-50",
@@ -1102,7 +2066,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "부산국제록페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-4095478",
@@ -1116,7 +2082,22 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/64/4095564_image2_1.png",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "부산광역시, 대한육상연맹, KNN",
+        "sponsor1tel": "070-4111-5620",
+        "sponsor2": "KNN, 부산육상연맹",
+        "eventenddate": "20261206",
+        "playtime": "07:30 (종료 시간은 코스별로 상이함)",
+        "eventplace": "부산 벡스코 제1전시장",
+        "agelimit": "만 18세 이상",
+        "program": "- 주요 프로그램 : 풀코스 마라톤 대회 / 10㎞ 로드레이스 대회\n- 부대 행사 및 프로그램 : 협찬사 이벤트 / 사전 웜업 퍼포먼스 / 개회식 / 포토존 운영 등",
+        "eventstartdate": "20261206",
+        "usetimefestival": "- 풀코스 80,000원- 10㎞ 60,000원",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-12-06",
       "end": "2026-12-06",
       "venue": "부산광역시 해운대구 APEC로 55 (우동)",
@@ -1124,7 +2105,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "부산브릿지마라톤 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3492576",
@@ -1138,7 +2121,21 @@
       "city": "부산",
       "region": "부산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/80/4093280_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "오씨메이커스",
+        "sponsor1tel": "02-2602-8602",
+        "sponsor2": "오씨메이커스",
+        "eventenddate": "20261108",
+        "playtime": "[11월6일~7일]- 10:00~18:00- 입장 마감 17:30[11월8일]- 10:00~17:00- 입장 마감 16:30",
+        "eventplace": "벡스코 제2전시장 4홀",
+        "program": "- 주요 프로그램 : 공모전 수상작 특별전시\n- 부대 행사 및 프로그램 : 키캡 전시존 / 스탬프 투어 / 포토존 / 드로잉월\n※ 프로그램은 추후 업데이트 예정이며 상황에 따라 변동될 수 있음",
+        "eventstartdate": "20261106",
+        "usetimefestival": "- 성인/청소년 11,000원 - 국가유공자 5,500 - 장애인/아동 무료 - 슈퍼 얼리버드 할인(성인/청소년) 6,000원 ※ 한정 수량 소진 시, 조기 마감 ※ 국가유공자/장애인 증빙서류 지참 필수",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-11-06",
       "end": "2026-11-08",
       "venue": "부산광역시 해운대구 APEC로 55 (우동)",
@@ -1146,7 +2143,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "부산일러스트레이션페어V.7 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-589386",
@@ -1160,7 +2159,20 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/75/3557475_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "(재)한국만화영상진흥원",
+        "sponsor1tel": "032-310-3071",
+        "eventenddate": "20260920",
+        "playtime": "10:00~20:00 (일 10:00~18:00)",
+        "eventplace": "한국만화박물관 및 한국만화영상진흥원 일원",
+        "program": "1. 메인프로그램 : 만화 기획·특별전시 등\n2. 부대프로그램 : 경기국제코스프레페스티벌, 작가와의 대담 및 사인회, 만화 버스킹, 애니메이션 상영회 등\n3. 소비자 참여 프로그램 : BICOF 플레이그라운드, BICOF 야외마켓부스, 캐치캐치 캐리커처, 웹툰 OST 콘테스트, 만화체험부스, 아마추어 코스프레대회 등\n4. 기타 내용 : 푸드트럭, 야외만화방 등",
+        "eventstartdate": "20260918",
+        "usetimefestival": "유료 5,000원 (사전신청 3,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-20",
       "venue": "경기도 부천시 원미구 길주로 1 (상동)",
@@ -1168,7 +2180,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "부천국제만화축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1266642",
@@ -1182,7 +2196,21 @@
       "city": "인천",
       "region": "인천",
       "image": "https://tong.visitkorea.or.kr/cms/resource/77/4067377_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "인천광역시 부평구",
+        "sponsor1tel": "032-509-7516",
+        "sponsor2": "부평구 축제위원회, 부평구문화재단, 부평문화원",
+        "eventenddate": "20261004",
+        "playtime": "10:00~21:30",
+        "eventplace": "부평대로 & 부평일대",
+        "program": "1. 메인프로그램 : 개폐막공원, 부평대동퍼레이드 & 부평만만세 등\n2. 부대프로그램 : 대한민국창작풍물대전, 부평생활문화축제, 풍물페스타, 전국학생풍물경연대회 등\n축제장 내 먹거리 부스가 없으므로 인근 지역 식당 이용 바랍니다.",
+        "eventstartdate": "20261002",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-04",
       "venue": "인천광역시 부평구 부평대로 34-1 (부평동)",
@@ -1190,29 +2218,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "부평풍물대축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-1068150",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "1068150",
-      "contentTypeId": "15",
-      "title": "사천시 삼천포항 자연산 전어축제",
-      "name": "사천시 삼천포항 자연산 전어축제",
-      "city": "경남",
-      "region": "경남",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/28/3513728_image2_1.jpg",
-      "detailQuality": [],
-      "start": "2026-08-20",
-      "end": "2026-08-23",
-      "venue": "경상남도 사천시 팔포3길 56-35 (동금동)",
-      "contact": "055-832-8565",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "사천시 삼천포항 자연산 전어축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-234232",
@@ -1226,7 +2234,21 @@
       "city": "경남",
       "region": "경남",
       "image": "http://tong.visitkorea.or.kr/cms/resource/49/3566649_image2_1.png",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "대한민국 공군, 경상남도, 사천시, 한국항공우주산업㈜",
+        "sponsor1tel": "055-831-2061",
+        "sponsor2": "사천에어쇼 공동운영본부",
+        "eventenddate": "20261025",
+        "playtime": "09:00~17:00",
+        "eventplace": "사천비행장 일원",
+        "eventstartdate": "20261022",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함",
+        "festivaltype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-22",
       "end": "2026-10-25",
       "venue": "경상남도 사천시 사천읍 정의리 중선리 1-1, 사천비행장 일원",
@@ -1234,7 +2256,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "사천에어쇼 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506600",
@@ -1248,7 +2272,20 @@
       "city": "경남",
       "region": "경남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/88/3523088_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "산청축제관광재단",
+        "sponsor1tel": "055-970-6670",
+        "eventenddate": "20261011",
+        "playtime": "10:00 ~ 18:00",
+        "eventplace": "동의보감촌 일원",
+        "program": "- 공식행사 : 개막식, 폐막식- 주제행사 : 산청혜민서, 내몸의 보약체험, 항노화뷰티관- 전시행사 : (상설전시) - 엑스포 주제관, 산청한의학박물관, 산청약초관 / (특별전시) - 2025 산청한의학박물관 특별전. 웰니스전시홍보관, 산청문인시화전, 플랜트정원조성- 공연행사 : 상설 퍼레이드 주제공연, 무대별 연계행사 공연- 체험행사 : 산청문화체험존, 가족힐링체험존, 자연친화체험존, 동의보감상설체험- 판매행사 : 약초판매장터, 농특산물판매장, 산청공예전시판매장, 산청음식관, 푸드트럭존- 학술행사 : 향약집성방 및 신찬벽온방 학술대회",
+        "eventstartdate": "20261002",
+        "usetimefestival": "무료(일부 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-11",
       "venue": "경상남도 산청군 금서면 동의보감로555번길 45-6",
@@ -1256,7 +2293,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "산청한방약초축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1409287",
@@ -1270,7 +2309,20 @@
       "city": "강원",
       "region": "강원",
       "image": "https://tong.visitkorea.or.kr/cms/resource/64/3582264_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "원주시",
+        "sponsor1tel": "033-737-4155",
+        "sponsor2": "한국농촌지도자원주시연합회",
+        "eventenddate": "20260913",
+        "playtime": "10:00~21:00",
+        "eventplace": "원주종합운동장",
+        "program": "1. 공연행사 : 삼토노래자랑, 삼토콘서트, 농경문화 초청공연, 버스킹\n2. 경연행사 : 전국 삼토실버모델 선발대회, 생활 동아리 경연, 허수아비 경연, 연자방아 돌리기, 토토미씨앗모으기\n3. 전시행사 : 삼토 주제관(농특산물, 농업기술, 가공품, 농작업안전, 산업곤충 등)\n4. 체험행사 : 농경문화체험, 원예체험, 동물먹이주기, VR농업체험, 천연염색체험, 농특산물 쿠킹클래스 등\n5. 판매행사 : 농특산물 직거래 판매 등\n6. 나눔행사 : 가마솥비빔밥, 떡메치기, 삼색가래떡, 힘찬이농산물교환\n7. 먹거리 : 향토음식관, 다문화음식관, 치악산한우존 등",
+        "eventstartdate": "20260911",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-11",
       "end": "2026-09-13",
       "venue": "강원특별자치도 원주시 서원대로 311 (명륜동)",
@@ -1278,7 +2330,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "삼토 페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2434545",
@@ -1292,7 +2346,21 @@
       "city": "제주",
       "region": "제주",
       "image": "https://tong.visitkorea.or.kr/cms/resource/22/4051822_image2_1.png",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서귀포시",
+        "sponsor1tel": "064-760-2654",
+        "sponsor2": "서귀포시",
+        "eventenddate": "20261031",
+        "playtime": "19:00~20:40",
+        "eventplace": "서귀포항 새연교 일원",
+        "program": "- 주요 프로그램 : 라이브공연(60분) / 불꽃쇼(2분)\n- 부대 행사 및 프로그램 : 새연교 음악 분수쇼(30분)",
+        "eventstartdate": "20260425",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-04-25",
       "end": "2026-10-31",
       "venue": "제주특별자치도 서귀포시 남성중로 40 (서홍동)",
@@ -1300,7 +2368,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "새연교 주말 문화공연 '금토금토 새연쇼' 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3348418",
@@ -1314,7 +2384,21 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/74/4098874_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서울특별시",
+        "sponsor1tel": "070-4289-5542",
+        "sponsor2": "서울디자인재단",
+        "eventenddate": "20260906",
+        "playtime": "11:00~20:00",
+        "eventplace": "서울새활용플라자 및 새활용거리",
+        "program": "1. 개막식 : 오프닝, 내빈 인사, 시민 이벤트, 무대 공연\n2. 공모전 : 업사이클 공모전 시상식, 공모전 전시\n3. 시민참여 프로그램 : 업사이클 경진대회, 새로고침 옥션, 새활용 스페셜 투어, 오픈 스튜디오, 장난감 자원순환 체험존\n4. 새활용 마켓 : 수리수선존, 어린이장터, 판매&체험존, F&B, 서울제로마켓\n5. 부대행사 : 새활용 미션런, 플레이 그라운드, 무대공연, 버스킹, 상시 이벤트",
+        "eventstartdate": "20260904",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-04",
       "end": "2026-09-06",
       "venue": "서울특별시 성동구 자동차시장길 49 (용답동)",
@@ -1322,7 +2406,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "새활용 페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2853756",
@@ -1336,7 +2422,22 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/05/4078805_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "생생우리음악축제위원회, 문화발전소 열터",
+        "sponsor1tel": "031-236-7103",
+        "sponsor2": "한국문화예술위원회",
+        "eventenddate": "20260830",
+        "playtime": "10:00~20:00※ 장소 및 공연 별로 상이함",
+        "eventplace": "그랑드작은도서관 / 나마네 / 동일하이빌작은도서관 / 모모책방 / 해달별역사 작은도서관 / 박봉담 / 역말문화회관 / 화성시노노카페커피복합문화센터 / 화성시생활문화창작소 / 봉담호수공원",
+        "agelimit": "전 연령",
+        "program": "1. 전야제\n- 기간 : 2026.08.28.(금) 19:00~21:00\n- 장소 : 봉담호수공원\n- 프로그램 : 비나리 / 전통연희 및 재즈(5개팀 공연)\n2. 본축제\n- 기간 : 2026.08.28.(금) 19:00~21:00\n- 장소 : 봉담 내 10여 곳(작은도서관 / 카페 / 창작소 / 책방 / 공방 등)",
+        "eventstartdate": "20260828",
+        "usetimefestival": "공간 별로 상이함",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-08-28",
       "end": "2026-08-30",
       "venue": "경기도 화성시 효행구 봉담읍 동화새터길 133 역말문화회관",
@@ -1344,7 +2445,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "생생우리음악축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506616",
@@ -1358,7 +2461,21 @@
       "city": "제주",
       "region": "제주",
       "image": "https://tong.visitkorea.or.kr/cms/resource/11/4039211_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서귀포시",
+        "sponsor1tel": "064-760-3942",
+        "sponsor2": "서귀포칠십리축제추진위원회",
+        "eventenddate": "20261025",
+        "playtime": "10:00~22:00",
+        "eventplace": "천지연 주차장 일대",
+        "program": "메인프로그램: 길거리 퍼레이드\n경연프로그램: 청소년 페스타, 칠십리 가요제\n타 부서 연계 프로그램(추진예정): 드론쇼, 지붕없는 도서관, 방방곡곡 콘서트\n지역 상권 연계 프로그램(추진예정): 칠십리 영수증 패스, 칠십리 파트너스",
+        "eventstartdate": "20261023",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-23",
       "end": "2026-10-25",
       "venue": "제주특별자치도 서귀포시 서홍동 684 천지연폭포 인근 주차장",
@@ -1366,7 +2483,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서귀포칠십리축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-140752",
@@ -1380,7 +2499,21 @@
       "city": "충남",
       "region": "충남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/47/3550747_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서산시",
+        "sponsor1tel": "041-660-2696",
+        "sponsor2": "(재)서산문화재단",
+        "eventenddate": "20261011",
+        "playtime": "11:00~21:00",
+        "eventplace": "해미읍성",
+        "program": "1. 메인프로그램 : 개막식, 개막주제공연, 축하공연, 고성방가EDM파티, 해미 더 클래식, 뮤지컬 갈라쇼, 어린이 뮤지컬, 미디어아트쇼, 블랙이글스 에어쇼 등2. 부대프로그램 : 서산 헤리티지, 공연을 담은 피크닉, 해미해피콘서트, 청허정 힐링 프로그램, 전통혼례체험, 전통놀이체험, 피크닉 쉼터 등3. 소비자 참여 프로그램 어린이 당근마켓, 어린이 놀이터, 해미아트마켓 등4. 지역상생프로그램 : 해미해피데이, 이고지고 이어달리기축제장 내 먹거리 부스가 없으므로 인근 지역 식당 이용 바랍니다.",
+        "eventstartdate": "20261009",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-09",
       "end": "2026-10-11",
       "venue": "충청남도 서산시 해미면 남문2로 143",
@@ -1388,7 +2521,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서산해미읍성축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-292961",
@@ -1402,7 +2537,22 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/79/4039379_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서울특별시",
+        "sponsor1tel": "02-6242-7402",
+        "sponsor2": "서울특별시",
+        "eventenddate": "20261231",
+        "playtime": "11:00 / 14:00※ 매주 월요일 휴무",
+        "eventplace": "덕수궁 대한문 앞",
+        "agelimit": "전 연령",
+        "program": "- 주요 프로그램 : 서울왕궁수문장 교대의식\n- 부대 행사 및 프로그램 : '나도 수문장이다' 체험 / '개식타고' 체험 / 전통복식 체험 / '내 생애 특별한 날’ 촬영 체험\n[부대 행사 및 프로그램 세부 정보]\n1. 나도 수문장이다\n- 운영 기간 : 매주 화요일~일요일 (교대의식 진행 시간)\n- 체험 인원 : 회당 1명\n- 주요 내용 : 수문군 역할 체험 / 복식 착용 / 역할 교육\n- 비고 : 사전 신청 필수 / 체험일 1시간 전 대기실 도착\n2. 개식타고\n- 운영 기간 : 매주 화요일~일요일 (교대의식 진행 시간)\n- 체험 인원 : 회당 1명\n- 주요 내용 : 엄고수 역할 체험 / 복식 착용 / 역할 교육\n- 비고 : 사전 신청 필수 / 체험일 30분 전 대기실 도착\n3. 전통복식 체험\n- 운영 기간 : 주말 및 공휴일 10:30~15:30\n- 체험 인원 : 제한 없음\n- 주요 내용 : 현장 복식 착용 체험\n- 비고 : 무료 운영\n4. 내 생애 특별한 날\n- 운영 기간 : 매주 화요일 / 수요일 / 금요일 (10:00, 13:00, 15:00)\n- 체험 인원 : 회당 1팀(5명 이내)\n- 주요 내용 : 수문장과 기념사진 촬영 / 즉석사진 1매 제공\n- 비고 : 동일 인 중복 신청 불가 / 사진 장비·의상·소품·메이크업 등 미제공 / 수문군 이동 촬영 불가",
+        "eventstartdate": "20260101",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-01-01",
       "end": "2026-12-31",
       "venue": "서울특별시 중구 세종대로 99 (정동)",
@@ -1410,7 +2560,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서울 왕궁수문장 교대의식 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1018469",
@@ -1424,7 +2576,20 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/69/4073769_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "한국문학번역원",
+        "sponsor1tel": "02-6339-1232",
+        "eventenddate": "20260916",
+        "playtime": "프로그램 별 상이",
+        "eventplace": "아라아트센터",
+        "program": "- 주요 프로그램 : 개막식 및 개막대담(국내외 작가와 대담 및 작품세계를 중심으로 한 1:1 대담) / 워크숍 프로그램(작가와 관객이 함께하는 소규모 워크숍 프로그램) / 전시('누구세요?'의 주제에 맞는 전시) / 참가작가 도서 판매 / 팝업 부스프로그램",
+        "eventstartdate": "20260911",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-11",
       "end": "2026-09-16",
       "venue": "서울특별시 종로구 인사동9길 26 (견지동)",
@@ -1432,7 +2597,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서울국제작가축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3544886",
@@ -1446,7 +2613,21 @@
       "city": "국내",
       "region": "국내",
       "image": "https://tong.visitkorea.or.kr/cms/resource/89/4096389_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서울특별시, 서울문화재단",
+        "sponsor1tel": "02-758-2037",
+        "sponsor2": "서울문화재단",
+        "eventenddate": "20260918",
+        "playtime": "19:00~21:00",
+        "eventplace": "뚝섬한강공원 수변무대 일대",
+        "program": "- 주요 프로그램 : 개막 행사 / 2026.09.18.(금) / 뚝섬한강공원 수변무대 일대",
+        "eventstartdate": "20260918",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-18",
       "venue": "서울특별 광진구 자양동 704-1",
@@ -1454,7 +2635,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서울어텀페스타 개막행사 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-142193",
@@ -1468,7 +2651,22 @@
       "city": "서울",
       "region": "서울",
       "image": "https://tong.visitkorea.or.kr/cms/resource/22/4087022_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서울프린지네트워크",
+        "sponsor1tel": "070-7092-8172",
+        "sponsor2": "서울프린지네트워크",
+        "eventenddate": "20260823",
+        "playtime": "10:00~22:00",
+        "eventplace": "서보아트스페이스",
+        "agelimit": "공연 별로 상이함",
+        "program": "- 기간 : 8/6~8/23\n- 장소: 너울너울, 리리랜드, 미진플로어by황춘엔터테인먼트, 서보아트스페이스, 스튜디오 마스 MAS, 온수공간, 유영공간, 팔걸이, 플랫폼 달\n- 주요 프로그램 : 예술가 작품 발표 / 연극, 무용, 음악, 퍼포먼스, 영상, 시각예술, 전시 등 115개의 팀의 작품\n- 전체부터 만 19세 이상 관람, 무료부터 70,000원까지 예술가가 직접 정한 연령 및 티켓가격으로 진행\n- 기간 : 8/6~8/23\n- 장소 : 예술가가 작품에 적합한 공간을 자발적으로 발굴 , 19개 공간\n- 주요 프로그램 : 예술가 작품 발표 / 연극, 무용, 음악, 퍼포먼스, 영상, 시각예술, 전시 등 21개 팀의 작품\n- 자세한 사항은 서울프린지페스티벌 웹사이트 참고\n- 기간 : 8/15~8/16\n- 장소 : 서울연극창작센터\n- 주요 프로그램 : 14개 팀의 릴레이 작품 발표\n- 전체 연령부터 만 18세 이상 관람 / 자율후불제\n- 기간 : 8/7~8/22 21:00~23:00, 매주 월요일 휴무\n- 장소 : 카페 시츠프로브 2층\n- 주요 프로그램 : 매일 축제 프로그램 종료 후 이어지는 주제별 토크\n- 전체 방문 및 무료 이용 가능",
+        "eventstartdate": "20260806",
+        "usetimefestival": "공연 별로 상이함[할인]- 장애인 50%- 영유아/어린이/청소년 20%- 프린지 매니아 5%",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-08-06",
       "end": "2026-08-23",
       "venue": "서울특별시 마포구 월드컵북로 94 (성산동)",
@@ -1476,7 +2674,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서울프린지페스티벌2026 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-141268",
@@ -1490,7 +2690,20 @@
       "city": "충남",
       "region": "충남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/78/2828778_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "홍원항마을축제추진위원회",
+        "sponsor1tel": "041-950-4414",
+        "eventenddate": "20260906",
+        "playtime": "10:00~18:00",
+        "eventplace": "서천 서면 홍원항 일원",
+        "program": "1. 체험프로그램 : 맨손으로 전어 잡기 체험, 홍원항 행사장 내 보물 찾기, 전어 꽃게 포토존 등\n2. 상시행사 : 홍원항 수산물 장터 등",
+        "eventstartdate": "20260822",
+        "usetimefestival": "입장료 무료(체험 프로그램 유료 맨손 전어 잡기 체험 15,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-08-22",
       "end": "2026-09-06",
       "venue": "충청남도 서천군 홍원길 88",
@@ -1498,7 +2711,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서천 홍원항 자연산 전어 꽃게 축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3351888",
@@ -1512,7 +2727,20 @@
       "city": "충남",
       "region": "충남",
       "image": "https://tong.visitkorea.or.kr/cms/resource/40/3525340_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "서천군",
+        "sponsor1tel": "041-957-9030",
+        "sponsor2": "(재)서천문화관광재단",
+        "eventenddate": "20260912",
+        "playtime": "18:00~22:00",
+        "eventplace": "한산읍성",
+        "program": "1. 야경(夜景) : 등불따라 한산읍성까지, 한산을 지키는 제등\n2. 야로(夜路) : 서천국가유산담기 스탬프투어, 청소년이 들려주는 서천국가유산이야기, 한산읍성 줍깅엔티어링\n3. 야사(夜事) : 한산 현감의 하루, 한산읍성 지킴이, 서천 국가유산을 잇는 사람들, 한산읍성 밤에 여는 선비 시험\n4. 야화(夜畵) : 서천 국가유산스케치북, 한산수호탑에 말해봐\n5. 야설(夜設) : 한산읍성, 현감을 맞이하다, 조선 판소리 명창 이동백, 마당극 한산 보부상 이야기, 한산읍성에서 울리는 풍류\n6. 야시(夜市) : 한산 별빛 장터\n7. 야식(夜食) : 한산읍성, 한밤 장터\n8. 야숙(夜宿) : 서천에서 별빛캠프",
+        "eventstartdate": "20260911",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-11",
       "end": "2026-09-12",
       "venue": "충청남도 서천군 한산면 지현리 122-3",
@@ -1520,7 +2748,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "서천국가유산야행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-3501104",
@@ -1534,7 +2764,19 @@
       "city": "울산",
       "region": "울산",
       "image": "https://tong.visitkorea.or.kr/cms/resource/74/4078274_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "성남동 커피사업추진협의체",
+        "sponsor1tel": "052-290-3541",
+        "eventenddate": "20261101",
+        "playtime": "10:00~20:00",
+        "eventplace": "중구 문화의 거리",
+        "program": "1. 커피대회(브루잉, 라떼아트)\n2. 커피 홍보 시음, 판매\n3. 추출, 로스팅, 라떼아트 등 커피 체험 행사\n4. 기타 체험 행사(페이스페인팅, 풍선아트, 커피박 등 참여형 이벤트)\n5. 경품행사 및 음악공연 등",
+        "eventstartdate": "20261030",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-30",
       "end": "2026-11-01",
       "venue": "울산광역시 중구 북정동 중구 문화의 거리 일원(시계탑사거리 ~구 울산초 삼거리)",
@@ -1542,29 +2784,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "성남동 커피페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-2550263",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "2550263",
-      "contentTypeId": "15",
-      "title": "세미원 연꽃문화제",
-      "name": "세미원 연꽃문화제",
-      "city": "경기",
-      "region": "경기",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/76/4078876_image2_1.JPG",
-      "detailQuality": [],
-      "start": "2026-06-26",
-      "end": "2026-08-17",
-      "venue": "경기도 양평군 양서면 양수로 93 세미원",
-      "contact": "031-775-1835",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "세미원 연꽃문화제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1344850",
@@ -1578,7 +2800,21 @@
       "city": "충북",
       "region": "충북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/82/4064382_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "청주시",
+        "sponsor1tel": "043-223-4048",
+        "sponsor2": "(사)청주예총",
+        "eventenddate": "20261018",
+        "playtime": "10:00~21:00",
+        "eventplace": "청주시 초정문화공원 및 초정행궁 일원",
+        "program": "1. 공식행사\n- 어가행차: 세종대왕이 초정으로 오는 행렬 재연\n- 개장식: 축제의 시작을 알리는 행사\n- 영천제: 초정약수의 신묘함과 지역의 안녕·번영을 기원하는 전통 의례\n- 양로연: 세종대왕이 노인들을 모시고 공경의 마음으로 베풀었던 잔치\n- 개막식: 개막퍼포먼스 및 특별공연\n2. 공연마당\n- 공연마을 운영(지역 예술단체 릴레이 공연)\n- 시민 문화예술 공연\n- 국가무형유산 줄타기 공연\n3. 체험마당\n- 전통 공방 체험, 만들기 체험 및 족욕 체험\n4. 참여마당\n- 전국 청소년 백일장대회, 보물찾기 등 참여 행사\n5. 전시마당\n- 훈민정음 책자 및 디지털 전시, 초정행궁 미디어 아트 등",
+        "eventstartdate": "20261016",
+        "usetimefestival": "무료 (체험부스 이용 시 요금발생)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-16",
       "end": "2026-10-18",
       "venue": "충청북도 청주시 청원구 내수읍 초정약수로 851 초정행궁",
@@ -1586,7 +2822,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "세종대왕과 초정약수축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1849007",
@@ -1600,7 +2838,21 @@
       "city": "세종",
       "region": "세종",
       "image": "https://tong.visitkorea.or.kr/cms/resource/16/3553216_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "세종특별자치시",
+        "sponsor1tel": "044-850-0591~0594",
+        "sponsor2": "(재)세종시문화관광재단",
+        "eventenddate": "20261011",
+        "playtime": "11:00~21:00",
+        "eventplace": "세종호수공원, 세종중앙공원",
+        "program": "1. 메인프로그램 : (한글) 세종한글놀이터/한글노래 경연대회/한글몸짓 플래시몹/한글 골든벨/충녕 마리오네트\n2. 부대프로그램 : (상설) 시민기획 한글 체험 프로그램, 도심 속 정원공간에서 즐기는 독서존, 친환경 팝업 놀이터 등\n3. 소비자 참여 프로그램 : 네바퀴식당(푸드트럭), 상점",
+        "eventstartdate": "20261009",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-09",
       "end": "2026-10-11",
       "venue": "세종특별자치시 다솜로 216 (세종동) 세종호수공원, 세종중앙공원",
@@ -1608,7 +2860,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "세종한글축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506809",
@@ -1622,7 +2876,21 @@
       "city": "인천",
       "region": "인천",
       "image": "https://tong.visitkorea.or.kr/cms/resource/93/4074893_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "남동구",
+        "sponsor1tel": "070-8820-4038",
+        "sponsor2": "(재)남동문화재단",
+        "eventenddate": "20261004",
+        "playtime": "10:00~21:00",
+        "eventplace": "소래포구 일원(해오름광장 및 소래포구 관광벨트)",
+        "program": "1. 메인프로그램 : 드론 퍼포먼스, 수산물 음식 경연대회, 뷰티 페스티벌, 소래왕 선발대회 왕중왕 콘서트 등\n2. 부대프로그램 : 소래포구 플로깅 스탬프 투어, 소래 청소년 그림 그리기 대회\n3. 소비자 참여 프로그램 : 먹거리 부스 및 푸드트럭, 소래 아트 플리마켓 등\n4. 기타 내용 : 어린이 보트 낚시 놀이터, 어린이 갯벌 놀이터, 어린이 소금 놀이터, 오징어 게임, 2026인분 어죽시식회 등",
+        "eventstartdate": "20261002",
+        "usetimefestival": "무료(일부 체험 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-04",
       "venue": "인천광역시 남동구 장도로 86-17 (논현동)",
@@ -1630,7 +2898,47 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "소래포구축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-1916616",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "1916616",
+      "contentTypeId": "15",
+      "title": "수원 국가유산 야행",
+      "name": "수원 국가유산 야행",
+      "city": "경기",
+      "region": "경기",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/14/4095814_image2_1.jpg",
+      "detail": {
+        "sponsor1": "수원특례시",
+        "sponsor1tel": "031-290-3562~5",
+        "sponsor2": "(재)수원문화재단",
+        "eventenddate": "20260830",
+        "playtime": "18:00~22:00",
+        "eventplace": "수원화성 일원",
+        "program": "1. 야경(夜景) : 밤빛 향연 / 수원화성의 야경 관람 및 문화시설 야간개방·관람\n2. 야로(夜路) : 연향 유람 / 밤빛 아래 수원화성을 거니는 야간 투어 및 플로깅 프로그램\n3. 야사(夜史) : 밤빛 연향 이야기 / 수원의 역사를 소재로 한 역사체험극\n4. 야화(夜畵) : 수원화성 연향도첩 / 화홍문, 수원천을 배경으로 한 전통등 전시\n5. 야설(夜說) : 밤빛 연향, 풍류의 시간 / 무형문화유산 및 지역예술인을 중심의 다양한 공연\n6. 야시(夜市) : 사통팔달 밤빛 장터 / 지역상인·공방과 함께하는 체험·야간 마켓\n7. 야식(夜食) : 밤빛 연향 풍미 / 궁중다과 등 다양한 전통음식 체험 프로그램\n8. 야숙(夜宿) : 수원에서의 하룻밤 / 수원의 숙박시설·종교시설과 연계한 숙박·체험 프로그램\n행사장 내 먹거리부스가 없으므로 인근 지역 식당 이용 바랍니다.\n※ 3일간 야행 프로그램은 종료되었으며, 일부 프로그램(용연~ 화홍문~수원천 일원, 화성행궁)만 기간 연장하여 운영함.\n연장프로그램은 수원문화재단 홈페이지 참고하시기 바랍니다.",
+        "eventstartdate": "20260830",
+        "usetimefestival": "입장료 무료(일부 체험프로그램 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "venue": "경기도 수원시 수원천로392번길",
+      "contact": "031-290-3562~5",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "수원 국가유산 야행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2751090",
@@ -1644,7 +2952,21 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/46/4076246_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "수원시청",
+        "sponsor1tel": "031-290-3622031-5191-3084",
+        "sponsor2": "수원문화재단",
+        "eventenddate": "20261006",
+        "playtime": "18:00~22:00",
+        "eventplace": "수원화성 화서문, 장안공원, 장안문 일원",
+        "program": "1. 화서문 미디어아트 : 1일 3회(19:30, 20:30, 21:30) / 35분 공연\n2. 장안공원 광장 : 관객반응형 인터랙티브 미디어아트, 수목을 활용한 경관조명, 버블라이팅쇼, 반응형놀이터 등\n3. 장안문 미디어아트 : 360 이머시브 미디어아트 구현\n4. 부대프로그램 : 지역 협업 프로그램(플리마켓) / 수원꼬치페스타 부스 운영 / 글로벌 IP 팝업스토어 운영 등",
+        "eventstartdate": "20260919",
+        "usetimefestival": "입장료 무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-19",
       "end": "2026-10-06",
       "venue": "경기도 수원시 팔달구 장안동 334",
@@ -1652,7 +2974,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "수원화성 미디어아트 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-914138",
@@ -1666,7 +2990,20 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/90/4060890_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "수원시, 수원화성문화제 추진위원회, 수원문화재단",
+        "sponsor1tel": "031-5191-3647",
+        "eventenddate": "20261011",
+        "playtime": "12:00~21:00",
+        "eventplace": "수원화성 일원",
+        "program": "1. 주요프로그램 : 주제공연 '수원 판타지 - 야조', 수상퍼포먼스 '선유몽', 시간여행_그날:행궁야화, 시민의 위대한 건축 '화홍'\n2. 체험/참여프로그램 : 시민도화서, 별시날, 양로연, 수원가마레이스, 新낙성연[가면무도회], 축성놀이터 등\n3. 글로벌빌리지 : 외국인 전용 라운지, 전통 놀이 및 다과 체험\n- 정조대왕 능행차 : (2026. 10. 4.(일)) 기록유산 「원행을묘정리의궤」를 기반으로 재현하는 ‘을묘년 화성원행’ 이라고도 불리는 정조대왕 능행차는 정조대왕이 어머니 혜경궁 홍씨의 회갑을 기념하기 위해 을묘년(1795년)에 윤 2월 9일부터 16일까지 총 8일간 진행 한 대규모 왕의 행행(行幸)을 현대에 맞춰 재현 한 국내최대 왕실 퍼레이드이다.\n축제장 내 먹거리 부스가 없으므로 인근 지역 식당 이용 바랍니다.",
+        "eventstartdate": "20261004",
+        "usetimefestival": "무료(일부 사전예약 프로그램의 경우 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-04",
       "end": "2026-10-11",
       "venue": "경기도 수원시 팔달구 정조로 825 (남창동) 행궁광장",
@@ -1674,7 +3011,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "수원화성문화제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-638241",
@@ -1688,7 +3027,22 @@
       "city": "전북",
       "region": "전북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/59/3535559_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "순창군",
+        "sponsor1tel": "063-650-1624",
+        "sponsor2": "순창장류축제추진위원회",
+        "eventenddate": "20261018",
+        "playtime": "09:00~21:00",
+        "eventplace": "순창전통고추장민속마을 및 발효테마파크 일원",
+        "program": "1. 메인프로그램 : 임금님 진상행렬, 발효나라 1997, 다함께 고추장 만들자, 전통장문화학교, 콩, 삶고 찧고 메주만들자2. 부대프로그램 : 매운맛대회, 장맛나라에 온 캐치! 티니핑, 발효청춘 광끼 경연대회, 장추왕을 찾아라, 황금메주를 찾아라, 성년을 맞은 너와나, DJ&EDM 불빛쇼 장류마을 \"좀비야 놀자\" 등3. 소비자 참여 프로그램 : 장류제품 할인 이벤트 20%할인 + 영수증 인증 시 10% 상당 상품권 지급4. 기타 내용 : 민속놀이 경연대회, 읍면 농악 경연대회, 순창예술제 등 지역민들의 참여 프로그램[이용요금]무료- 공연, 행사프로그램 일부 체험부스유료- 먹거리부스, 푸드트럭, 체험판매부스",
+        "eventstartdate": "20261015",
+        "usetimefestival": "입장료 무료",
+        "festivalgrade": "유망축제",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-15",
       "end": "2026-10-18",
       "venue": "전북특별자치도 순창군 순창읍 장류로 55",
@@ -1696,29 +3050,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "순창장류축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-4062064",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "4062064",
-      "contentTypeId": "15",
-      "title": "쉼표：비우고, 머무르고, 채우는",
-      "name": "쉼표：비우고, 머무르고, 채우는",
-      "city": "경북",
-      "region": "경북",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/26/4062226_image2_1.jpg",
-      "detailQuality": [],
-      "start": "2026-03-21",
-      "end": "2026-08-17",
-      "venue": "경상북도 경주시 금성로 260-6 (노서동)",
-      "contact": "054-705-5501",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "쉼표：비우고, 머무르고, 채우는 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2829118",
@@ -1732,7 +3066,21 @@
       "city": "인천",
       "region": "인천",
       "image": "https://tong.visitkorea.or.kr/cms/resource/07/4090107_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "미추홀학산문화원",
+        "sponsor1tel": "032-866-3994",
+        "sponsor2": "미추홀학산문화원",
+        "eventenddate": "20260919",
+        "playtime": "17:00~21:00",
+        "eventplace": "수봉공원 인공폭포 앞 야외마당",
+        "program": "- 주요 프로그램 : 마당예술동아리 시민창작 마당극 공연\n- 부대 행사 및 프로그램 : 여는 마당 / 시민 축하공연(합창) / 관악공연 / 200인의 주민 심사단 / 문화예술 체험부스 / 시민 참여 이벤트 / 동아리 활동 전시 / 포토존 / 푸드트럭",
+        "eventstartdate": "20260919",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-19",
       "end": "2026-09-19",
       "venue": "인천광역시 미추홀구 경인로 216-1 (도화동)",
@@ -1740,7 +3088,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "시민창작예술축제 학산마당극놀래 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-142197",
@@ -1754,7 +3104,20 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/09/3528809_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "시흥시",
+        "sponsor1tel": "031-310-2916, 2919~2920",
+        "eventenddate": "20260920",
+        "playtime": "10:00 ~ 22:00",
+        "eventplace": "시흥갯골생태공원",
+        "program": "1. 대표 프로그램 : 소금의 기억 물의 춤\n2. 공연 프로그램 : 콘서트 in 갯골, 나무숲 음악제, 소금창고 인형극장 등\n3. 체험 프로그램 : 판타지 열기구 체험, 갯골탐험대, 솔트플레이 등\n4. 협업 프로그램 : 폴짝폴짝 곤충체험, 염부체험, 느린우체국, 갯골이 내 놀이터 등\n5. 기타 프로그램 : 갯골전국 미술대회, 추억의 사진관, 스탬프 랠리 등",
+        "eventstartdate": "20260918",
+        "usetimefestival": "무료(일부체험프로그램 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-20",
       "venue": "경기도 시흥시 동서로 287 (장곡동)",
@@ -1762,7 +3125,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "시흥갯골축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2828336",
@@ -1776,7 +3141,21 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/77/4089877_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "시흥시",
+        "sponsor1tel": "031-310-4794",
+        "sponsor2": "시흥월곶포구축제추진위원회",
+        "eventenddate": "20261011",
+        "playtime": "10:00 ~ 22:00",
+        "eventplace": "시흥시 월곶해양수변공원 및 해안가 일원",
+        "program": "1. 대표 프로그램 : 어선승선체험, 맨손고기잡이체험, 왕새우잡이체험\n2. 문화 프로그램 : 월곶 달빛콘서트, 어쿠스틱 음악제, 개막식 & 폐막식 불꽃쇼\n3. 참여·체험 프로그램 : 친환경 에코체험, 미꾸라지잡기대회, 바다직업체험\n4. 월곶 축제 단독 프로그램 : 수산물 깜짝 경매, 건어물 도매시장, 새우젓 담그기 체험\n5. 지역 연계 프로그램 : 도시농부 가을걷이 체험, 어구 전시회, 바다향기 플리마켓",
+        "eventstartdate": "20261009",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-09",
       "end": "2026-10-11",
       "venue": "경기도 시흥시 월곶해안로 188 (월곶동) 월곶해안로 일원",
@@ -1784,7 +3163,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "시흥월곶포구축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1718137",
@@ -1798,7 +3179,21 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/83/4063783_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "경주시",
+        "sponsor1tel": "054-776-5265",
+        "sponsor2": "(재)경주문화재단",
+        "eventenddate": "20261011",
+        "playtime": "15:00 ~ 24:00",
+        "eventplace": "경주 봉황대 및 월정교",
+        "program": "1. 메인 프로그램\n- 화백제전 : 신라의 태동, 천년의 역사를 화려한 수상공연과 불꽃 퍼포먼스\n- 실크로드페스타 : 거리에서 우연히 마주친 고품격 빅재미 공연 거리예술축제\n2. 부대 프로그램\n- 화랑힙합페스타(힙합페스티벌) : 고분을 뒤흔들 힙합 비트! 화랑과 힙합이 만나다 (출연진 : 공식 인스타그램 통해 순차 공개 예정)\n- 달빛난장(낭만야시장) : 도심 속에서 즐기는 감성 한 스푼, 낭만 한 잔.\n3. 시민과 함께 만들어가는 신라문화제!\n- 청소년 그린리더 화랑 원화단 : 축제 플로깅 및 환경 체험 프로그램 기획\n- 시민 SNS 서포터즈 : 경주문화재단 주관 축제, 전시, 공연, 문화행사 SNS 홍보\n- 시민프로듀서 : 신라문화제 체험, 전시 프로그램 기획 및 실현",
+        "eventstartdate": "20261009",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-09",
       "end": "2026-10-11",
       "venue": "경상북도 경주시 노동동 261",
@@ -1806,7 +3201,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "신라문화제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506670",
@@ -1820,7 +3217,20 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/06/4025906_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "한국정신문화재단",
+        "sponsor1tel": "054-840-3400",
+        "eventenddate": "20261004",
+        "playtime": "10:00 ~ 22:00",
+        "eventplace": "중앙선 1942 안동역, 탈춤공원, 원도심 일원",
+        "program": "1. 국·내외 탈춤공연 행사\n- 유네스코 인류무형문화유산 '한국의 탈춤'으로 등재된 국내 탈춤공연단 참가\n- 해외 탈춤공연단 참가\n2. 마당극&창작극, 탈놀이단 공연\n3. 세계탈놀이경연대회, 탈 탈랜트, 세계창작탈공모전, 탈춤그리기대회 등 경연행사\n4. 대동난장, 거리 퍼레이드 등 시민 참여행사\n5. 탈 만들기, 탈춤 따라배우기 등 각종 체험행사\n6. 탈춤축제와 안동을 느낄 수 있는 축제 먹거리 제공",
+        "eventstartdate": "20260924",
+        "usetimefestival": "무료 (일부 체험 프로그램 및 탈춤공연장 공연 유료)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-24",
       "end": "2026-10-04",
       "venue": "경상북도 안동시 육사로 239 (운흥동)",
@@ -1828,7 +3238,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "안동국제탈춤페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1389228",
@@ -1842,7 +3254,19 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/41/4087941_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "(사)대부도포도축제위원회",
+        "sponsor1tel": "031-481-2318",
+        "eventenddate": "20260920",
+        "playtime": "09:00~18:00",
+        "eventplace": "대부바다향기테마파크",
+        "program": "1. 주제프로그램 : 대부포도 직거래 및 디저트, 포도전시 및 품평\n2. 체험프로그램 : 대부포도 오감만족 체험, 포토존 등\n3. 지역문화프로그램 : 안산의 40년&대부포도의 40년 테마 전시, 대부맛자랑\n4. 연계프로그램 : 안산 마라톤대회, 대부해솔길 걷기 축제, 승마체험",
+        "eventstartdate": "20260919",
+        "usetimefestival": "무료"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-19",
       "end": "2026-09-20",
       "venue": "경기도 안산시 단원구 대부황금로 1480-7 (대부북동)",
@@ -1850,7 +3274,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "안산 대부포도축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-293030",
@@ -1864,7 +3290,23 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/32/4039532_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "안성시",
+        "sponsor1tel": "031-678-2518",
+        "sponsor2": "안성시",
+        "eventenddate": "20261129",
+        "playtime": "매주 토, 일 14:00",
+        "eventplace": "안성 남사당 공연장",
+        "agelimit": "전 연령",
+        "program": "- 주요 프로그램 : 풍물단 공연\n안성 남사당놀이 6마당(풍물, 어름, 버나, 살판, 덧뵈기, 덜미)\n▸(풍 물) 태평소, 꽹과리, 징, 장구, 북, 소고 등의 악기로 경쾌한 장단과 몸놀림으로 구성\n▸(어 름) 높이3m. 길이 10m 줄에서 화려한 기예와 재담으로 이뤄진 해학 가득한 놀이\n▸(버 나) 쳇바퀴나 대접 등을 앵두나무 막대기, 담뱃대 등으로 돌리는 재주\n▸(살 판) 신체를 활용한 덤블링과 유사한 곡예\n▸(덧뵈기) 탈을 쓰고 덧본다는 뜻에서 유래된 탈놀이\n▸(덜 미) 나무를 깍아만든 인형의 목덜미를 잡고 논다하여 붙여진 이름으로 우리나라 전통 인형극",
+        "eventstartdate": "20260404",
+        "usetimefestival": "- 성인 12,000원- 청소년 6,000원- 어린이 3,000원※ 안성시민, 경로 할인 50%",
+        "spendtimefestival": "약 90분",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-04-04",
       "end": "2026-11-29",
       "venue": "경기도 안성시 보개면 남사당로 198-2",
@@ -1872,7 +3314,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "안성 남사당바우덕이 풍물단 상설 공연 ‘곰뱅이텄다’ 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-506690",
@@ -1886,7 +3330,21 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/93/4091593_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "안성시",
+        "sponsor1tel": "031-678-5414",
+        "sponsor2": "안성맞춤 남사당 바우덕이축제위원회",
+        "eventenddate": "20261005",
+        "playtime": "10:00~21:00",
+        "eventplace": "안성맞춤랜드 및 안성천 일원",
+        "program": "1. 공식행사: 추모제, 전야제, 개장식, 개·폐막식\n2. 체험: 바우덕이테마파크, 바우덕이culture투어, 안성옛장터, 안성문화장\n3. 전시·홍보: 안성축산물구이존, 농‧축산물 판매, 안성명장전, 바우덕이빛축제, 글로벌스튜디오\n4. 공연: 남사당놀이, 전통혼례, 극놀이, 세계유산마스터클래스\n5. 시민무대: THE NEXT 바우덕이 경연대회, 시민합창페스티벌, 100인색소폰, 시민예술무대",
+        "eventstartdate": "20261002",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-05",
       "venue": "경기도 안성시 보개면 남사당로 198",
@@ -1894,7 +3352,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "안성맞춤 남사당 바우덕이축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-2856675",
@@ -1908,7 +3368,20 @@
       "city": "경북",
       "region": "경북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/23/4092723_image2_1.png",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "경상북도 소방본부",
+        "sponsor1tel": "010-8266-7331",
+        "eventenddate": "20261003",
+        "playtime": "10:00~17:00",
+        "eventplace": "경북도청 천년숲",
+        "program": "1. 메인프로그램\n- 스탬프투어, 안전약속챌린지, 안전OX퀴즈, 마술쇼, 버블쇼, 히어로퍼레이드, 소방악대공연, 인명구조견 훈련시범, 트니트니 안전체조, 소방차 일제방수 등\n2. 체험프로그램 : 5개 분야 60개 내외 프로그램\n- 화재안전 : 물소화기, 옥내소화전, 화재대피, 완강기 체험 등\n- 교통안전 : 안전벨트, 횡단보도, 개인형 이동장치 안전체험 등\n- 재난안전 : 선박안전, 계곡건너기, 지진, 풍수해, 날씨 체험 등\n- 생활안전 : 수난·레저안전, 산악안전, 전기·가스안전, 미아방지 등\n- 응급안전 : 심폐소생술, 하임리히법, 각종 응급처치법, 식중독 대처법 등",
+        "eventstartdate": "20261002",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-02",
       "end": "2026-10-03",
       "venue": "경상북도 안동시 풍천면 갈전리",
@@ -1916,7 +3389,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "안아드림 페스티벌 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1390147",
@@ -1930,7 +3405,21 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/88/4093188_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "안양춤축제 추진위원회",
+        "sponsor1tel": "031-687-0538",
+        "sponsor2": "안양시, 안양문화예술재단",
+        "eventenddate": "20260920",
+        "playtime": "12:00~21:00",
+        "eventplace": "평촌중앙공원, 삼덕공원",
+        "program": "1. 메인프로그램 : 크라운컴페티션 댄스대회, Stain to groove 댄스배틀, 댄스콘서트 등\n2. 부대프로그램 : 시민공연, 안양골든댄스콘테스트, 랜덤플레이댄스, 춤관련영화상영 등\n3. 소비자 참여 프로그램 : 전시,체험,홍보,프리마켓\n4. 기타 내용 : 유식과 영화상영이 가능한 무비존, 가족놀이공간 놀이존, 대규모 인원에도 안전한 댄스존 운영",
+        "eventstartdate": "20260918",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-20",
       "venue": "경기도 안양시 동안구 관평로 149 중앙공원관리부속",
@@ -1938,7 +3427,46 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "안양춤축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
+    },
+    {
+      "slug": "tourapi-2027215",
+      "type": "festivals",
+      "typeLabel": "축제·행사",
+      "category": "festivities",
+      "contentId": "2027215",
+      "contentTypeId": "15",
+      "title": "안흥찐빵축제",
+      "name": "안흥찐빵축제",
+      "city": "강원",
+      "region": "강원",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/12/4100212_image2_1.jpg",
+      "detail": {
+        "sponsor1": "안흥찐빵축제위원회",
+        "sponsor1tel": "033-340-2746",
+        "eventenddate": "20261004",
+        "playtime": "10:00~20:00",
+        "eventplace": "안흥찐빵모락모락마을 일원",
+        "program": "1. 메인무대\n- 1일차: 개막식 및 축하공연\n- 2일차: 90년대 가요대전 '토요일, 토요일은 가수다'\n2. 찐빵 무료 시식 및 판매존\n3. 플레이존\n- 체험 & 게임존 : 이벤트 볼풀장, 에어바운스, 도깨비 원정대, 안흥찐빵 히스토리 스템프 투어, 도깨비가 내려준 오늘의 운세\n4. 이벤트\n- 도깨비, 찐빵 코스프레 이벤트대회, 찐빵무게 맞추기, OX퀴즈,팥없는 찐빵 맞추기 등\n5. 지역 농특산물 판매 및 먹거리터 및 푸드트럭 운영 등",
+        "eventstartdate": "20261002",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
+      "start": "2026-10-02",
+      "end": "2026-10-04",
+      "venue": "강원특별자치도 횡성군 안흥면 주천강로 1686",
+      "contact": "033-340-2746",
+      "organizer": "TourAPI·공식 공지 확인",
+      "description": "안흥찐빵축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
+      "source": "TourAPI KorService2/searchFestival2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-507599",
@@ -1952,7 +3480,20 @@
       "city": "강원",
       "region": "강원",
       "image": "https://tong.visitkorea.or.kr/cms/resource/46/4071246_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "화천군, 재단법인나라",
+        "sponsor1tel": "1688-3005",
+        "eventenddate": "20270131",
+        "playtime": "9:00 ~ 18:00 (밤낚시 18:00 ~ 21:00)",
+        "eventplace": "강원도 화천군 화천읍 일원",
+        "program": "산천어 체험 : 얼음낚시(현장/예약), 맨손잡기, 루어낚시\n눈/얼음 체험 : 눈썰매, 얼음썰매, 하늘가르기, 얼곰이성 미끄럼틀, 얼음축구, 컬링, 피겨 스케이트, 빙판 버블슈트\n문화/이벤트 : 축제 여는 마당, 화천 복불복 이벤트, 얼음나라 방송국, 호국이 체험존, 화천 관광 홍보관 등\n편의/안전 : 종합안내센터, 낚시 가이드, 몸녹임/유아쉼터, 이동 도우미, 의료 센터, 재난구조대, 화천소방서 등\n먹거리/살거리 : 산천어식당, 산천어 회센터/구이터, 향토주전부리장, 농특산물 판매점, 기념품 판매점 등\n연계 행사 및 관광지 : 선등거리 페스티벌, 세계 최대 실내 얼음조각광장, 화천 산천어 파크골프장, 산타우체국 한국 본점, 백암산 케이블카 등",
+        "eventstartdate": "20270109",
+        "usetimefestival": "유료 (자세한 사항은 홈페이지 참조.)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2027-01-09",
       "end": "2027-01-31",
       "venue": "강원특별자치도 화천군 화천읍 산천어길 137",
@@ -1960,29 +3501,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "얼음나라화천 산천어축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-4098916",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "4098916",
-      "contentTypeId": "15",
-      "title": "여기저기 페스티벌 in 철원",
-      "name": "여기저기 페스티벌 in 철원",
-      "city": "강원",
-      "region": "강원",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/20/4098920_image2_1.jpg",
-      "detailQuality": [],
-      "start": "2026-08-15",
-      "end": "2026-08-17",
-      "venue": "강원특별자치도 철원군 김화읍 청양로 651",
-      "contact": "033-769-1905",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "여기저기 페스티벌 in 철원 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1147035",
@@ -1996,7 +3517,21 @@
       "city": "경기",
       "region": "경기",
       "image": "https://tong.visitkorea.or.kr/cms/resource/63/3546463_image2_1.JPG",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "여주시",
+        "sponsor1tel": "031-881-9694",
+        "sponsor2": "여주세종문화관광재단",
+        "eventenddate": "20261025",
+        "playtime": "10:00~21:00",
+        "eventplace": "신륵사 관광지 일원",
+        "program": "1. 대표 프로그램- 여주쌀 가마솥 비빔밥 : 대형 가마솥으로 지은 여주 햅쌀 비빔밥을 저렴하게 맛볼 수 있는 프로그램- 군고구마 기네스 : 초대형 군고구마통 10개로 구운 여주 고구마를 다함께 나눠 먹는 대형 퍼포먼스- 진상 퍼레이드 : 조선시대 조포나루에서 여주 농특산물을 한양으로 진상했던 스토리를 구현한 퍼레이드- 소원지길 : 남한강을 바라보며 소원을 빌면 이뤄진다는 설화를 담은 출렁다리 소원지길- 여주 흔암리 쌍용거 줄다리기 : 정월대보름 풍년을 기원하며 점동면 흔암리 마을주민들이 펼치던 전통 줄다리기 행렬- 여주 본두리 낙화놀이 : 불꽃이 남한강 위에 흩날리는 장관을 연출하는 가남읍 본두리 전통 불꽃놀이2. 축제 공간별 프로그램- 오곡마당 : 오곡장터, 여주쌀 홍보관, 조선놀이터, 농촌관광체험- 나루마당 : 군고구마 기네스, 바비큐 꼬치 체험, 나루공연장, 나루터 저잣거리, 짚풀놀이터, 소원지길, 낙화놀이, 별빛 곡창길, 남한강 미디어 라이팅쇼, 나루터 플라잉쇼, 나루터 미디어아트, 몽유도원- 잔치마당 : 가마솥 여주쌀 비빔밥, 먹거리 장터, 가양주 품평회, 떡메치기, 여주 도자 물레",
+        "eventstartdate": "20261023",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-23",
       "end": "2026-10-25",
       "venue": "경기도 여주시 천송동 290-3",
@@ -2004,7 +3539,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "여주오곡나루축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-1078905",
@@ -2018,7 +3555,20 @@
       "city": "국내",
       "region": "국내",
       "image": "https://tong.visitkorea.or.kr/cms/resource/32/4041232_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "영광불갑산상사화축제 추진위원회",
+        "sponsor1tel": "061-350-5269",
+        "sponsor2": "영광불갑산상사화축제 집행위원회",
+        "eventenddate": "20260927",
+        "playtime": "10:00~21:00",
+        "program": "1. 메인프로그램 : 상사화 꽃길걷기, 상사호 in Love콘서트, 상사화 미디어파사드, 상사화 달빛 야행\n2. 부대프로그램 : 상사화 꽃맵시 선발대회, 상사화 대학가요제, 상사화 꽃(金)이 피었습니다. 다문화 모국춤, 도립국악단, 브레드이발소, 도레미 프렌즈, 어린이 트로트 가요제 등\n3. 체험, 참여행사 : SNS 인증샷 이벤트, 인생네컷, 상사화 우체통 편지쓰기, 도자기 공예, 천연염색 체험, 원목자개그립톡, 키링&노리개 만들기, 냅킨공예, 비즈팔찌체험, 고무신 상사화그리기, 석고방향제만들기, 상사화 스탬프 엽서 만들기, 영광군 투어(1박2일) , 일년뒤에 받는 엽서 등\n4. 부대시설 : 종합안내소, 의료지원반, 119안전체험장, 미아보호센터, 이동식 화장실운영, 휠체어, 유모차 대여, 서틀버스 운행, 휴대폰 보조배터리 충전, 모유수유실, 물품보관함 등",
+        "eventstartdate": "20260918",
+        "usetimefestival": "무료",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-09-18",
       "end": "2026-09-27",
       "venue": "전남광주통합특별시 영광군 불갑면 불갑사로 450 영광군 불갑사관광지 일원",
@@ -2026,29 +3576,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "영광불갑산상사화축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-2846353",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "2846353",
-      "contentTypeId": "15",
-      "title": "영덕 국가유산 야행",
-      "name": "영덕 국가유산 야행",
-      "city": "경북",
-      "region": "경북",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/68/4089268_image2_1.jpg",
-      "detailQuality": [],
-      "start": "2026-08-21",
-      "end": "2026-08-23",
-      "venue": "경상북도 영덕군 영해면 예주2길 10",
-      "contact": "054-730-5852",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "영덕 국가유산 야행 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     },
     {
       "slug": "tourapi-293084",
@@ -2062,7 +3592,21 @@
       "city": "충북",
       "region": "충북",
       "image": "https://tong.visitkorea.or.kr/cms/resource/72/4058672_image2_1.jpg",
-      "detailQuality": [],
+      "detail": {
+        "sponsor1": "(재)영동군 문화관광재단, (사)난계기념사업회",
+        "sponsor1tel": "043-745-8917",
+        "sponsor2": "영동군",
+        "eventenddate": "20261018",
+        "playtime": "10:00 ~20:00",
+        "eventplace": "영동 레인보우힐링광장 일원",
+        "program": "1. 메인프로그램 : 개막식 및 폐막식, 정통국악 공연, 퓨전국악공연, 세계민속춤 공연, 어린이 공연\n2. 부대 및 연계 프로그램 : 제21회 추풍령가요제, 전국풍물경연대회, 영동군 읍면 풍물경연대회, 국악방송국, 한복체험, 나도가수 노래방 등\n3. 소비자 참여 및 체험 프로그램 : 전통놀이 힐링한마당, 도전!국악골든벨, 친환경 키즈놀이터, 국악기 제작 및 연주 체험\n4. 기타 내용 : 디지털 국악박물관, 국악테마파크, 국악포토존 등",
+        "eventstartdate": "20261015",
+        "usetimefestival": "무료 (일부 체험프로그램의 경우 5,000원 ~15,000원)",
+        "progresstype": "선택안함"
+      },
+      "detailQuality": [
+        "detail"
+      ],
       "start": "2026-10-15",
       "end": "2026-10-18",
       "venue": "충청북도 영동군 영동읍 영동힐링로 117 영동 레인보우힐링광장 일원",
@@ -2070,51 +3614,9 @@
       "organizer": "TourAPI·공식 공지 확인",
       "description": "영동난계국악축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
       "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-639648",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "639648",
-      "contentTypeId": "15",
-      "title": "예산사과축제",
-      "name": "예산사과축제",
-      "city": "국내",
-      "region": "국내",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/09/4096209_image2_1.jpg",
-      "detailQuality": [],
-      "start": "2026-10-30",
-      "end": "2026-10-31",
-      "venue": "충남 예산군 응봉면 후사리 39",
-      "contact": "041-332-3506",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "예산사과축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
-    },
-    {
-      "slug": "tourapi-2558866",
-      "type": "festivals",
-      "typeLabel": "축제·행사",
-      "category": "festivities",
-      "contentId": "2558866",
-      "contentTypeId": "15",
-      "title": "예산장터 삼국축제",
-      "name": "예산장터 삼국축제",
-      "city": "충남",
-      "region": "충남",
-      "image": "https://tong.visitkorea.or.kr/cms/resource/59/4095359_image2_1.jpg",
-      "detailQuality": [],
-      "start": "2026-10-22",
-      "end": "2026-10-25",
-      "venue": "충청남도 예산군 예산읍 예산시장길 2",
-      "contact": "041-332-4317",
-      "organizer": "TourAPI·공식 공지 확인",
-      "description": "예산장터 삼국축제 일정, 장소, 근처 숙소와 이동 동선을 함께 확인하세요.",
-      "source": "TourAPI KorService2/searchFestival2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2"
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/searchFestival2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2"
     }
   ]
 }
