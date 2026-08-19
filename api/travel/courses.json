@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:49:14",
+  "generatedAt": "2026-08-20T05:46:50",
   "kind": "courses",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 49,
@@ -93,14 +93,23 @@
       "mapX": "126.2810593845",
       "mapY": "37.7805447369",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/2661846_image2_1.jpg",
+      "detail": {
+        "distance": "약 130km",
+        "schedule": "당일",
+        "taketime": "약 2시간",
+        "theme": "체험여행"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/courses/courses-incheon-2987551/"
     },
     {
