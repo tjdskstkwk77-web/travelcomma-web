@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:44:52",
+  "generatedAt": "2026-08-22T05:43:12",
   "kind": "restaurants",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 850,
@@ -7242,15 +7242,28 @@
       "mapX": "128.6874355240",
       "mapY": "35.9551037153",
       "image": "http://tong.visitkorea.or.kr/cms/resource/46/2866246_image2_1.jpg",
+      "detail": {
+        "kidsfacility": "0",
+        "firstmenu": "한돈양념돼지갈비",
+        "treatmenu": "한우막구이 / 한돈삼겹살 / 한돈목살 등",
+        "packing": "가능",
+        "infocenterfood": "053-554-8080",
+        "parkingfood": "가능",
+        "opentimefood": "- 11:30~22:00\n- 준비시간 15:00~17:00\n- 마지막 주문 21:00",
+        "restdatefood": "연중무휴",
+        "lcnsno": "20190161018"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "대구 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daegu-2866254/"
     },
     {
@@ -13688,28 +13701,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2892229/"
     },
     {
-      "slug": "restaurants-gangwon-1822775",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "1822775",
-      "contentTypeId": "39",
-      "title": "천매막국수 어사또왕족발보쌈",
-      "name": "천매막국수 어사또왕족발보쌈",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 원주시 매봉길 49",
-      "tel": "",
-      "mapX": "127.9454709566",
-      "mapY": "37.3209281396",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/21/3579221_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gangwon-1822775/"
-    },
-    {
       "slug": "restaurants-gangwon-699497",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -14744,6 +14735,28 @@
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796909/"
     },
     {
+      "slug": "restaurants-gangwon-2796846",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2796846",
+      "contentTypeId": "39",
+      "title": "샘물카페",
+      "name": "샘물카페",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 평창군 봉평면 거품소길 63",
+      "tel": "",
+      "mapX": "128.3722058718",
+      "mapY": "37.5626832223",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/22/2796822_image2_1.jpg",
+      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796846/"
+    },
+    {
       "slug": "restaurants-chungbuk-3422403",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -15426,28 +15439,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-chungbuk-2857894/"
     },
     {
-      "slug": "restaurants-chungbuk-2857915",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2857915",
-      "contentTypeId": "39",
-      "title": "커피단월",
-      "name": "커피단월",
-      "city": "충북",
-      "profileSlug": "chungbuk",
-      "region": "충북",
-      "address": "충청북도 충주시 충원대로 55 커피단월",
-      "tel": "",
-      "mapX": "127.9121820883",
-      "mapY": "36.9425211315",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/01/2857901_image2_1.jpg",
-      "description": "충북 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-chungbuk-2857915/"
-    },
-    {
       "slug": "restaurants-chungbuk-2858135",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -15842,6 +15833,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-chungbuk-2856885/"
+    },
+    {
+      "slug": "restaurants-chungbuk-2835471",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2835471",
+      "contentTypeId": "39",
+      "title": "나의신랑은나무꾼",
+      "name": "나의신랑은나무꾼",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 옥천군 비야대정로 243 주 1동",
+      "tel": "",
+      "mapX": "127.5238695217",
+      "mapY": "36.3497959466",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/58/2835458_image2_1.jpg",
+      "description": "충북 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-chungbuk-2835471/"
     },
     {
       "slug": "restaurants-chungnam-2767559",

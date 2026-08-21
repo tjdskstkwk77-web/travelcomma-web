@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:44:52",
+  "generatedAt": "2026-08-22T05:43:12",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -662,6 +662,7 @@
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2757155/"
     },
@@ -1787,44 +1788,6 @@
       "articlePath": "/tourapi/attractions/attractions-seoul-1836254/"
     },
     {
-      "slug": "attractions-seoul-1828605",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "1828605",
-      "contentTypeId": "12",
-      "title": "유관순동상",
-      "name": "유관순동상",
-      "city": "서울",
-      "profileSlug": "seoul",
-      "region": "서울",
-      "address": "서울특별시 중구 장충단로 101 (장충동2가)",
-      "tel": "",
-      "mapX": "127.0010470557",
-      "mapY": "37.5555392622",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/63/3568363_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "동대문 관광안내소 02-2236-9135",
-        "restdate": "연중무휴",
-        "usetime": "상시 개방"
-      },
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY",
-        "detail"
-      ],
-      "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
-      "articlePath": "/tourapi/attractions/attractions-seoul-1828605/"
-    },
-    {
       "slug": "attractions-seoul-758299",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -1938,6 +1901,45 @@
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1606096/"
+    },
+    {
+      "slug": "attractions-seoul-1115299",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1115299",
+      "contentTypeId": "12",
+      "title": "봉화산근린공원",
+      "name": "봉화산근린공원",
+      "city": "서울",
+      "profileSlug": "seoul",
+      "region": "서울",
+      "address": "서울특별시 중랑구 봉화산로45길 (묵동)",
+      "tel": "",
+      "mapX": "127.0922455148",
+      "mapY": "37.6106095040",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/96/3568496_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "중랑구 공원녹지과 02-2094-2357",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY",
+        "detail"
+      ],
+      "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
+      "articlePath": "/tourapi/attractions/attractions-seoul-1115299/"
     },
     {
       "slug": "attractions-incheon-129605",
@@ -5810,15 +5812,27 @@
       "mapX": "127.4301663010",
       "mapY": "36.3676061288",
       "image": "http://tong.visitkorea.or.kr/cms/resource/54/3033154_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "042-608-6572",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능",
+        "chkbabycarriage": "없음"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "대전 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-daejeon-1622603/"
     },
     {
@@ -8180,28 +8194,6 @@
       "articlePath": "/tourapi/attractions/attractions-gwangju-126351/"
     },
     {
-      "slug": "attractions-gwangju-126425",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "126425",
-      "contentTypeId": "12",
-      "title": "국립 5·18 민주묘지",
-      "name": "국립 5·18 민주묘지",
-      "city": "광주",
-      "profileSlug": "gwangju",
-      "region": "광주",
-      "address": "전남광주통합특별시 북구 민주로 200 (운정동)",
-      "tel": "",
-      "mapX": "126.9415422558",
-      "mapY": "35.2325767086",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/81/1587681_image2_1.jpg",
-      "description": "광주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-gwangju-126425/"
-    },
-    {
       "slug": "attractions-gwangju-127062",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -8948,6 +8940,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-gwangju-126334/"
+    },
+    {
+      "slug": "attractions-gwangju-127060",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "127060",
+      "contentTypeId": "12",
+      "title": "이장우가옥",
+      "name": "이장우가옥",
+      "city": "광주",
+      "profileSlug": "gwangju",
+      "region": "광주",
+      "address": "전남광주통합특별시 남구 양촌길 21",
+      "tel": "",
+      "mapX": "126.9141331006",
+      "mapY": "35.1406171882",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/60/3368360_image2_1.jpg",
+      "description": "광주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-gwangju-127060/"
     },
     {
       "slug": "attractions-busan-298099",
@@ -15242,28 +15256,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungnam-1626991/"
     },
     {
-      "slug": "attractions-chungnam-2650372",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2650372",
-      "contentTypeId": "12",
-      "title": "강경근대거리",
-      "name": "강경근대거리",
-      "city": "충남",
-      "profileSlug": "chungnam",
-      "region": "충남",
-      "address": "충청남도 논산시 강경읍 옥녀봉로 30-5",
-      "tel": "",
-      "mapX": "127.0178753661",
-      "mapY": "36.1617724110",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/63/3577163_image2_1.jpg",
-      "description": "충남 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungnam-2650372/"
-    },
-    {
       "slug": "attractions-chungnam-802186",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -16032,6 +16024,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungnam-2769781/"
+    },
+    {
+      "slug": "attractions-chungnam-1626846",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1626846",
+      "contentTypeId": "12",
+      "title": "조병옥박사 생가지",
+      "name": "조병옥박사 생가지",
+      "city": "충남",
+      "profileSlug": "chungnam",
+      "region": "충남",
+      "address": "충청남도 천안시 동남구 병천면 유관순길 249",
+      "tel": "",
+      "mapX": "127.3146411403",
+      "mapY": "36.7517016834",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/08/3570608_image2_1.jpg",
+      "description": "충남 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungnam-1626846/"
     },
     {
       "slug": "attractions-gyeongbuk-136208",
