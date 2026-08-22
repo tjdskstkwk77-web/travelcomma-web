@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:43:12",
+  "generatedAt": "2026-08-23T05:42:36",
   "posts": 17,
   "categories": 19,
   "bookingPages": [
@@ -47,7 +47,7 @@
     "articlePages": 2225,
     "index": 2225,
     "lastRunStatus": "ok",
-    "lastRunAt": "2026-08-22T05:30:04"
+    "lastRunAt": "2026-08-23T05:30:04"
   },
   "clickLogConfigured": true,
   "clickLogEndpoint": "/api/click",
@@ -2847,7 +2847,7 @@
     "호텔/항공/투어 페이지는 예약 전 비교 의도를 제목에 포함"
   ],
   "settingsAudit": {
-    "generatedAt": "2026-08-22T05:43:12",
+    "generatedAt": "2026-08-23T05:42:36",
     "readyForLaunch": true,
     "readyForRevenue": false,
     "readyForAutomation": true,

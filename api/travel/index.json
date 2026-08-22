@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T05:43:12",
+  "generatedAt": "2026-08-23T05:42:35",
   "source": "공개 관광 데이터 정규화 캐시",
   "lastRun": {
-    "generatedAt": "2026-08-22T05:30:04",
+    "generatedAt": "2026-08-23T05:30:04",
     "status": "ok",
     "counts": {
       "attractions": 822,
@@ -703,7 +703,7 @@
         "scope": "nationwide",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 244,
+        "totalCount": 240,
         "pageNo": 1,
         "numOfRows": 96
       },
