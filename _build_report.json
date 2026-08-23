@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:42:36",
+  "generatedAt": "2026-08-24T05:43:20",
   "posts": 17,
   "categories": 19,
   "bookingPages": [
@@ -40,14 +40,14 @@
   "tourapiData": {
     "outputDir": "/Users/igijung/developer/secondbrain/수익화강의/ventures/여행정보-사이트/data/tourapi",
     "attractions": 822,
-    "courses": 49,
+    "courses": 47,
     "restaurants": 850,
     "lodgings": 504,
     "festivals": 96,
-    "articlePages": 2225,
-    "index": 2225,
-    "lastRunStatus": "ok",
-    "lastRunAt": "2026-08-23T05:30:04"
+    "articlePages": 2223,
+    "index": 2223,
+    "lastRunStatus": "partial",
+    "lastRunAt": "2026-08-24T05:30:05"
   },
   "clickLogConfigured": true,
   "clickLogEndpoint": "/api/click",
@@ -1038,8 +1038,6 @@
     "tourapi/courses/courses-gangwon-2987536/",
     "tourapi/courses/courses-gangwon-2987535/",
     "tourapi/courses/courses-gangwon-2833450/",
-    "tourapi/courses/courses-chungbuk-2990340/",
-    "tourapi/courses/courses-chungbuk-2867109/",
     "tourapi/courses/courses-chungnam-2804868/",
     "tourapi/courses/courses-chungnam-2514416/",
     "tourapi/courses/courses-chungnam-1937646/",
@@ -2572,7 +2570,6 @@
     "festivals/suwon-hwaseong-night-2026/",
     "festivals/gangneung-coffee-festival-2026/",
     "festivals/tourapi-4090201/",
-    "festivals/tourapi-4098571/",
     "festivals/tourapi-2746930/",
     "festivals/tourapi-737479/",
     "festivals/tourapi-1307813/",
@@ -2638,7 +2635,6 @@
     "festivals/tourapi-3492576/",
     "festivals/tourapi-589386/",
     "festivals/tourapi-1266642/",
-    "festivals/tourapi-1068150/",
     "festivals/tourapi-234232/",
     "festivals/tourapi-506600/",
     "festivals/tourapi-1409287/",
@@ -2651,7 +2647,6 @@
     "festivals/tourapi-292961/",
     "festivals/tourapi-1018469/",
     "festivals/tourapi-3544886/",
-    "festivals/tourapi-142193/",
     "festivals/tourapi-3351888/",
     "festivals/tourapi-141268/",
     "festivals/tourapi-4102649/",
@@ -2667,6 +2662,9 @@
     "festivals/tourapi-638241/",
     "festivals/tourapi-2829118/",
     "festivals/tourapi-142197/",
+    "festivals/tourapi-2828336/",
+    "festivals/tourapi-1718137/",
+    "festivals/tourapi-4102351/",
     "destination/korea/gyeongju/",
     "destination/korea/incheon/",
     "destination/korea/seoul/",
@@ -2847,7 +2845,7 @@
     "호텔/항공/투어 페이지는 예약 전 비교 의도를 제목에 포함"
   ],
   "settingsAudit": {
-    "generatedAt": "2026-08-23T05:42:36",
+    "generatedAt": "2026-08-24T05:43:20",
     "readyForLaunch": true,
     "readyForRevenue": false,
     "readyForAutomation": true,
