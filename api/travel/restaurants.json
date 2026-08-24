@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:43:19",
+  "generatedAt": "2026-08-25T05:43:47",
   "kind": "restaurants",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 850,
@@ -5488,27 +5488,15 @@
       "mapX": "127.3772742008",
       "mapY": "36.3531873941",
       "image": "http://tong.visitkorea.or.kr/cms/resource/67/2899467_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "곱창치즈돌솥파스타",
-        "treatmenu": "삼계마늘크림돌솥리소토 / 숯불불고기쌈피자 / 숯불대창돌솔파스타 등",
-        "infocenterfood": "042-485-0950",
-        "parkingfood": "가능",
-        "opentimefood": "- 11:30~21:30\n- 준비시간(평일) 15:00~17:00\n- 마지막 주문 14:20, 20:50",
-        "restdatefood": "연중무휴",
-        "lcnsno": "20140236182"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2899479/"
     },
     {
@@ -14361,28 +14349,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2871246/"
     },
     {
-      "slug": "restaurants-gangwon-2874093",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2874093",
-      "contentTypeId": "39",
-      "title": "택지골수제생갈비",
-      "name": "택지골수제생갈비",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 강릉시 하슬라로232번길 1",
-      "tel": "",
-      "mapX": "128.8761735453",
-      "mapY": "37.7706827534",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/85/2874085_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2874093/"
-    },
-    {
       "slug": "restaurants-gangwon-2892006",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -14755,6 +14721,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796846/"
+    },
+    {
+      "slug": "restaurants-gangwon-2796739",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2796739",
+      "contentTypeId": "39",
+      "title": "세이지",
+      "name": "세이지",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 평창군 봉평면 태기로 80-56",
+      "tel": "",
+      "mapX": "128.3187849630",
+      "mapY": "37.5869988399",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/18/2796718_image2_1.JPG",
+      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796739/"
     },
     {
       "slug": "restaurants-chungbuk-3422403",

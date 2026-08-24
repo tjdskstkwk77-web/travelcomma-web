@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-08-24T05:43:19",
+  "generatedAt": "2026-08-25T05:43:47",
   "source": "공개 관광 데이터 정규화 캐시",
   "lastRun": {
-    "generatedAt": "2026-08-24T05:30:05",
+    "generatedAt": "2026-08-25T05:30:04",
     "status": "partial",
     "counts": {
       "attractions": 822,
-      "courses": 47,
+      "courses": 49,
       "restaurants": 850,
       "lodgings": 504,
       "festivals": 96,
-      "totalTourItems": 2223
+      "totalTourItems": 2225
     },
     "detailEnrichment": {
       "enabled": true,
-      "calls": 1486,
-      "errors": 0
+      "calls": 1489,
+      "errors": 1
     },
     "calls": [
       {
@@ -24,7 +24,7 @@
         "city": "서울",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 401,
+        "totalCount": 398,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -144,7 +144,7 @@
         "city": "대구",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 197,
+        "totalCount": 196,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -224,7 +224,7 @@
         "city": "부산",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 142,
+        "totalCount": 141,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -344,7 +344,7 @@
         "city": "경기",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 864,
+        "totalCount": 863,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -364,7 +364,7 @@
         "city": "경기",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 2471,
+        "totalCount": 2468,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -404,7 +404,7 @@
         "city": "강원",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 929,
+        "totalCount": 928,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -414,7 +414,7 @@
         "city": "강원",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 321,
+        "totalCount": 320,
         "pageNo": 1,
         "numOfRows": 40
       },
@@ -424,9 +424,19 @@
         "city": "충북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 517,
+        "totalCount": 515,
         "pageNo": 1,
         "numOfRows": 50
+      },
+      {
+        "operation": "areaBasedList2",
+        "type": "courses",
+        "city": "충북",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 2,
+        "pageNo": 1,
+        "numOfRows": 2
       },
       {
         "operation": "areaBasedList2",
@@ -454,7 +464,7 @@
         "city": "충남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 614,
+        "totalCount": 612,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -494,7 +504,7 @@
         "city": "경북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 781,
+        "totalCount": 778,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -534,7 +544,7 @@
         "city": "경남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 752,
+        "totalCount": 751,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -693,7 +703,7 @@
         "scope": "nationwide",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 234,
+        "totalCount": 240,
         "pageNo": 1,
         "numOfRows": 96
       },
@@ -766,28 +776,6 @@
       {
         "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "128776",
-        "title": "남산케이블카",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "128776",
-        "title": "남산케이블카",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "attractions",
-        "operation": "detailCommon2",
         "contentId": "128622",
         "title": "서대문독립공원",
         "resultCode": "",
@@ -1791,6 +1779,28 @@
         "operation": "detailIntro2",
         "contentId": "1115299",
         "title": "봉화산근린공원",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailCommon2",
+        "contentId": "127015",
+        "title": "대한성공회 서울주교좌성당",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "127015",
+        "title": "대한성공회 서울주교좌성당",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -5782,6 +5792,50 @@
       {
         "type": "courses",
         "operation": "detailCommon2",
+        "contentId": "2990340",
+        "title": "자연 속에서 즐기는 스릴 만점 레저 여행",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "courses",
+        "operation": "detailIntro2",
+        "contentId": "2990340",
+        "title": "자연 속에서 즐기는 스릴 만점 레저 여행",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "courses",
+        "operation": "detailCommon2",
+        "contentId": "2867109",
+        "title": "아름다운 풍경을 자랑하는 제천 & 단양 여행 코스",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "courses",
+        "operation": "detailIntro2",
+        "contentId": "2867109",
+        "title": "아름다운 풍경을 자랑하는 제천 & 단양 여행 코스",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "courses",
+        "operation": "detailCommon2",
         "contentId": "2804868",
         "title": "서해랑길(서천, 보령 구간)",
         "resultCode": "",
@@ -9089,17 +9143,6 @@
         "totalCount": 0,
         "pageNo": 1,
         "numOfRows": 0
-      },
-      {
-        "type": "restaurants",
-        "operation": "detailIntro2",
-        "contentId": "2899479",
-        "title": "이태리국시 본점",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
       },
       {
         "type": "restaurants",
@@ -15176,28 +15219,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "3520743",
-        "title": "계촌 휴 페스티벌",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3520743",
-        "title": "계촌 휴 페스티벌",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "421977",
         "title": "고성명태축제",
         "resultCode": "",
@@ -15849,6 +15870,28 @@
         "operation": "detailIntro2",
         "contentId": "2809535",
         "title": "남산봉수의식 등 전통문화행사",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "3520705",
+        "title": "노원수제맥주축제",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "3520705",
+        "title": "노원수제맥주축제",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -16606,6 +16649,28 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
+        "contentId": "706180",
+        "title": "서울거리예술축제",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "706180",
+        "title": "서울거리예술축제",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
         "contentId": "1018469",
         "title": "서울국제작가축제",
         "resultCode": "",
@@ -17015,28 +17080,6 @@
         "operation": "detailIntro2",
         "contentId": "1718137",
         "title": "신라문화제",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "4102351",
-        "title": "안다미로귀때박물관 기획전시 '명화와 티타임(Teatime) : 빛과 색채로 마시는 차 한 잔의 여유'",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4102351",
-        "title": "안다미로귀때박물관 기획전시 '명화와 티타임(Teatime) : 빛과 색채로 마시는 차 한 잔의 여유'",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -17046,10 +17089,11 @@
     ],
     "errors": [
       {
-        "operation": "areaBasedList2",
-        "type": "courses",
-        "city": "충북",
-        "error": "The read operation timed out"
+        "type": "restaurants",
+        "operation": "detailIntro2",
+        "contentId": "2899479",
+        "title": "이태리국시 본점",
+        "error": "<urlopen error timed out>"
       }
     ],
     "outputs": [
@@ -17063,12 +17107,12 @@
   },
   "counts": {
     "attractions": 822,
-    "courses": 47,
+    "courses": 49,
     "restaurants": 850,
     "lodgings": 504,
     "festivals": 96
   },
-  "total": 2223,
+  "total": 2225,
   "seedCities": [
     "경주",
     "인천",
@@ -17202,45 +17246,6 @@
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-309307/"
-    },
-    {
-      "slug": "attractions-seoul-128776",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "128776",
-      "contentTypeId": "12",
-      "title": "남산케이블카",
-      "name": "남산케이블카",
-      "city": "서울",
-      "profileSlug": "seoul",
-      "region": "서울",
-      "address": "서울특별시 중구 소파로 83",
-      "tel": "",
-      "mapX": "126.9841041137",
-      "mapY": "37.5569971220",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/50/3590450_image2_1.jpg",
-      "detail": {
-        "heritage1": "0",
-        "heritage2": "0",
-        "heritage3": "0",
-        "infocenter": "02-753-2403",
-        "restdate": "연중무휴",
-        "usetime": "10:00~23:00\n※ 자세한 사항은 전화문의 요망",
-        "parking": "가능"
-      },
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY",
-        "detail"
-      ],
-      "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
-      "articlePath": "/tourapi/attractions/attractions-seoul-128776/"
     },
     {
       "slug": "attractions-seoul-128622",
@@ -19024,6 +19029,45 @@
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1115299/"
+    },
+    {
+      "slug": "attractions-seoul-127015",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "127015",
+      "contentTypeId": "12",
+      "title": "대한성공회 서울주교좌성당",
+      "name": "대한성공회 서울주교좌성당",
+      "city": "서울",
+      "profileSlug": "seoul",
+      "region": "서울",
+      "address": "서울특별시 중구 세종대로21길 15 (정동)",
+      "tel": "",
+      "mapX": "126.9760378872",
+      "mapY": "37.5674235431",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/54/3568354_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-730-6611",
+        "restdate": "주말",
+        "usetime": "11:00~16:00",
+        "parking": "가능"
+      },
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY",
+        "detail"
+      ],
+      "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
+      "articlePath": "/tourapi/attractions/attractions-seoul-127015/"
     },
     {
       "slug": "attractions-incheon-129605",
@@ -31504,28 +31548,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungbuk-129275/"
     },
     {
-      "slug": "attractions-chungbuk-1626739",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "1626739",
-      "contentTypeId": "12",
-      "title": "보은동헌",
-      "name": "보은동헌",
-      "city": "충북",
-      "profileSlug": "chungbuk",
-      "region": "충북",
-      "address": "충청북도 보은군 보은읍 삼산로 56-14",
-      "tel": "",
-      "mapX": "127.7154459195",
-      "mapY": "36.4845923005",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/54/3571954_image2_1.jpg",
-      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungbuk-1626739/"
-    },
-    {
       "slug": "attractions-chungbuk-1684117",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -32030,6 +32052,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungbuk-1679841/"
+    },
+    {
+      "slug": "attractions-chungbuk-753414",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "753414",
+      "contentTypeId": "12",
+      "title": "청주동물원",
+      "name": "청주동물원",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 청주시 상당구 명암로 224 (명암동)",
+      "tel": "",
+      "mapX": "127.5206781546",
+      "mapY": "36.6524556651",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/77/3357777_image2_1.jpg",
+      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungbuk-753414/"
     },
     {
       "slug": "attractions-chungnam-525648",
@@ -39746,6 +39790,77 @@
       "articlePath": "/tourapi/courses/courses-gangwon-2833450/"
     },
     {
+      "slug": "courses-chungbuk-2990340",
+      "type": "courses",
+      "typeLabel": "여행코스",
+      "category": "travel-courses",
+      "contentId": "2990340",
+      "contentTypeId": "25",
+      "title": "자연 속에서 즐기는 스릴 만점 레저 여행",
+      "name": "자연 속에서 즐기는 스릴 만점 레저 여행",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 단양군 두산길 196-52",
+      "tel": "",
+      "mapX": "128.3969565090",
+      "mapY": "36.9967294703",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/01/2613301_image2_1.jpg",
+      "detail": {
+        "distance": "약 13km",
+        "schedule": "1박2일",
+        "theme": "기타"
+      },
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY",
+        "detail"
+      ],
+      "description": "충북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
+      "articlePath": "/tourapi/courses/courses-chungbuk-2990340/"
+    },
+    {
+      "slug": "courses-chungbuk-2867109",
+      "type": "courses",
+      "typeLabel": "여행코스",
+      "category": "travel-courses",
+      "contentId": "2867109",
+      "contentTypeId": "25",
+      "title": "아름다운 풍경을 자랑하는 제천 & 단양 여행 코스",
+      "name": "아름다운 풍경을 자랑하는 제천 & 단양 여행 코스",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "대한민국 · 충북 · 충북",
+      "tel": "",
+      "mapX": "0",
+      "mapY": "0",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/46/2779046_image2_1.jpg",
+      "detail": {
+        "distance": "93km",
+        "schedule": "1박2일",
+        "taketime": "약 2시간 26분",
+        "theme": "----지자체-----"
+      },
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY",
+        "detail"
+      ],
+      "description": "충북 여행에서 함께 확인할 여행코스 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
+      "articlePath": "/tourapi/courses/courses-chungbuk-2867109/"
+    },
+    {
       "slug": "courses-chungnam-2804868",
       "type": "courses",
       "typeLabel": "여행코스",
@@ -45800,27 +45915,15 @@
       "mapX": "127.3772742008",
       "mapY": "36.3531873941",
       "image": "http://tong.visitkorea.or.kr/cms/resource/67/2899467_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "곱창치즈돌솥파스타",
-        "treatmenu": "삼계마늘크림돌솥리소토 / 숯불불고기쌈피자 / 숯불대창돌솔파스타 등",
-        "infocenterfood": "042-485-0950",
-        "parkingfood": "가능",
-        "opentimefood": "- 11:30~21:30\n- 준비시간(평일) 15:00~17:00\n- 마지막 주문 14:20, 20:50",
-        "restdatefood": "연중무휴",
-        "lcnsno": "20140236182"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2899479/"
     },
     {
@@ -54673,28 +54776,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2871246/"
     },
     {
-      "slug": "restaurants-gangwon-2874093",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2874093",
-      "contentTypeId": "39",
-      "title": "택지골수제생갈비",
-      "name": "택지골수제생갈비",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 강릉시 하슬라로232번길 1",
-      "tel": "",
-      "mapX": "128.8761735453",
-      "mapY": "37.7706827534",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/85/2874085_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2874093/"
-    },
-    {
       "slug": "restaurants-gangwon-2892006",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -55067,6 +55148,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796846/"
+    },
+    {
+      "slug": "restaurants-gangwon-2796739",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2796739",
+      "contentTypeId": "39",
+      "title": "세이지",
+      "name": "세이지",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 평창군 봉평면 태기로 80-56",
+      "tel": "",
+      "mapX": "128.3187849630",
+      "mapY": "37.5869988399",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/18/2796718_image2_1.JPG",
+      "description": "강원 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gangwon-2796739/"
     },
     {
       "slug": "restaurants-chungbuk-3422403",
