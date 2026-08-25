@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:43:47",
+  "generatedAt": "2026-08-26T05:43:46",
   "kind": "restaurants",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 850,
@@ -1845,28 +1845,15 @@
       "mapX": "127.0374231182",
       "mapY": "37.4991298007",
       "image": "http://tong.visitkorea.or.kr/cms/resource/33/2465033_image2_1.jpg",
-      "detail": {
-        "kidsfacility": "0",
-        "firstmenu": "대게정식",
-        "treatmenu": "사시미코스 / 테이블초밥 / 테이블회덮밥 등",
-        "smoking": "모두 금연석",
-        "infocenterfood": "02-566-2525",
-        "parkingfood": "가능",
-        "opendatefood": "2009.01.20",
-        "opentimefood": "11:30~22:30 (준비시간 14:30~17:00)",
-        "lcnsno": "20020105593"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-seoul-2465041/"
     },
     {
@@ -5488,15 +5475,27 @@
       "mapX": "127.3772742008",
       "mapY": "36.3531873941",
       "image": "http://tong.visitkorea.or.kr/cms/resource/67/2899467_image2_1.jpg",
+      "detail": {
+        "kidsfacility": "0",
+        "firstmenu": "곱창치즈돌솥파스타",
+        "treatmenu": "삼계마늘크림돌솥리소토 / 숯불불고기쌈피자 / 숯불대창돌솔파스타 등",
+        "infocenterfood": "042-485-0950",
+        "parkingfood": "가능",
+        "opentimefood": "- 11:30~21:30\n- 준비시간(평일) 15:00~17:00\n- 마지막 주문 14:20, 20:50",
+        "restdatefood": "연중무휴",
+        "lcnsno": "20140236182"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2899479/"
     },
     {
