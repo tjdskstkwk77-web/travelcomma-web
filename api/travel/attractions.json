@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T05:43:52",
+  "generatedAt": "2026-08-28T05:42:59",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -20529,28 +20529,6 @@
       "articlePath": "/tourapi/attractions/attractions-jeju-126441/"
     },
     {
-      "slug": "attractions-jeju-2023328",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2023328",
-      "contentTypeId": "12",
-      "title": "하도어촌체험마을",
-      "name": "하도어촌체험마을",
-      "city": "제주",
-      "profileSlug": "jeju",
-      "region": "제주",
-      "address": "제주특별자치도 제주시 구좌읍 해맞이해안로 1897-27",
-      "tel": "",
-      "mapX": "126.9040729746",
-      "mapY": "33.5199453433",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/91/3412991_image2_1.jpg",
-      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-jeju-2023328/"
-    },
-    {
       "slug": "attractions-jeju-2723542",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -21539,6 +21517,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-jeju-127529/"
+    },
+    {
+      "slug": "attractions-jeju-2723689",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2723689",
+      "contentTypeId": "12",
+      "title": "서귀다원",
+      "name": "서귀다원",
+      "city": "제주",
+      "profileSlug": "jeju",
+      "region": "제주",
+      "address": "제주특별자치도 서귀포시 516로 717 (상효동)",
+      "tel": "",
+      "mapX": "126.5966821327",
+      "mapY": "33.3128299569",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/78/3400178_image2_1.jpg",
+      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-jeju-2723689/"
     }
   ]
 }
