@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T05:42:10",
+  "generatedAt": "2026-08-30T05:42:47",
   "source": "공개 관광 데이터 정규화 캐시",
   "lastRun": {
-    "generatedAt": "2026-08-29T05:30:05",
+    "generatedAt": "2026-08-30T05:30:05",
     "status": "partial",
     "counts": {
       "attractions": 822,
@@ -14,8 +14,8 @@
     },
     "detailEnrichment": {
       "enabled": true,
-      "calls": 1487,
-      "errors": 3
+      "calls": 1489,
+      "errors": 1
     },
     "calls": [
       {
@@ -703,7 +703,7 @@
         "scope": "nationwide",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 264,
+        "totalCount": 256,
         "pageNo": 1,
         "numOfRows": 96
       },
@@ -995,6 +995,17 @@
       },
       {
         "type": "attractions",
+        "operation": "detailCommon2",
+        "contentId": "127942",
+        "title": "사직공원(서울)",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "attractions",
         "operation": "detailIntro2",
         "contentId": "127942",
         "title": "사직공원(서울)",
@@ -9322,6 +9333,17 @@
       },
       {
         "type": "restaurants",
+        "operation": "detailCommon2",
+        "contentId": "2866245",
+        "title": "매봉식당 계족산본점",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "restaurants",
         "operation": "detailIntro2",
         "contentId": "2866245",
         "title": "매봉식당 계족산본점",
@@ -10727,17 +10749,6 @@
         "totalCount": 0,
         "pageNo": 1,
         "numOfRows": 0
-      },
-      {
-        "type": "lodgings",
-        "operation": "detailIntro2",
-        "contentId": "136039",
-        "title": "서울올림픽파크텔",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
       },
       {
         "type": "lodgings",
@@ -14558,6 +14569,17 @@
       },
       {
         "type": "lodgings",
+        "operation": "detailIntro2",
+        "contentId": "397931",
+        "title": "화이트아일랜드",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "lodgings",
         "operation": "detailCommon2",
         "contentId": "2570093",
         "title": "파리랜드(ParisLand)",
@@ -14946,28 +14968,6 @@
         "operation": "detailIntro2",
         "contentId": "3085018",
         "title": "호텔 M7",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "4090201",
-        "title": "가든 나이트 마켓",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4090201",
-        "title": "가든 나이트 마켓",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -16407,28 +16407,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "4103719",
-        "title": "부산진구 전포사잇길 맥주축제",
-        "resultCode": "",
-        "resultMsg": "",
-        "totalCount": 0,
-        "pageNo": 1,
-        "numOfRows": 0
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4103719",
-        "title": "부산진구 전포사잇길 맥주축제",
-        "resultCode": "0000",
-        "resultMsg": "OK",
-        "totalCount": 1,
-        "pageNo": 1,
-        "numOfRows": 1
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "589386",
         "title": "부천국제만화축제",
         "resultCode": "",
@@ -17058,6 +17036,50 @@
         "operation": "detailIntro2",
         "contentId": "1846818",
         "title": "수성못페스티벌",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "1916616",
+        "title": "수원 국가유산야행",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1916616",
+        "title": "수원 국가유산야행",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "4099101",
+        "title": "수원남문시장 「불취무귀」 야시장",
+        "resultCode": "",
+        "resultMsg": "",
+        "totalCount": 0,
+        "pageNo": 1,
+        "numOfRows": 0
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "4099101",
+        "title": "수원남문시장 「불취무귀」 야시장",
         "resultCode": "0000",
         "resultMsg": "OK",
         "totalCount": 1,
@@ -17067,25 +17089,11 @@
     ],
     "errors": [
       {
-        "type": "attractions",
-        "operation": "detailCommon2",
-        "contentId": "127942",
-        "title": "사직공원(서울)",
-        "error": "The read operation timed out"
-      },
-      {
-        "type": "restaurants",
-        "operation": "detailCommon2",
-        "contentId": "2866245",
-        "title": "매봉식당 계족산본점",
-        "error": "<urlopen error timed out>"
-      },
-      {
         "type": "lodgings",
         "operation": "detailIntro2",
-        "contentId": "397931",
-        "title": "화이트아일랜드",
-        "error": "<urlopen error timed out>"
+        "contentId": "136039",
+        "title": "서울올림픽파크텔",
+        "error": "The read operation timed out"
       }
     ],
     "outputs": [
@@ -17666,6 +17674,7 @@
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-127942/"
     },
@@ -46285,6 +46294,7 @@
       "description": "대전 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
       "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/restaurants/restaurants-daejeon-2866245/"
     },
@@ -63261,41 +63271,15 @@
       "mapX": "127.1165319275",
       "mapY": "37.5223340860",
       "image": "http://tong.visitkorea.or.kr/cms/resource/68/3562568_image2_1.jpeg",
-      "detail": {
-        "roomcount": "233실",
-        "roomtype": "스위트 / 스탠다드 / 웰니스 / 다인실 / 한실",
-        "checkintime": "15:00",
-        "checkouttime": "11:00",
-        "chkcooking": "불가",
-        "seminar": "0",
-        "sports": "0",
-        "sauna": "0",
-        "beauty": "0",
-        "beverage": "0",
-        "karaoke": "0",
-        "barbecue": "0",
-        "campfire": "0",
-        "bicycle": "0",
-        "fitness": "0",
-        "publicpc": "0",
-        "publicbath": "0",
-        "subfacility": "웨딩홀 / 연회장 /스마트 스포츠체험관 등",
-        "foodplace": "랑데뷰 / 아리랑 / 아라리",
-        "infocenterlodging": "02-410-2114",
-        "parkinglodging": "가능",
-        "accomcountlodging": "1,000명"
-      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY",
-        "detail"
+        "mapY"
       ],
       "description": "서울 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
-      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-seoul-136039/"
     },
     {
@@ -72500,15 +72484,40 @@
       "mapX": "126.5566231535",
       "mapY": "37.2740585076",
       "image": "http://tong.visitkorea.or.kr/cms/resource/36/3549736_image2_1.jpg",
+      "detail": {
+        "roomcount": "12실",
+        "roomtype": "보라카이 / 발리 / 피지 / 파타야 / 몰디브",
+        "checkintime": "15:00",
+        "checkouttime": "11:00",
+        "chkcooking": "가능",
+        "seminar": "0",
+        "sports": "0",
+        "sauna": "0",
+        "beauty": "0",
+        "beverage": "0",
+        "karaoke": "0",
+        "barbecue": "0",
+        "campfire": "0",
+        "bicycle": "0",
+        "fitness": "0",
+        "publicpc": "0",
+        "publicbath": "0",
+        "subfacility": "수영장 / 세미나실 등",
+        "infocenterlodging": "010-5286-1600",
+        "parkinglodging": "가능",
+        "accomcountlodging": "78명"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "sourceDetailUrl": "https://apis.data.go.kr/B551011/KorService2/detailCommon2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-397931/"
     },
     {

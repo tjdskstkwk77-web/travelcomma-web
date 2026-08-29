@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:42:11",
+  "generatedAt": "2026-08-30T05:42:47",
   "posts": 17,
   "categories": 19,
   "bookingPages": [
@@ -47,7 +47,7 @@
     "articlePages": 2224,
     "index": 2224,
     "lastRunStatus": "partial",
-    "lastRunAt": "2026-08-29T05:30:05"
+    "lastRunAt": "2026-08-30T05:30:05"
   },
   "clickLogConfigured": true,
   "clickLogEndpoint": "/api/click",
@@ -2570,7 +2570,6 @@
     "festivals/boryeong-mud-festival-2026/",
     "festivals/suwon-hwaseong-night-2026/",
     "festivals/gangneung-coffee-festival-2026/",
-    "festivals/tourapi-4090201/",
     "festivals/tourapi-2746930/",
     "festivals/tourapi-3346571/",
     "festivals/tourapi-737479/",
@@ -2636,7 +2635,6 @@
     "festivals/tourapi-140799/",
     "festivals/tourapi-4095478/",
     "festivals/tourapi-3492576/",
-    "festivals/tourapi-4103719/",
     "festivals/tourapi-589386/",
     "festivals/tourapi-1266642/",
     "festivals/tourapi-3367405/",
@@ -2666,6 +2664,8 @@
     "festivals/tourapi-1849007/",
     "festivals/tourapi-506809/",
     "festivals/tourapi-1846818/",
+    "festivals/tourapi-1916616/",
+    "festivals/tourapi-4099101/",
     "destination/korea/gyeongju/",
     "destination/korea/incheon/",
     "destination/korea/seoul/",
@@ -2846,7 +2846,7 @@
     "호텔/항공/투어 페이지는 예약 전 비교 의도를 제목에 포함"
   ],
   "settingsAudit": {
-    "generatedAt": "2026-08-29T05:42:11",
+    "generatedAt": "2026-08-30T05:42:47",
     "readyForLaunch": true,
     "readyForRevenue": false,
     "readyForAutomation": true,
