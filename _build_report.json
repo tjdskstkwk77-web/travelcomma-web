@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T05:42:47",
+  "generatedAt": "2026-08-31T05:41:33",
   "posts": 17,
   "categories": 19,
   "bookingPages": [
@@ -46,8 +46,8 @@
     "festivals": 96,
     "articlePages": 2224,
     "index": 2224,
-    "lastRunStatus": "partial",
-    "lastRunAt": "2026-08-30T05:30:05"
+    "lastRunStatus": "ok",
+    "lastRunAt": "2026-08-31T05:30:01"
   },
   "clickLogConfigured": true,
   "clickLogEndpoint": "/api/click",
@@ -2643,7 +2643,6 @@
     "festivals/tourapi-2434545/",
     "festivals/tourapi-3348418/",
     "festivals/tourapi-141236/",
-    "festivals/tourapi-2853756/",
     "festivals/tourapi-506616/",
     "festivals/tourapi-2759788/",
     "festivals/tourapi-140752/",
@@ -2655,7 +2654,6 @@
     "festivals/tourapi-3544886/",
     "festivals/tourapi-3351888/",
     "festivals/tourapi-141268/",
-    "festivals/tourapi-2989981/",
     "festivals/tourapi-3359644/",
     "festivals/tourapi-4102649/",
     "festivals/tourapi-3501104/",
@@ -2664,8 +2662,10 @@
     "festivals/tourapi-1849007/",
     "festivals/tourapi-506809/",
     "festivals/tourapi-1846818/",
-    "festivals/tourapi-1916616/",
     "festivals/tourapi-4099101/",
+    "festivals/tourapi-2616316/",
+    "festivals/tourapi-2751090/",
+    "festivals/tourapi-914138/",
     "destination/korea/gyeongju/",
     "destination/korea/incheon/",
     "destination/korea/seoul/",
@@ -2846,7 +2846,7 @@
     "호텔/항공/투어 페이지는 예약 전 비교 의도를 제목에 포함"
   ],
   "settingsAudit": {
-    "generatedAt": "2026-08-30T05:42:47",
+    "generatedAt": "2026-08-31T05:41:33",
     "readyForLaunch": true,
     "readyForRevenue": false,
     "readyForAutomation": true,
