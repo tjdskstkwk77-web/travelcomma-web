@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:41:33",
+  "generatedAt": "2026-09-01T05:40:26",
   "posts": 17,
   "categories": 19,
   "bookingPages": [
@@ -46,8 +46,8 @@
     "festivals": 96,
     "articlePages": 2224,
     "index": 2224,
-    "lastRunStatus": "ok",
-    "lastRunAt": "2026-08-31T05:30:01"
+    "lastRunStatus": "partial",
+    "lastRunAt": "2026-09-01T05:30:00"
   },
   "clickLogConfigured": true,
   "clickLogEndpoint": "/api/click",
@@ -1527,7 +1527,6 @@
     "tourapi/restaurants/restaurants-gangwon-2662628/",
     "tourapi/restaurants/restaurants-gangwon-2809292/",
     "tourapi/restaurants/restaurants-gangwon-2925230/",
-    "tourapi/restaurants/restaurants-gangwon-1950195/",
     "tourapi/restaurants/restaurants-gangwon-2892498/",
     "tourapi/restaurants/restaurants-gangwon-2892476/",
     "tourapi/restaurants/restaurants-gangwon-2684634/",
@@ -1556,6 +1555,7 @@
     "tourapi/restaurants/restaurants-gangwon-2796846/",
     "tourapi/restaurants/restaurants-gangwon-2796739/",
     "tourapi/restaurants/restaurants-gangwon-2839872/",
+    "tourapi/restaurants/restaurants-gangwon-2839753/",
     "tourapi/restaurants/restaurants-chungbuk-3422403/",
     "tourapi/restaurants/restaurants-chungbuk-2626032/",
     "tourapi/restaurants/restaurants-chungbuk-704469/",
@@ -1631,7 +1631,6 @@
     "tourapi/restaurants/restaurants-chungnam-2012934/",
     "tourapi/restaurants/restaurants-chungnam-2013675/",
     "tourapi/restaurants/restaurants-chungnam-133682/",
-    "tourapi/restaurants/restaurants-chungnam-1946298/",
     "tourapi/restaurants/restaurants-chungnam-2766688/",
     "tourapi/restaurants/restaurants-chungnam-2766790/",
     "tourapi/restaurants/restaurants-chungnam-2766826/",
@@ -1656,6 +1655,7 @@
     "tourapi/restaurants/restaurants-chungnam-2858804/",
     "tourapi/restaurants/restaurants-chungnam-2609545/",
     "tourapi/restaurants/restaurants-chungnam-2605882/",
+    "tourapi/restaurants/restaurants-chungnam-2850416/",
     "tourapi/restaurants/restaurants-gyeongbuk-133964/",
     "tourapi/restaurants/restaurants-gyeongbuk-134136/",
     "tourapi/restaurants/restaurants-gyeongbuk-2766570/",
@@ -2578,6 +2578,7 @@
     "festivals/tourapi-4061361/",
     "festivals/tourapi-3530308/",
     "festivals/tourapi-2614762/",
+    "festivals/tourapi-3368470/",
     "festivals/tourapi-141105/",
     "festivals/tourapi-2648460/",
     "festivals/tourapi-506766/",
@@ -2653,7 +2654,6 @@
     "festivals/tourapi-2505657/",
     "festivals/tourapi-3544886/",
     "festivals/tourapi-3351888/",
-    "festivals/tourapi-141268/",
     "festivals/tourapi-3359644/",
     "festivals/tourapi-4102649/",
     "festivals/tourapi-3501104/",
@@ -2846,7 +2846,7 @@
     "호텔/항공/투어 페이지는 예약 전 비교 의도를 제목에 포함"
   ],
   "settingsAudit": {
-    "generatedAt": "2026-08-31T05:41:33",
+    "generatedAt": "2026-09-01T05:40:26",
     "readyForLaunch": true,
     "readyForRevenue": false,
     "readyForAutomation": true,
