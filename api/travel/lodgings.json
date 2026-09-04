@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-03T05:39:57",
+  "generatedAt": "2026-09-05T05:39:40",
   "kind": "lodgings",
   "source": "공개 관광 데이터 정규화 캐시",
-  "total": 503,
+  "total": 501,
   "items": [
     {
       "slug": "lodgings-seoul-2504510",
@@ -1380,33 +1380,6 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/lodgings/lodgings-incheon-2570709/"
-    },
-    {
-      "slug": "lodgings-incheon-2468936",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "2468936",
-      "contentTypeId": "32",
-      "title": "옛날에금잔디",
-      "name": "옛날에금잔디",
-      "city": "인천",
-      "profileSlug": "incheon",
-      "region": "인천",
-      "address": "인천광역시 강화군 내가면 강화서로225번길 18-1",
-      "tel": "",
-      "mapX": "126.3892095829",
-      "mapY": "37.7161235947",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/23/2451823_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "인천 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-incheon-2468936/"
     },
     {
       "slug": "lodgings-incheon-2575850",
@@ -4082,33 +4055,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-ulsan-2994636/"
     },
     {
-      "slug": "lodgings-ulsan-2708665",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "2708665",
-      "contentTypeId": "32",
-      "title": "브라운도트호텔 (장생포점)",
-      "name": "브라운도트호텔 (장생포점)",
-      "city": "울산",
-      "profileSlug": "ulsan",
-      "region": "울산",
-      "address": "울산광역시 남구 장생포고래로 211",
-      "tel": "",
-      "mapX": "129.3773294441",
-      "mapY": "35.5028009736",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/69/2709169_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "울산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-ulsan-2708665/"
-    },
-    {
       "slug": "lodgings-ulsan-2576493",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -5421,6 +5367,11 @@
       "mapX": "128.2063313500",
       "mapY": "38.0432965370",
       "image": "http://tong.visitkorea.or.kr/cms/resource/31/3592431_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "강원 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
@@ -5443,6 +5394,11 @@
       "mapX": "128.6002778944",
       "mapY": "37.7155143495",
       "image": "http://tong.visitkorea.or.kr/cms/resource/69/3586769_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
       "description": "강원 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",

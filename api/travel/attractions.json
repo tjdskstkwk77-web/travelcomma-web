@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T05:39:57",
+  "generatedAt": "2026-09-05T05:39:40",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -286,14 +286,24 @@
       "mapX": "126.9737151476",
       "mapY": "37.5931538442",
       "image": "http://tong.visitkorea.or.kr/cms/resource/31/3590031_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "종로구청 도시녹지과 02-2148-2835",
+        "restdate": "연중무휴",
+        "usetime": "[3월~4월]\n- 07:00~18:00 (입산 가능 16:00)\n[5월~8월]\n- 07:00~19:00 (입산 가능 17:00)\n[9월~10월]\n- 07:00~18:00 (입산 가능 16:00)\n[11월~2월]\n- 09:00~17:00 (입산 가능 15:00)"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-809190/"
     },
     {
@@ -313,14 +323,25 @@
       "mapX": "127.0146067184",
       "mapY": "37.5630580770",
       "image": "http://tong.visitkorea.or.kr/cms/resource/93/3589993_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "명동 관광정보센터 02-778-0333",
+        "restdate": "점포 별로 상이함",
+        "usetime": "점포 별로 상이함",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-699249/"
     },
     {
@@ -340,14 +361,25 @@
       "mapX": "126.9524990219",
       "mapY": "37.6423033033",
       "image": "http://tong.visitkorea.or.kr/cms/resource/75/3589975_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-353-3004",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-127557/"
     },
     {
@@ -367,14 +399,25 @@
       "mapX": "127.0949159758",
       "mapY": "37.6637533728",
       "image": "http://tong.visitkorea.or.kr/cms/resource/61/3589961_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "노원구청 푸른도시과 02-2116-4939",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-126482/"
     },
     {
@@ -394,14 +437,26 @@
       "mapX": "127.0810141360",
       "mapY": "37.4800522436",
       "image": "http://tong.visitkorea.or.kr/cms/resource/45/3589845_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "강남구청 공원녹지과 02-3423-6283",
+        "opendate": "1989년 11월 23일",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1602451/"
     },
     {
@@ -421,14 +476,25 @@
       "mapX": "127.0058964795",
       "mapY": "37.5602915750",
       "image": "http://tong.visitkorea.or.kr/cms/resource/72/3589072_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "동대문 관광안내소 02-2236-9135",
+        "restdate": "점포 별로 상이함",
+        "usetime": "점포 별로 상이함",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-699279/"
     },
     {
@@ -448,14 +514,26 @@
       "mapX": "126.9687216489",
       "mapY": "37.5758446558",
       "image": "http://tong.visitkorea.or.kr/cms/resource/83/3400583_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "종로구청 공원조성팀 02-2148-2836",
+        "opendate": "1940년 03월 12일",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-127942/"
     },
     {
@@ -475,14 +553,25 @@
       "mapX": "126.9392252587",
       "mapY": "37.6413948373",
       "image": "http://tong.visitkorea.or.kr/cms/resource/24/3530324_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-351-6114",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2724392/"
     },
     {
@@ -502,14 +591,24 @@
       "mapX": "127.0883855136",
       "mapY": "37.4862044398",
       "image": "http://tong.visitkorea.or.kr/cms/resource/57/3463057_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-3411-8104",
+        "usetime": "04:00~18:00\n※ 매월 첫째 금요일 19:00~21:00 능엄주 기도",
+        "chkcreditcard": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2757155/"
     },
     {
@@ -10167,28 +10266,6 @@
       "articlePath": "/tourapi/attractions/attractions-gyeonggi-773293/"
     },
     {
-      "slug": "attractions-gyeonggi-2930334",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2930334",
-      "contentTypeId": "12",
-      "title": "광교호수공원 반려견 놀이터",
-      "name": "광교호수공원 반려견 놀이터",
-      "city": "경기",
-      "profileSlug": "gyeonggi",
-      "region": "경기",
-      "address": "경기도 수원시 영통구 광교호수로 214 광교호수공원시설 주차관리소 광교호수공원 반려견 놀이터",
-      "tel": "",
-      "mapX": "127.0772644577",
-      "mapY": "37.2835610668",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/57/3400857_image2_1.JPG",
-      "description": "경기 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-gyeonggi-2930334/"
-    },
-    {
       "slug": "attractions-gyeonggi-2738722",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -10363,6 +10440,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-gyeonggi-2746700/"
+    },
+    {
+      "slug": "attractions-gyeonggi-2732350",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2732350",
+      "contentTypeId": "12",
+      "title": "침강저류지",
+      "name": "침강저류지",
+      "city": "경기",
+      "profileSlug": "gyeonggi",
+      "region": "경기",
+      "address": "경기도 용인시 처인구 호동 330-1",
+      "tel": "",
+      "mapX": "127.2520177179",
+      "mapY": "37.1970519915",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/69/3566769_image2_1.jpg",
+      "description": "경기 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-gyeonggi-2732350/"
     },
     {
       "slug": "attractions-gangwon-2735607",
@@ -11883,28 +11982,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungbuk-127817/"
     },
     {
-      "slug": "attractions-chungbuk-2848290",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2848290",
-      "contentTypeId": "12",
-      "title": "팔음산마을",
-      "name": "팔음산마을",
-      "city": "충북",
-      "profileSlug": "chungbuk",
-      "region": "충북",
-      "address": "충청북도 옥천군 예곡2길 8-12",
-      "tel": "",
-      "mapX": "127.8314085729",
-      "mapY": "36.3559063310",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/50/3573450_image2_1.jpg",
-      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungbuk-2848290/"
-    },
-    {
       "slug": "attractions-chungbuk-487729",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -12563,6 +12640,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungbuk-1437066/"
+    },
+    {
+      "slug": "attractions-chungbuk-128552",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "128552",
+      "contentTypeId": "12",
+      "title": "김시민장군 충민사",
+      "name": "김시민장군 충민사",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 괴산군 괴산읍 충민사길 46",
+      "tel": "",
+      "mapX": "127.8480353156",
+      "mapY": "36.8360877427",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/61/3571261_image2_1.jpg",
+      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungbuk-128552/"
     },
     {
       "slug": "attractions-chungnam-525648",
@@ -18351,28 +18450,6 @@
       "articlePath": "/tourapi/attractions/attractions-jeju-1620883/"
     },
     {
-      "slug": "attractions-jeju-2932006",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2932006",
-      "contentTypeId": "12",
-      "title": "서귀포 패류화석산지",
-      "name": "서귀포 패류화석산지",
-      "city": "제주",
-      "profileSlug": "jeju",
-      "region": "제주",
-      "address": "제주특별자치도 서귀포시 남성중로 43 (서홍동)",
-      "tel": "",
-      "mapX": "126.5582787717",
-      "mapY": "33.2398207377",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/17/3391817_image2_1.jpg",
-      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-jeju-2932006/"
-    },
-    {
       "slug": "attractions-jeju-129395",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -19163,6 +19240,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-jeju-2765237/"
+    },
+    {
+      "slug": "attractions-jeju-128330",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "128330",
+      "contentTypeId": "12",
+      "title": "위미1리어촌체험마을",
+      "name": "위미1리어촌체험마을",
+      "city": "제주",
+      "profileSlug": "jeju",
+      "region": "제주",
+      "address": "제주특별자치도 서귀포시 남원읍 위미해안로 43",
+      "tel": "",
+      "mapX": "126.6587526977",
+      "mapY": "33.2710355577",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/18/3400618_image2_1.jpg",
+      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-jeju-128330/"
     }
   ]
 }
