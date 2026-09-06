@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T05:39:40",
+  "generatedAt": "2026-09-07T05:40:39",
   "source": "공개 관광 데이터 정규화 캐시",
   "lastRun": {
-    "generatedAt": "2026-09-05T05:30:03",
+    "generatedAt": "2026-09-07T05:30:05",
     "status": "partial",
     "counts": {
       "attractions": 822,
@@ -14,8 +14,8 @@
     },
     "detailEnrichment": {
       "enabled": true,
-      "calls": 16,
-      "errors": 1474
+      "calls": 30,
+      "errors": 1460
     },
     "calls": [
       {
@@ -703,7 +703,7 @@
         "scope": "nationwide",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 272,
+        "totalCount": 251,
         "pageNo": 1,
         "numOfRows": 96
       },
@@ -882,6 +882,160 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2401757",
+        "title": "자양동 양꼬치거리 (중국음식문화거리)",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2752545",
+        "title": "역삼개나리공원",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "127307",
+        "title": "망원정 터",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2611669",
+        "title": "양천나눔누리타운",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "749355",
+        "title": "영등포 신길동 홍어거리",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2500214",
+        "title": "로렌스길",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2456536",
+        "title": "강남 마이스 관광특구",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "713110",
+        "title": "응암동 감자국 거리",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "129418",
+        "title": "백범광장(백범 김구선생 동상)",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2500201",
+        "title": "연남동 공방거리",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2946242",
+        "title": "내맘대로폰케이스 홍대점",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "130938",
+        "title": "광나루안전체험관",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "126519",
+        "title": "서울 암사동 유적",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2553876",
+        "title": "세운상가",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
       }
     ],
     "errors": [
@@ -1006,21 +1160,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2401757",
-        "title": "자양동 양꼬치거리 (중국음식문화거리)",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "2752545",
-        "title": "역삼개나리공원",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "2752545",
         "title": "역삼개나리공원",
         "error": "HTTP Error 429: Too Many Requests"
@@ -1034,21 +1174,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "127307",
-        "title": "망원정 터",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "2611669",
-        "title": "양천나눔누리타운",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "2611669",
         "title": "양천나눔누리타운",
         "error": "HTTP Error 429: Too Many Requests"
@@ -1062,21 +1188,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "749355",
-        "title": "영등포 신길동 홍어거리",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "2500214",
-        "title": "로렌스길",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "2500214",
         "title": "로렌스길",
         "error": "HTTP Error 429: Too Many Requests"
@@ -1090,21 +1202,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2456536",
-        "title": "강남 마이스 관광특구",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "713110",
-        "title": "응암동 감자국 거리",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "713110",
         "title": "응암동 감자국 거리",
         "error": "HTTP Error 429: Too Many Requests"
@@ -1118,21 +1216,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "129418",
-        "title": "백범광장(백범 김구선생 동상)",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "2500201",
-        "title": "연남동 공방거리",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "2500201",
         "title": "연남동 공방거리",
         "error": "HTTP Error 429: Too Many Requests"
@@ -1146,21 +1230,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2946242",
-        "title": "내맘대로폰케이스 홍대점",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "130938",
-        "title": "광나루안전체험관",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "130938",
         "title": "광나루안전체험관",
         "error": "HTTP Error 429: Too Many Requests"
@@ -1174,21 +1244,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "126519",
-        "title": "서울 암사동 유적",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "2553876",
-        "title": "세운상가",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "2553876",
         "title": "세운상가",
         "error": "HTTP Error 429: Too Many Requests"
@@ -9862,20 +9918,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "3346571",
-        "title": "강경 국가유산야행",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3346571",
-        "title": "강경 국가유산야행",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "737479",
         "title": "강남페스티벌",
         "error": "HTTP Error 429: Too Many Requests"
@@ -9913,20 +9955,6 @@
         "operation": "detailIntro2",
         "contentId": "825295",
         "title": "강릉커피축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "4061361",
-        "title": "강북 백맥축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4061361",
-        "title": "강북 백맥축제",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10053,20 +10081,6 @@
         "operation": "detailIntro2",
         "contentId": "604454",
         "title": "고창모양성제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "2614763",
-        "title": "공주 국가유산야행",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "2614763",
-        "title": "공주 국가유산야행",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10478,20 +10492,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "3301281",
-        "title": "달성가족문화축제 YES! 키즈존",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3301281",
-        "title": "달성가족문화축제 YES! 키즈존",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "2758030",
         "title": "당진해나루황토고구마홍보판촉행사",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10655,20 +10655,6 @@
         "operation": "detailIntro2",
         "contentId": "574014",
         "title": "목포항구축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "1953493",
-        "title": "무안 황토 갯벌축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "1953493",
-        "title": "무안 황토 갯벌축제",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10982,20 +10968,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "3348418",
-        "title": "새활용 페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3348418",
-        "title": "새활용 페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "141236",
         "title": "생거진천 문화축제",
         "error": "HTTP Error 429: Too Many Requests"
@@ -11201,6 +11173,90 @@
         "operation": "detailIntro2",
         "contentId": "3501104",
         "title": "성남동 커피페스티벌",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "2756476",
+        "title": "세계유산 조선왕릉축전",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "2756476",
+        "title": "세계유산 조선왕릉축전",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "1344850",
+        "title": "세종대왕과 초정약수축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1344850",
+        "title": "세종대왕과 초정약수축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "1849007",
+        "title": "세종한글축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1849007",
+        "title": "세종한글축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "506809",
+        "title": "소래포구축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "506809",
+        "title": "소래포구축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "4099101",
+        "title": "수원남문시장 「불취무귀」 야시장",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "4099101",
+        "title": "수원남문시장 「불취무귀」 야시장",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "2616316",
+        "title": "수원재즈페스티벌",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "2616316",
+        "title": "수원재즈페스티벌",
         "error": "HTTP Error 429: Too Many Requests"
       }
     ],
@@ -11864,14 +11920,25 @@
       "mapX": "127.0629835156",
       "mapY": "37.5402227106",
       "image": "http://tong.visitkorea.or.kr/cms/resource/63/2372563_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "성동구 성수관광안내소 02-466-2286",
+        "restdate": "점포별 상이",
+        "usetime": "점포별 상이",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2401757/"
     },
     {
@@ -11891,14 +11958,24 @@
       "mapX": "127.0362843748",
       "mapY": "37.4976466191",
       "image": "http://tong.visitkorea.or.kr/cms/resource/86/3463086_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "강남구청 공원녹지과 02-3423-6248",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2752545/"
     },
     {
@@ -11918,14 +11995,25 @@
       "mapX": "126.9047532101",
       "mapY": "37.5499992917",
       "image": "http://tong.visitkorea.or.kr/cms/resource/43/720543_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-3153-8350",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-127307/"
     },
     {
@@ -11945,14 +12033,24 @@
       "mapX": "126.8537642877",
       "mapY": "37.5189547671",
       "image": "http://tong.visitkorea.or.kr/cms/resource/64/2611664_image2_1.bmp",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "양천구 자원봉사센터 02-2643-1365",
+        "usetime": "09:00~18:00",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2611669/"
     },
     {
@@ -11972,14 +12070,25 @@
       "mapX": "126.9115648107",
       "mapY": "37.5106012142",
       "image": "http://tong.visitkorea.or.kr/cms/resource/25/3464425_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "영등포여행센터 02-2678-7723",
+        "restdate": "점포별 상이",
+        "usetime": "점포별 상이",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-749355/"
     },
     {
@@ -11999,14 +12108,25 @@
       "mapX": "126.9214545083",
       "mapY": "37.5484886553",
       "image": "http://tong.visitkorea.or.kr/cms/resource/37/3464837_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "마포구 문화예술과 02-3153-8353",
+        "restdate": "※ 점포별 상이",
+        "usetime": "※ 점포별 상이",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2500214/"
     },
     {
@@ -12026,14 +12146,23 @@
       "mapX": "127.0592179950",
       "mapY": "37.5119175967",
       "image": "http://tong.visitkorea.or.kr/cms/resource/13/3464913_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "강남관광정보센터 02-3445-0111",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2456536/"
     },
     {
@@ -12053,14 +12182,24 @@
       "mapX": "126.9167149563",
       "mapY": "37.5872673957",
       "image": "http://tong.visitkorea.or.kr/cms/resource/38/3465038_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "대림시장 02-302-1666",
+        "usetime": "10:00~24:00\n※ 점포별 상이",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-713110/"
     },
     {
@@ -12080,14 +12219,25 @@
       "mapX": "126.9798156648",
       "mapY": "37.5552528034",
       "image": "http://tong.visitkorea.or.kr/cms/resource/70/3586270_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-3783-5900",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-129418/"
     },
     {
@@ -12107,14 +12257,25 @@
       "mapX": "126.9236205874",
       "mapY": "37.5623009774",
       "image": "http://tong.visitkorea.or.kr/cms/resource/21/3550521_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "마포관광정보센터 02-334-7878",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2500201/"
     },
     {
@@ -12134,14 +12295,25 @@
       "mapX": "126.9218988345",
       "mapY": "37.5512466761",
       "image": "http://tong.visitkorea.or.kr/cms/resource/69/2947669_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-322-6682",
+        "restdate": "연중무휴",
+        "usetime": "12:00~21:00",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2946242/"
     },
     {
@@ -12161,14 +12333,23 @@
       "mapX": "127.0771624650",
       "mapY": "37.5513105664",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/3540002_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-2049-4061",
+        "usetime": "09:00~17:00\n※ 인터넷 사전 예약 필수"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-130938/"
     },
     {
@@ -12188,14 +12369,26 @@
       "mapX": "127.1306157102",
       "mapY": "37.5591134023",
       "image": "http://tong.visitkorea.or.kr/cms/resource/39/3585939_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-3425-6520",
+        "restdate": "매주 월요일 / 1월 1일\n(※ 단, 월요일이 공휴일인 경우 그 다음 첫 번째 평일 휴관)",
+        "expguide": "선사체험교육 / 세계유산교육 / 장신구만들기 등",
+        "usetime": "09:30~18:00 (입장마감 17:30)",
+        "parking": "가능 (105대)"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-126519/"
     },
     {
@@ -12215,14 +12408,25 @@
       "mapX": "126.9952555258",
       "mapY": "37.5693347773",
       "image": "http://tong.visitkorea.or.kr/cms/resource/60/3569460_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-2271-2344",
+        "restdate": "점포별 상이",
+        "usetime": "점포별 상이",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2553876/"
     },
     {
