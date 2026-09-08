@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:39:57",
+  "generatedAt": "2026-09-09T05:39:49",
   "kind": "lodgings",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 501,
@@ -5297,33 +5297,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3079732/"
     },
     {
-      "slug": "lodgings-gyeonggi-3085019",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "3085019",
-      "contentTypeId": "32",
-      "title": "아미부티크 호텔",
-      "name": "아미부티크 호텔",
-      "city": "경기",
-      "profileSlug": "gyeonggi",
-      "region": "경기",
-      "address": "경기도 용인시 기흥구 기흥단지로 49 (고매동)",
-      "tel": "",
-      "mapX": "127.1042969637",
-      "mapY": "37.2256043706",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/53/3084553_image2_1.JPG",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3085019/"
-    },
-    {
       "slug": "lodgings-gyeonggi-3085018",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -5349,6 +5322,33 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3085018/"
+    },
+    {
+      "slug": "lodgings-gyeonggi-3084992",
+      "type": "lodgings",
+      "typeLabel": "호텔·숙소",
+      "category": "hotels",
+      "contentId": "3084992",
+      "contentTypeId": "32",
+      "title": "호텔 에비뉴",
+      "name": "호텔 에비뉴",
+      "city": "경기",
+      "profileSlug": "gyeonggi",
+      "region": "경기",
+      "address": "경기도 용인시 처인구 중부대로1576번길 50 (마평동)",
+      "tel": "",
+      "mapX": "127.2250247165",
+      "mapY": "37.2326140601",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/40/3084540_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "경기 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/lodgings/lodgings-gyeonggi-3084992/"
     },
     {
       "slug": "lodgings-gangwon-138081",
@@ -11367,28 +11367,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-jeju-984562/"
     },
     {
-      "slug": "lodgings-jeju-3089186",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "3089186",
-      "contentTypeId": "32",
-      "title": "글로스터호텔 제주",
-      "name": "글로스터호텔 제주",
-      "city": "제주",
-      "profileSlug": "jeju",
-      "region": "제주",
-      "address": "제주특별자치도 제주시 삼무로 57 (연동)",
-      "tel": "",
-      "mapX": "126.4926621543",
-      "mapY": "33.4901448115",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/82/3089182_image2_1.jpg",
-      "description": "제주 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-jeju-3089186/"
-    },
-    {
       "slug": "lodgings-jeju-1853848",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -12025,6 +12003,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/lodgings/lodgings-jeju-2940391/"
+    },
+    {
+      "slug": "lodgings-jeju-2699863",
+      "type": "lodgings",
+      "typeLabel": "호텔·숙소",
+      "category": "hotels",
+      "contentId": "2699863",
+      "contentTypeId": "32",
+      "title": "호텔 서귀피안",
+      "name": "호텔 서귀피안",
+      "city": "제주",
+      "profileSlug": "jeju",
+      "region": "제주",
+      "address": "제주특별자치도 서귀포시 보목로64번길 178 (보목동)",
+      "tel": "",
+      "mapX": "126.5905592043",
+      "mapY": "33.2444207422",
+      "image": "",
+      "description": "제주 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/lodgings/lodgings-jeju-2699863/"
     }
   ]
 }

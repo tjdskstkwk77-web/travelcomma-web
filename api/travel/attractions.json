@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:39:57",
+  "generatedAt": "2026-09-09T05:39:49",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -1418,14 +1418,24 @@
       "mapX": "126.8278087964",
       "mapY": "37.5020034970",
       "image": "http://tong.visitkorea.or.kr/cms/resource/33/3570433_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "구로구 문화관광과 02-860-2410",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2591833/"
     },
     {
@@ -1445,14 +1455,24 @@
       "mapX": "126.8293197915",
       "mapY": "37.5012175047",
       "image": "http://tong.visitkorea.or.kr/cms/resource/02/3570402_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "구로구 공원녹지과 02-860-3177",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-2591809/"
     },
     {
@@ -1472,14 +1492,25 @@
       "mapX": "126.9627744300",
       "mapY": "37.5948701151",
       "image": "http://tong.visitkorea.or.kr/cms/resource/53/3572953_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-395-0100",
+        "restdate": "매주 월요일~화요일",
+        "usetime": "10:00~18:00 (입장마감 17:00)",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1605948/"
     },
     {
@@ -1499,14 +1530,25 @@
       "mapX": "126.9871421746",
       "mapY": "37.5764588036",
       "image": "http://tong.visitkorea.or.kr/cms/resource/06/3577706_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-766-9090",
+        "restdate": "매주 월요일 (단, 월요일이 공휴일인 경우 정상 개장)",
+        "usetime": "[하절기(4월~10월)]\n09:00~19:00 (입장 마감 18:30)\n[동절기(11월~3월)]\n09:00~18:00 (입장 마감 17:30)\n※ 자세한 사항은 홈페이지 참조",
+        "parking": "불가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-127454/"
     },
     {
@@ -1526,14 +1568,25 @@
       "mapX": "126.9145135735",
       "mapY": "37.4462531839",
       "image": "http://tong.visitkorea.or.kr/cms/resource/31/2675531_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "금천구청 문화체육과 02-2627-1453",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1116022/"
     },
     {
@@ -4588,33 +4641,6 @@
       "articlePath": "/tourapi/attractions/attractions-daegu-317502/"
     },
     {
-      "slug": "attractions-daegu-128627",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "128627",
-      "contentTypeId": "12",
-      "title": "이월드",
-      "name": "이월드",
-      "city": "대구",
-      "profileSlug": "daegu",
-      "region": "대구",
-      "address": "대구광역시 달서구 두류공원로 200 (두류동)",
-      "tel": "",
-      "mapX": "128.5648324581",
-      "mapY": "35.8548822436",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/82/2818982_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-daegu-128627/"
-    },
-    {
       "slug": "attractions-daegu-128949",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -4964,33 +4990,6 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-daegu-2611146/"
-    },
-    {
-      "slug": "attractions-daegu-1115613",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "1115613",
-      "contentTypeId": "12",
-      "title": "수성못 유원지",
-      "name": "수성못 유원지",
-      "city": "대구",
-      "profileSlug": "daegu",
-      "region": "대구",
-      "address": "대구광역시 수성구 두산동 512",
-      "tel": "",
-      "mapX": "128.6177257792",
-      "mapY": "35.8276418564",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/51/2653751_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-daegu-1115613/"
     },
     {
       "slug": "attractions-daegu-1610456",
@@ -5801,6 +5800,60 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-daegu-348785/"
+    },
+    {
+      "slug": "attractions-daegu-126810",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "126810",
+      "contentTypeId": "12",
+      "title": "인각사(군위)",
+      "name": "인각사(군위)",
+      "city": "대구",
+      "profileSlug": "daegu",
+      "region": "대구",
+      "address": "대구광역시 군위군 고로면 삼국유사로 250",
+      "tel": "",
+      "mapX": "128.7795058654",
+      "mapY": "36.1276914161",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/46/3569946_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-daegu-126810/"
+    },
+    {
+      "slug": "attractions-daegu-2757076",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2757076",
+      "contentTypeId": "12",
+      "title": "사라온이야기마을",
+      "name": "사라온이야기마을",
+      "city": "대구",
+      "profileSlug": "daegu",
+      "region": "대구",
+      "address": "대구광역시 군위군 군위읍 동서길 49",
+      "tel": "",
+      "mapX": "128.5677270578",
+      "mapY": "36.2364140061",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/24/3569924_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "대구 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-daegu-2757076/"
     },
     {
       "slug": "attractions-gwangju-126385",
@@ -8641,28 +8694,6 @@
       "articlePath": "/tourapi/attractions/attractions-ulsan-2612976/"
     },
     {
-      "slug": "attractions-ulsan-128202",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "128202",
-      "contentTypeId": "12",
-      "title": "태화강 국가정원",
-      "name": "태화강 국가정원",
-      "city": "울산",
-      "profileSlug": "ulsan",
-      "region": "울산",
-      "address": "울산광역시 중구 샛강남길 5 (태화동)",
-      "tel": "",
-      "mapX": "129.2911995498",
-      "mapY": "35.5487747405",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/43/3422843_image2_1.png",
-      "description": "울산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-ulsan-128202/"
-    },
-    {
       "slug": "attractions-ulsan-3014975",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -9101,6 +9132,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-ulsan-2871593/"
+    },
+    {
+      "slug": "attractions-ulsan-2871570",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2871570",
+      "contentTypeId": "12",
+      "title": "구영공원",
+      "name": "구영공원",
+      "city": "울산",
+      "profileSlug": "ulsan",
+      "region": "울산",
+      "address": "울산광역시 울주군 범서읍 점촌4길 62",
+      "tel": "",
+      "mapX": "129.2420171122",
+      "mapY": "35.5708102270",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/57/2871557_image2_1.JPG",
+      "description": "울산 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-ulsan-2871570/"
     },
     {
       "slug": "attractions-sejong-2435243",
@@ -10819,28 +10872,6 @@
       "articlePath": "/tourapi/attractions/attractions-gangwon-125590/"
     },
     {
-      "slug": "attractions-gangwon-2798965",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2798965",
-      "contentTypeId": "12",
-      "title": "고랭길",
-      "name": "고랭길",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 평창군 봉평면 태기로 254-1",
-      "tel": "",
-      "mapX": "128.3362530327",
-      "mapY": "37.5802666171",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/90/3585090_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-gangwon-2798965/"
-    },
-    {
       "slug": "attractions-gangwon-2798876",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -11787,6 +11818,28 @@
       "articlePath": "/tourapi/attractions/attractions-gangwon-125412/"
     },
     {
+      "slug": "attractions-gangwon-2663739",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2663739",
+      "contentTypeId": "12",
+      "title": "려우도예",
+      "name": "려우도예",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 춘천시 신동면 김유정로 1430-14",
+      "tel": "",
+      "mapX": "127.7178130790",
+      "mapY": "37.8185967945",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/16/3562216_image2_1.jpg",
+      "description": "강원 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-gangwon-2663739/"
+    },
+    {
       "slug": "attractions-chungbuk-2671791",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -12601,28 +12654,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungbuk-2769996/"
     },
     {
-      "slug": "attractions-chungbuk-2865402",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2865402",
-      "contentTypeId": "12",
-      "title": "이원양조장",
-      "name": "이원양조장",
-      "city": "충북",
-      "profileSlug": "chungbuk",
-      "region": "충북",
-      "address": "충청북도 옥천군 묘목로 113 양조장",
-      "tel": "",
-      "mapX": "127.6208553269",
-      "mapY": "36.2472982794",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/93/3573393_image2_1.jpg",
-      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungbuk-2865402/"
-    },
-    {
       "slug": "attractions-chungbuk-756476",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -12885,6 +12916,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungbuk-128552/"
+    },
+    {
+      "slug": "attractions-chungbuk-1626555",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1626555",
+      "contentTypeId": "12",
+      "title": "연풍성지",
+      "name": "연풍성지",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 괴산군 연풍면 중앙로홍문2길 14",
+      "tel": "",
+      "mapX": "127.9943492567",
+      "mapY": "36.7637431756",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/53/3571253_image2_1.jpg",
+      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungbuk-1626555/"
     },
     {
       "slug": "attractions-chungnam-525648",
@@ -15329,28 +15382,6 @@
       "articlePath": "/tourapi/attractions/attractions-gyeongnam-2795184/"
     },
     {
-      "slug": "attractions-gyeongnam-2795032",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2795032",
-      "contentTypeId": "12",
-      "title": "수철마을",
-      "name": "수철마을",
-      "city": "경남",
-      "profileSlug": "gyeongnam",
-      "region": "경남",
-      "address": "경상남도 산청군 금서면 친환경로2211번길 85-3",
-      "tel": "",
-      "mapX": "127.8263902548",
-      "mapY": "35.4047198086",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/19/3589119_image2_1.jpg",
-      "description": "경남 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-gyeongnam-2795032/"
-    },
-    {
       "slug": "attractions-gyeongnam-756585",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -16185,6 +16216,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-gyeongnam-1622681/"
+    },
+    {
+      "slug": "attractions-gyeongnam-1888983",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1888983",
+      "contentTypeId": "12",
+      "title": "비토섬 신우리조트",
+      "name": "비토섬 신우리조트",
+      "city": "경남",
+      "profileSlug": "gyeongnam",
+      "region": "경남",
+      "address": "경상남도 사천시 서포면 토끼로 245-5",
+      "tel": "",
+      "mapX": "127.9664417315",
+      "mapY": "34.9844640268",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/42/3583242_image2_1.jpg",
+      "description": "경남 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-gyeongnam-1888983/"
     },
     {
       "slug": "attractions-jeonbuk-127512",
