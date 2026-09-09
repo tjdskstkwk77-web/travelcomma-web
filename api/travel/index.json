@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-09T05:39:49",
+  "generatedAt": "2026-09-10T05:40:15",
   "source": "공개 관광 데이터 정규화 캐시",
   "lastRun": {
-    "generatedAt": "2026-09-09T05:30:00",
+    "generatedAt": "2026-09-10T05:30:01",
     "status": "partial",
     "counts": {
       "attractions": 822,
@@ -14,8 +14,8 @@
     },
     "detailEnrichment": {
       "enabled": true,
-      "calls": 42,
-      "errors": 1448
+      "calls": 46,
+      "errors": 1444
     },
     "calls": [
       {
@@ -64,7 +64,7 @@
         "city": "인천",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 140,
+        "totalCount": 139,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -104,7 +104,7 @@
         "city": "대전",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 82,
+        "totalCount": 81,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -224,7 +224,7 @@
         "city": "부산",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 140,
+        "totalCount": 139,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -344,7 +344,7 @@
         "city": "경기",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 842,
+        "totalCount": 838,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -364,7 +364,7 @@
         "city": "경기",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 2432,
+        "totalCount": 2431,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -384,7 +384,7 @@
         "city": "강원",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 688,
+        "totalCount": 684,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -424,7 +424,7 @@
         "city": "충북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 501,
+        "totalCount": 496,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -504,7 +504,7 @@
         "city": "경북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 761,
+        "totalCount": 760,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -544,7 +544,7 @@
         "city": "경남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 740,
+        "totalCount": 736,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -564,7 +564,7 @@
         "city": "경남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 562,
+        "totalCount": 550,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -584,7 +584,7 @@
         "city": "전북",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 631,
+        "totalCount": 628,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -624,7 +624,7 @@
         "city": "전남",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 660,
+        "totalCount": 653,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -664,7 +664,7 @@
         "city": "제주",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 309,
+        "totalCount": 300,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -684,7 +684,7 @@
         "city": "제주",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 462,
+        "totalCount": 461,
         "pageNo": 1,
         "numOfRows": 50
       },
@@ -703,7 +703,7 @@
         "scope": "nationwide",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 261,
+        "totalCount": 270,
         "pageNo": 1,
         "numOfRows": 96
       },
@@ -1168,6 +1168,50 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "809596",
+        "title": "여의도샛강생태공원",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "1836254",
+        "title": "존비코올터장군상",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "758299",
+        "title": "우이동계곡",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "1606052",
+        "title": "극락사(서울)",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
       }
     ],
     "errors": [
@@ -1474,21 +1518,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "809596",
-        "title": "여의도샛강생태공원",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "1836254",
-        "title": "존비코올터장군상",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "1836254",
         "title": "존비코올터장군상",
         "error": "HTTP Error 429: Too Many Requests"
@@ -1502,21 +1532,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "758299",
-        "title": "우이동계곡",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "1606052",
-        "title": "극락사(서울)",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "1606052",
         "title": "극락사(서울)",
         "error": "HTTP Error 429: Too Many Requests"
@@ -2210,20 +2226,6 @@
       {
         "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "2795229",
-        "title": "한지생각이닥",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2795229",
-        "title": "한지생각이닥",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailCommon2",
         "contentId": "2932001",
         "title": "파라다이스시티",
         "error": "HTTP Error 429: Too Many Requests"
@@ -2275,6 +2277,20 @@
         "operation": "detailIntro2",
         "contentId": "3428156",
         "title": "국가유산 방문 캠페인 인천공항 홍보관",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailCommon2",
+        "contentId": "2603489",
+        "title": "인천대공원 반려동물 놀이터",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2603489",
+        "title": "인천대공원 반려동물 놀이터",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -2359,20 +2375,6 @@
         "operation": "detailIntro2",
         "contentId": "2758282",
         "title": "광수사",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailCommon2",
-        "contentId": "2789662",
-        "title": "동화울수변공원",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2789662",
-        "title": "동화울수변공원",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -2975,6 +2977,20 @@
         "operation": "detailIntro2",
         "contentId": "1954045",
         "title": "회덕향교",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailCommon2",
+        "contentId": "1622562",
+        "title": "취백정",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "1622562",
+        "title": "취백정",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10106,6 +10122,20 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
+        "contentId": "2755115",
+        "title": "고양 푸드앤비어페스티벌",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "2755115",
+        "title": "고양 푸드앤비어페스티벌",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
         "contentId": "3383613",
         "title": "고양행주한우 숯불구이축제",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10120,6 +10150,20 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
+        "contentId": "1100492",
+        "title": "고양호수예술축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1100492",
+        "title": "고양호수예술축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
         "contentId": "604454",
         "title": "고창모양성제",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10129,6 +10173,20 @@
         "operation": "detailIntro2",
         "contentId": "604454",
         "title": "고창모양성제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "2872215",
+        "title": "고흥유자축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "2872215",
+        "title": "고흥유자축제",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10582,6 +10640,20 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
+        "contentId": "4109305",
+        "title": "달밤에체조 부산 챌린지",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "4109305",
+        "title": "달밤에체조 부산 챌린지",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
         "contentId": "2758030",
         "title": "당진해나루황토고구마홍보판촉행사",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10694,20 +10766,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "4098740",
-        "title": "동대문구 북 페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4098740",
-        "title": "동대문구 북 페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "3380650",
         "title": "동대문페스티벌",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10773,6 +10831,20 @@
         "operation": "detailIntro2",
         "contentId": "1841539",
         "title": "마토예술제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "607417",
+        "title": "명량대첩축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "607417",
+        "title": "명량대첩축제",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10983,6 +11055,20 @@
         "operation": "detailIntro2",
         "contentId": "3492576",
         "title": "부산일러스트레이션페어V.7",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "3368584",
+        "title": "부산청년주간",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "3368584",
+        "title": "부산청년주간",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -11235,76 +11321,6 @@
         "operation": "detailIntro2",
         "contentId": "2640874",
         "title": "서울라이트 DDP 가을",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "2505657",
-        "title": "서울무형문화축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "2505657",
-        "title": "서울무형문화축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "3544886",
-        "title": "서울어텀페스타 개막행사",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3544886",
-        "title": "서울어텀페스타 개막행사",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "3359644",
-        "title": "석계역 달빛야시장",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3359644",
-        "title": "석계역 달빛야시장",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "1718491",
-        "title": "설악문화제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "1718491",
-        "title": "설악문화제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "4102649",
-        "title": "섬유기획전 《안식의 결 Texture of Rest》",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4102649",
-        "title": "섬유기획전 《안식의 결 Texture of Rest》",
         "error": "HTTP Error 429: Too Many Requests"
       }
     ],
@@ -12946,14 +12962,25 @@
       "mapX": "126.9219608556",
       "mapY": "37.5187726724",
       "image": "http://tong.visitkorea.or.kr/cms/resource/74/3569374_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "여의도샛강생태공원 02-3780-0570",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-809596/"
     },
     {
@@ -12973,14 +13000,25 @@
       "mapX": "127.0888336152",
       "mapY": "37.5516468495",
       "image": "http://tong.visitkorea.or.kr/cms/resource/79/3569079_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "서울지방보훈청 1577-0606",
+        "restdate": "연중무휴",
+        "usetime": "05:00~22:00",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1836254/"
     },
     {
@@ -13000,14 +13038,23 @@
       "mapX": "127.0076182199",
       "mapY": "37.6694622455",
       "image": "http://tong.visitkorea.or.kr/cms/resource/54/3568554_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "북한산국립공원 우이분소 02-997-8365",
+        "restdate": "연중무휴"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-758299/"
     },
     {
@@ -13027,14 +13074,25 @@
       "mapX": "127.1132965420",
       "mapY": "37.6047522315",
       "image": "http://tong.visitkorea.or.kr/cms/resource/09/3568509_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "02-434-1717",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "서울 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-seoul-1606052/"
     },
     {
@@ -14361,33 +14419,6 @@
       "articlePath": "/tourapi/attractions/attractions-incheon-2783141/"
     },
     {
-      "slug": "attractions-incheon-2795229",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2795229",
-      "contentTypeId": "12",
-      "title": "한지생각이닥",
-      "name": "한지생각이닥",
-      "city": "인천",
-      "profileSlug": "incheon",
-      "region": "인천",
-      "address": "인천광역시 제물포구 우현로35번길 14-1 (신포동) 1층",
-      "tel": "",
-      "mapX": "126.6262086110",
-      "mapY": "37.4706813435",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/05/3442105_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-incheon-2795229/"
-    },
-    {
       "slug": "attractions-incheon-2932001",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -14494,6 +14525,33 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-incheon-3428156/"
+    },
+    {
+      "slug": "attractions-incheon-2603489",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2603489",
+      "contentTypeId": "12",
+      "title": "인천대공원 반려동물 놀이터",
+      "name": "인천대공원 반려동물 놀이터",
+      "city": "인천",
+      "profileSlug": "incheon",
+      "region": "인천",
+      "address": "인천광역시 남동구 무네미로 236 인천대공원 내(제 1주차장 축구장 뒤편)",
+      "tel": "",
+      "mapX": "126.7493033010",
+      "mapY": "37.4577461335",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/51/3590851_image2_1.jpg",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-incheon-2603489/"
     },
     {
       "slug": "attractions-daejeon-126838",
@@ -14656,33 +14714,6 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-daejeon-2758282/"
-    },
-    {
-      "slug": "attractions-daejeon-2789662",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2789662",
-      "contentTypeId": "12",
-      "title": "동화울수변공원",
-      "name": "동화울수변공원",
-      "city": "대전",
-      "profileSlug": "daejeon",
-      "region": "대전",
-      "address": "대전광역시 유성구 관평동",
-      "tel": "",
-      "mapX": "127.3946179292",
-      "mapY": "36.4246461906",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/49/3564849_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "대전 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-daejeon-2789662/"
     },
     {
       "slug": "attractions-daejeon-2775510",
@@ -15844,6 +15875,33 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-daejeon-1954045/"
+    },
+    {
+      "slug": "attractions-daejeon-1622562",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "1622562",
+      "contentTypeId": "12",
+      "title": "취백정",
+      "name": "취백정",
+      "city": "대전",
+      "profileSlug": "daejeon",
+      "region": "대전",
+      "address": "대전광역시 대덕구 대청로526번길 45-24",
+      "tel": "",
+      "mapX": "127.4714265378",
+      "mapY": "36.4679370467",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/83/3033183_image2_1.JPG",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "대전 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-daejeon-1622562/"
     },
     {
       "slug": "attractions-daegu-126133",
@@ -21442,28 +21500,6 @@
       "articlePath": "/tourapi/attractions/attractions-gyeonggi-2757536/"
     },
     {
-      "slug": "attractions-gyeonggi-604009",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "604009",
-      "contentTypeId": "12",
-      "title": "쁘띠프랑스",
-      "name": "쁘띠프랑스",
-      "city": "경기",
-      "profileSlug": "gyeonggi",
-      "region": "경기",
-      "address": "경기도 가평군 청평면 호반로 1063",
-      "tel": "",
-      "mapX": "127.4903145832",
-      "mapY": "37.7153712493",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/15/3423715_image2_1.jpg",
-      "description": "경기 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-gyeonggi-604009/"
-    },
-    {
       "slug": "attractions-gyeonggi-128542",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -22078,6 +22114,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-gyeonggi-2732350/"
+    },
+    {
+      "slug": "attractions-gyeonggi-2732218",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2732218",
+      "contentTypeId": "12",
+      "title": "용인미르스타디움(용인시민체육공원)",
+      "name": "용인미르스타디움(용인시민체육공원)",
+      "city": "경기",
+      "profileSlug": "gyeonggi",
+      "region": "경기",
+      "address": "경기도 용인시 처인구 동백죽전대로 61 (삼가동)",
+      "tel": "",
+      "mapX": "127.1651741040",
+      "mapY": "37.2496832314",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/54/3566754_image2_1.jpg",
+      "description": "경기 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-gyeonggi-2732218/"
     },
     {
       "slug": "attractions-gangwon-2735607",
@@ -23488,28 +23546,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungbuk-2606955/"
     },
     {
-      "slug": "attractions-chungbuk-2789669",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2789669",
-      "contentTypeId": "12",
-      "title": "대흥사(단양)",
-      "name": "대흥사(단양)",
-      "city": "충북",
-      "profileSlug": "chungbuk",
-      "region": "충북",
-      "address": "충청북도 단양군 대강면 황정산로 423",
-      "tel": "",
-      "mapX": "128.3484926956",
-      "mapY": "36.8565863130",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/44/3582144_image2_1.jpg",
-      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungbuk-2789669/"
-    },
-    {
       "slug": "attractions-chungbuk-2714802",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -24278,6 +24314,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungbuk-1626555/"
+    },
+    {
+      "slug": "attractions-chungbuk-125869",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "125869",
+      "contentTypeId": "12",
+      "title": "괴산호",
+      "name": "괴산호",
+      "city": "충북",
+      "profileSlug": "chungbuk",
+      "region": "충북",
+      "address": "충청북도 괴산군 칠성면",
+      "tel": "",
+      "mapX": "127.8404160535",
+      "mapY": "36.7555274086",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/37/3571237_image2_1.jpg",
+      "description": "충북 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungbuk-125869/"
     },
     {
       "slug": "attractions-chungnam-525648",
@@ -30418,28 +30476,6 @@
       "articlePath": "/tourapi/attractions/attractions-jeju-1895633/"
     },
     {
-      "slug": "attractions-jeju-2789652",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2789652",
-      "contentTypeId": "12",
-      "title": "순례자의 교회",
-      "name": "순례자의 교회",
-      "city": "제주",
-      "profileSlug": "jeju",
-      "region": "제주",
-      "address": "제주특별자치도 제주시 한경면 일주서로 3960-24",
-      "tel": "",
-      "mapX": "126.1805486613",
-      "mapY": "33.3198309570",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/52/3585352_image2_1.jpg",
-      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-jeju-2789652/"
-    },
-    {
       "slug": "attractions-jeju-2778897",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -30836,28 +30872,6 @@
       "articlePath": "/tourapi/attractions/attractions-jeju-2723689/"
     },
     {
-      "slug": "attractions-jeju-2765237",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2765237",
-      "contentTypeId": "12",
-      "title": "송악산전망대",
-      "name": "송악산전망대",
-      "city": "제주",
-      "profileSlug": "jeju",
-      "region": "제주",
-      "address": "제주특별자치도 서귀포시 대정읍 상모리 2-13",
-      "tel": "",
-      "mapX": "126.2943831374",
-      "mapY": "33.1981045181",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/64/3400264_image2_1.jpg",
-      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-jeju-2765237/"
-    },
-    {
       "slug": "attractions-jeju-128330",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -30878,6 +30892,50 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-jeju-128330/"
+    },
+    {
+      "slug": "attractions-jeju-128326",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "128326",
+      "contentTypeId": "12",
+      "title": "신풍리체험휴양마을",
+      "name": "신풍리체험휴양마을",
+      "city": "제주",
+      "profileSlug": "jeju",
+      "region": "제주",
+      "address": "제주특별자치도 서귀포시 성산읍 신풍하동로 39",
+      "tel": "",
+      "mapX": "126.8405571105",
+      "mapY": "33.3619201078",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/30/3401530_image2_1.jpg",
+      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-jeju-128326/"
+    },
+    {
+      "slug": "attractions-jeju-2663244",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2663244",
+      "contentTypeId": "12",
+      "title": "방주교회",
+      "name": "방주교회",
+      "city": "제주",
+      "profileSlug": "jeju",
+      "region": "제주",
+      "address": "제주특별자치도 서귀포시 안덕면 산록남로762번길 113",
+      "tel": "",
+      "mapX": "126.3877920933",
+      "mapY": "33.3051886051",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/71/3400771_image2_1.jpg",
+      "description": "제주 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-jeju-2663244/"
     },
     {
       "slug": "courses-incheon-2987504",
@@ -47547,28 +47605,6 @@
       "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2923808/"
     },
     {
-      "slug": "restaurants-gyeongnam-2915070",
-      "type": "restaurants",
-      "typeLabel": "맛집·카페",
-      "category": "food-cafe",
-      "contentId": "2915070",
-      "contentTypeId": "39",
-      "title": "유경식당 와현본점",
-      "name": "유경식당 와현본점",
-      "city": "경남",
-      "profileSlug": "gyeongnam",
-      "region": "경남",
-      "address": "경상남도 거제시 와현로 231",
-      "tel": "",
-      "mapX": "128.7155367507",
-      "mapY": "34.8019533634",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/66/2915066_image2_1.jpg",
-      "description": "경남 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2915070/"
-    },
-    {
       "slug": "restaurants-gyeongnam-2792700",
       "type": "restaurants",
       "typeLabel": "맛집·카페",
@@ -48601,6 +48637,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2785279/"
+    },
+    {
+      "slug": "restaurants-gyeongnam-2785273",
+      "type": "restaurants",
+      "typeLabel": "맛집·카페",
+      "category": "food-cafe",
+      "contentId": "2785273",
+      "contentTypeId": "39",
+      "title": "카페쿠",
+      "name": "카페쿠",
+      "city": "경남",
+      "profileSlug": "gyeongnam",
+      "region": "경남",
+      "address": "경상남도 창원시 마산합포구 구산면 해양관광로 1767",
+      "tel": "",
+      "mapX": "128.5655675447",
+      "mapY": "35.0746618150",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/85/2785285_image2_1.jpg",
+      "description": "경남 여행에서 함께 확인할 맛집·카페 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/restaurants/restaurants-gyeongnam-2785273/"
     },
     {
       "slug": "restaurants-jeonbuk-133561",
