@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:40:15",
+  "generatedAt": "2026-09-11T05:49:33",
   "kind": "lodgings",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 501,
@@ -5647,28 +5647,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-gangwon-2907760/"
     },
     {
-      "slug": "lodgings-gangwon-2907740",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "2907740",
-      "contentTypeId": "32",
-      "title": "남이섬 설리조트",
-      "name": "남이섬 설리조트",
-      "city": "강원",
-      "profileSlug": "gangwon",
-      "region": "강원",
-      "address": "강원특별자치도 춘천시 서백길 707-4",
-      "tel": "",
-      "mapX": "127.5822871919",
-      "mapY": "37.7958524789",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/29/2907729_image2_1.jpg",
-      "description": "강원 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-gangwon-2907740/"
-    },
-    {
       "slug": "lodgings-gangwon-2907697",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -6239,6 +6217,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/lodgings/lodgings-gangwon-2801323/"
+    },
+    {
+      "slug": "lodgings-gangwon-2801131",
+      "type": "lodgings",
+      "typeLabel": "호텔·숙소",
+      "category": "hotels",
+      "contentId": "2801131",
+      "contentTypeId": "32",
+      "title": "산마을풍경",
+      "name": "산마을풍경",
+      "city": "강원",
+      "profileSlug": "gangwon",
+      "region": "강원",
+      "address": "강원특별자치도 평창군 봉평면 흥정계곡4길 233-9",
+      "tel": "",
+      "mapX": "128.3084086928",
+      "mapY": "37.6605373536",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/11/2801111_image2_1.JPG",
+      "description": "강원 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/lodgings/lodgings-gangwon-2801131/"
     },
     {
       "slug": "lodgings-chungbuk-397744",
@@ -11587,28 +11587,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-jeju-977101/"
     },
     {
-      "slug": "lodgings-jeju-137476",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "137476",
-      "contentTypeId": "32",
-      "title": "토비스콘도 제주",
-      "name": "토비스콘도 제주",
-      "city": "제주",
-      "profileSlug": "jeju",
-      "region": "제주",
-      "address": "제주특별자치도 제주시 애월읍 애월로1길 8",
-      "tel": "",
-      "mapX": "126.3117312768",
-      "mapY": "33.4631615996",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/08/2650208_image2_1.jpg",
-      "description": "제주 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-jeju-137476/"
-    },
-    {
       "slug": "lodgings-jeju-733540",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -12025,6 +12003,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/lodgings/lodgings-jeju-2699863/"
+    },
+    {
+      "slug": "lodgings-jeju-2626708",
+      "type": "lodgings",
+      "typeLabel": "호텔·숙소",
+      "category": "hotels",
+      "contentId": "2626708",
+      "contentTypeId": "32",
+      "title": "해성파크텔",
+      "name": "해성파크텔",
+      "city": "제주",
+      "profileSlug": "jeju",
+      "region": "제주",
+      "address": "제주특별자치도 서귀포시 천제연로 158-4 (중문동)",
+      "tel": "",
+      "mapX": "126.4213570284",
+      "mapY": "33.2523116402",
+      "image": "",
+      "description": "제주 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/lodgings/lodgings-jeju-2626708/"
     }
   ]
 }
