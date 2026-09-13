@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:42:53",
+  "generatedAt": "2026-09-14T06:08:12",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -2106,14 +2106,27 @@
       "mapX": "126.5560534176",
       "mapY": "37.4882252908",
       "image": "http://tong.visitkorea.or.kr/cms/resource/98/3396098_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "032-760-7114",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능",
+        "chkbabycarriage": "없음",
+        "chkcreditcard": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2769652/"
     },
     {
@@ -2133,14 +2146,24 @@
       "mapX": "126.4249153348",
       "mapY": "37.3893400446",
       "image": "http://tong.visitkorea.or.kr/cms/resource/95/3532995_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "도시공원과 산림팀 032-760-7770",
+        "restdate": "연중무휴",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-126797/"
     },
     {

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-13T05:42:53",
+  "generatedAt": "2026-09-14T06:08:12",
   "source": "공개 관광 데이터 정규화 캐시",
   "lastRun": {
-    "generatedAt": "2026-09-13T05:33:04",
+    "generatedAt": "2026-09-14T05:30:04",
     "status": "partial",
     "counts": {
       "attractions": 822,
@@ -14,8 +14,8 @@
     },
     "detailEnrichment": {
       "enabled": true,
-      "calls": 55,
-      "errors": 1435
+      "calls": 57,
+      "errors": 1433
     },
     "calls": [
       {
@@ -703,7 +703,7 @@
         "scope": "nationwide",
         "resultCode": "0000",
         "resultMsg": "OK",
-        "totalCount": 283,
+        "totalCount": 264,
         "pageNo": 1,
         "numOfRows": 96
       },
@@ -1311,6 +1311,28 @@
         "totalCount": 1,
         "pageNo": 1,
         "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "2769652",
+        "title": "하늘체육공원",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
+      },
+      {
+        "type": "attractions",
+        "operation": "detailIntro2",
+        "contentId": "126797",
+        "title": "무의도",
+        "resultCode": "0000",
+        "resultMsg": "OK",
+        "totalCount": 1,
+        "pageNo": 1,
+        "numOfRows": 1
       }
     ],
     "errors": [
@@ -1708,21 +1730,7 @@
       },
       {
         "type": "attractions",
-        "operation": "detailIntro2",
-        "contentId": "2769652",
-        "title": "하늘체육공원",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
         "operation": "detailCommon2",
-        "contentId": "126797",
-        "title": "무의도",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "attractions",
-        "operation": "detailIntro2",
         "contentId": "126797",
         "title": "무의도",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10144,20 +10152,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "2755115",
-        "title": "고양 푸드앤비어페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "2755115",
-        "title": "고양 푸드앤비어페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "3383613",
         "title": "고양행주한우 숯불구이축제",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10251,20 +10245,6 @@
         "operation": "detailIntro2",
         "contentId": "2612274",
         "title": "관악강감찬축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "3333149",
-        "title": "광명마당극축제X대한민국마당극축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3333149",
-        "title": "광명마당극축제X대한민국마당극축제",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10648,20 +10628,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "3520705",
-        "title": "노원수제맥주축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3520705",
-        "title": "노원수제맥주축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "4109305",
         "title": "달밤에체조 부산 챌린지",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10727,34 +10693,6 @@
         "operation": "detailIntro2",
         "contentId": "3113001",
         "title": "대전 동구동락 축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "4104786",
-        "title": "대전 중구 국가유산야행",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "4104786",
-        "title": "대전 중구 국가유산야행",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "3532372",
-        "title": "대전 중구 북페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3532372",
-        "title": "대전 중구 북페스티벌",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10886,20 +10824,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "607417",
-        "title": "명량대첩축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "607417",
-        "title": "명량대첩축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "574014",
         "title": "목포항구축제",
         "error": "HTTP Error 429: Too Many Requests"
@@ -10909,20 +10833,6 @@
         "operation": "detailIntro2",
         "contentId": "574014",
         "title": "목포항구축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "1071143",
-        "title": "무창포 신비의바닷길축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "1071143",
-        "title": "무창포 신비의바닷길축제",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -10965,20 +10875,6 @@
         "operation": "detailIntro2",
         "contentId": "2598331",
         "title": "문화가 흐르는 서울광장",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
-        "contentId": "3535742",
-        "title": "미추홀미디어문화축제",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "3535742",
-        "title": "미추홀미디어문화축제",
         "error": "HTTP Error 429: Too Many Requests"
       },
       {
@@ -11222,20 +11118,6 @@
       {
         "type": "festivals",
         "operation": "detailCommon2",
-        "contentId": "1409287",
-        "title": "삼토 페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailIntro2",
-        "contentId": "1409287",
-        "title": "삼토 페스티벌",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "type": "festivals",
-        "operation": "detailCommon2",
         "contentId": "2434545",
         "title": "새연교 주말 문화공연 '금토금토 새연쇼'",
         "error": "HTTP Error 429: Too Many Requests"
@@ -11357,6 +11239,132 @@
         "operation": "detailIntro2",
         "contentId": "1018469",
         "title": "서울국제작가축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "3544886",
+        "title": "서울어텀페스타 개막행사",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "3544886",
+        "title": "서울어텀페스타 개막행사",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "3359644",
+        "title": "석계역 달빛야시장",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "3359644",
+        "title": "석계역 달빛야시장",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "1718491",
+        "title": "설악문화제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1718491",
+        "title": "설악문화제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "4102649",
+        "title": "섬유기획전 《안식의 결 Texture of Rest》",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "4102649",
+        "title": "섬유기획전 《안식의 결 Texture of Rest》",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "3501104",
+        "title": "성남동 커피페스티벌",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "3501104",
+        "title": "성남동 커피페스티벌",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "2756476",
+        "title": "세계유산 조선왕릉축전",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "2756476",
+        "title": "세계유산 조선왕릉축전",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "4109448",
+        "title": "세미원 수련문화제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "4109448",
+        "title": "세미원 수련문화제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "1344850",
+        "title": "세종대왕과 초정약수축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1344850",
+        "title": "세종대왕과 초정약수축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailCommon2",
+        "contentId": "1849007",
+        "title": "세종한글축제",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "type": "festivals",
+        "operation": "detailIntro2",
+        "contentId": "1849007",
+        "title": "세종한글축제",
         "error": "HTTP Error 429: Too Many Requests"
       }
     ],
@@ -13498,14 +13506,27 @@
       "mapX": "126.5560534176",
       "mapY": "37.4882252908",
       "image": "http://tong.visitkorea.or.kr/cms/resource/98/3396098_image2_1.JPG",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "032-760-7114",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능",
+        "chkbabycarriage": "없음",
+        "chkcreditcard": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2769652/"
     },
     {
@@ -13525,14 +13546,24 @@
       "mapX": "126.4249153348",
       "mapY": "37.3893400446",
       "image": "http://tong.visitkorea.or.kr/cms/resource/95/3532995_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "도시공원과 산림팀 032-760-7770",
+        "restdate": "연중무휴",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-126797/"
     },
     {
