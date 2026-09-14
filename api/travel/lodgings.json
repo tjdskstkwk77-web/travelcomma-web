@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:08:12",
+  "generatedAt": "2026-09-15T05:40:26",
   "kind": "lodgings",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 501,
@@ -2948,33 +2948,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-busan-3016434/"
     },
     {
-      "slug": "lodgings-busan-2925797",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "2925797",
-      "contentTypeId": "32",
-      "title": "엘시티 레지던스",
-      "name": "엘시티 레지던스",
-      "city": "부산",
-      "profileSlug": "busan",
-      "region": "부산",
-      "address": "부산광역시 해운대구 달맞이길 30 (중동, 엘시티)",
-      "tel": "",
-      "mapX": "129.1683126815",
-      "mapY": "35.1619491796",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/57/2928957_image2_1.jpg",
-      "detailQuality": [
-        "address",
-        "mapX",
-        "mapY"
-      ],
-      "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-busan-2925797/"
-    },
-    {
       "slug": "lodgings-busan-2701011",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -3918,6 +3891,33 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/lodgings/lodgings-busan-2607423/"
+    },
+    {
+      "slug": "lodgings-busan-3532572",
+      "type": "lodgings",
+      "typeLabel": "호텔·숙소",
+      "category": "hotels",
+      "contentId": "3532572",
+      "contentTypeId": "32",
+      "title": "송정담다펜션",
+      "name": "송정담다펜션",
+      "city": "부산",
+      "profileSlug": "busan",
+      "region": "부산",
+      "address": "부산광역시 해운대구 송정중앙로6번길 126 (송정동) 3,4,5층",
+      "tel": "",
+      "mapX": "129.1981457361",
+      "mapY": "35.1787728490",
+      "image": "",
+      "detailQuality": [
+        "address",
+        "mapX",
+        "mapY"
+      ],
+      "description": "부산 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/lodgings/lodgings-busan-3532572/"
     },
     {
       "slug": "lodgings-ulsan-2571095",
@@ -10421,28 +10421,6 @@
       "articlePath": "/tourapi/lodgings/lodgings-jeonnam-2593515/"
     },
     {
-      "slug": "lodgings-jeonnam-2594831",
-      "type": "lodgings",
-      "typeLabel": "호텔·숙소",
-      "category": "hotels",
-      "contentId": "2594831",
-      "contentTypeId": "32",
-      "title": "양참사댁(양동호 가옥 / 한옥152)",
-      "name": "양참사댁(양동호 가옥 / 한옥152)",
-      "city": "전남",
-      "profileSlug": "jeonnam",
-      "region": "전남",
-      "address": "전남광주통합특별시 화순군 도곡면 달아실길 24",
-      "tel": "",
-      "mapX": "126.9114233480",
-      "mapY": "34.9843847639",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/23/2594823_image2_1.jpg",
-      "description": "전남 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/lodgings/lodgings-jeonnam-2594831/"
-    },
-    {
       "slug": "lodgings-jeonnam-2594978",
       "type": "lodgings",
       "typeLabel": "호텔·숙소",
@@ -11145,6 +11123,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/lodgings/lodgings-jeonnam-2583856/"
+    },
+    {
+      "slug": "lodgings-jeonnam-2592543",
+      "type": "lodgings",
+      "typeLabel": "호텔·숙소",
+      "category": "hotels",
+      "contentId": "2592543",
+      "contentTypeId": "32",
+      "title": "등대게스트하우스",
+      "name": "등대게스트하우스",
+      "city": "전남",
+      "profileSlug": "jeonnam",
+      "region": "전남",
+      "address": "전남광주통합특별시 목포시 노적봉길 6 3F",
+      "tel": "",
+      "mapX": "126.3848412502",
+      "mapY": "34.7901923440",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/52/2686452_image2_1.jpg",
+      "description": "전남 여행에서 함께 확인할 호텔·숙소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/lodgings/lodgings-jeonnam-2592543/"
     },
     {
       "slug": "lodgings-jeju-733613",
