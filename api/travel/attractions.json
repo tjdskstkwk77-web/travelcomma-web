@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:40:26",
+  "generatedAt": "2026-09-16T05:40:06",
   "kind": "attractions",
   "source": "공개 관광 데이터 정규화 캐시",
   "total": 822,
@@ -2378,14 +2378,25 @@
       "mapX": "126.6669179180",
       "mapY": "37.6014029692",
       "image": "http://tong.visitkorea.or.kr/cms/resource/43/3524543_image2_1.jpg",
+      "detail": {
+        "heritage1": "0",
+        "heritage2": "0",
+        "heritage3": "0",
+        "infocenter": "032-560-4804",
+        "restdate": "연중무휴",
+        "usetime": "상시 개방",
+        "parking": "가능"
+      },
       "detailQuality": [
         "address",
         "mapX",
-        "mapY"
+        "mapY",
+        "detail"
       ],
       "description": "인천 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "sourceIntroUrl": "https://apis.data.go.kr/B551011/KorService2/detailIntro2",
       "articlePath": "/tourapi/attractions/attractions-incheon-2767603/"
     },
     {
@@ -10598,28 +10609,6 @@
       "articlePath": "/tourapi/attractions/attractions-gyeonggi-1624617/"
     },
     {
-      "slug": "attractions-gyeonggi-125409",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "125409",
-      "contentTypeId": "12",
-      "title": "국립 유명산자연휴양림",
-      "name": "국립 유명산자연휴양림",
-      "city": "경기",
-      "profileSlug": "gyeonggi",
-      "region": "경기",
-      "address": "경기도 가평군 설악면 유명산길 79-53",
-      "tel": "",
-      "mapX": "127.4914680287",
-      "mapY": "37.5932493406",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/75/3077275_image2_1.jpg",
-      "description": "경기 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-gyeonggi-125409/"
-    },
-    {
       "slug": "attractions-gyeonggi-560481",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -10970,6 +10959,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-gyeonggi-2612877/"
+    },
+    {
+      "slug": "attractions-gyeonggi-2751282",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "2751282",
+      "contentTypeId": "12",
+      "title": "소래산 내원사",
+      "name": "소래산 내원사",
+      "city": "경기",
+      "profileSlug": "gyeonggi",
+      "region": "경기",
+      "address": "경기도 시흥시 서해안로 1541-15 (신천동)",
+      "tel": "",
+      "mapX": "126.7819339968",
+      "mapY": "37.4456925561",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/82/3563482_image2_1.jpg",
+      "description": "경기 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-gyeonggi-2751282/"
     },
     {
       "slug": "attractions-gangwon-2735607",
@@ -13414,28 +13425,6 @@
       "articlePath": "/tourapi/attractions/attractions-chungnam-2615570/"
     },
     {
-      "slug": "attractions-chungnam-2783017",
-      "type": "attractions",
-      "typeLabel": "관광지·명소",
-      "category": "attractions",
-      "contentId": "2783017",
-      "contentTypeId": "12",
-      "title": "대천항유람선",
-      "name": "대천항유람선",
-      "city": "충남",
-      "profileSlug": "chungnam",
-      "region": "충남",
-      "address": "충청남도 보령시 대천항중앙길 46 (신흑동)",
-      "tel": "",
-      "mapX": "126.5095832891",
-      "mapY": "36.3270502775",
-      "image": "http://tong.visitkorea.or.kr/cms/resource/45/3577245_image2_1.jpg",
-      "description": "충남 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
-      "source": "TourAPI KorService2/searchKeyword2",
-      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
-      "articlePath": "/tourapi/attractions/attractions-chungnam-2783017/"
-    },
-    {
       "slug": "attractions-chungnam-128335",
       "type": "attractions",
       "typeLabel": "관광지·명소",
@@ -14270,6 +14259,28 @@
       "source": "TourAPI KorService2/searchKeyword2",
       "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
       "articlePath": "/tourapi/attractions/attractions-chungnam-1626846/"
+    },
+    {
+      "slug": "attractions-chungnam-126987",
+      "type": "attractions",
+      "typeLabel": "관광지·명소",
+      "category": "attractions",
+      "contentId": "126987",
+      "contentTypeId": "12",
+      "title": "영남루(천안)",
+      "name": "영남루(천안)",
+      "city": "충남",
+      "profileSlug": "chungnam",
+      "region": "충남",
+      "address": "충청남도 천안시 동남구 충절로 410",
+      "tel": "",
+      "mapX": "127.1691533452",
+      "mapY": "36.7840564806",
+      "image": "http://tong.visitkorea.or.kr/cms/resource/45/3570545_image2_1.jpg",
+      "description": "충남 여행에서 함께 확인할 관광지·명소 TourAPI 데이터입니다.",
+      "source": "TourAPI KorService2/searchKeyword2",
+      "sourceUrl": "https://apis.data.go.kr/B551011/KorService2/areaBasedList2",
+      "articlePath": "/tourapi/attractions/attractions-chungnam-126987/"
     },
     {
       "slug": "attractions-gyeongbuk-136208",
